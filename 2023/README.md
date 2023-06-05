@@ -1,0 +1,144 @@
+# 2023 List
+
+---
+## CVE-2023-33782 ()
+> 
+- [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33782">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33782">
+
+---
+## CVE-2023-33781 ()
+> 
+- [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
+
+---
+## CVE-2023-33410 ()
+> 
+- [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33410">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33410">
+
+---
+## CVE-2023-33409 ()
+> 
+- [Thirukrishnan/CVE-2023-33409](https://github.com/Thirukrishnan/CVE-2023-33409)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33409">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33409">
+
+---
+## CVE-2023-33408 ()
+> 
+- [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
+
+---
+## CVE-2023-33246 (2023-05-24T15:15:00)
+> For RocketMQ versions 5.1.0 and below, under certain conditions, there is a risk of remote command execution. 
+
+Several components of RocketMQ, including NameServer, Broker, and Controller, are leaked on the extranet and lack permission verification, an attacker can exploit this vulnerability by using the update configuration function to execute commands as the system users that RocketMQ is running as. Additionally, an attacker can achieve the same effect by forging the RocketMQ protocol content. 
+
+To prevent these attacks, users are recommended to upgrade to version 5.1.1 or above for using RocketMQ 5.x or 4.9.6 or above for using RocketMQ 4.x .
+
+
+
+
+
+
+
+
+
+
+
+
+- [Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">
+- [Le1a/CVE-2023-33246](https://github.com/Le1a/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-33246">
+- [CKevens/CVE-2023-33246](https://github.com/CKevens/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33246">
+- [SuperZero/CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/SuperZero/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/SuperZero/CVE-2023-33246">
+- [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy)	<img alt="forks" src="https://img.shields.io/github/forks/yizhimanpadewoniu/CVE-2023-33246-Copy">	<img alt="stars" src="https://img.shields.io/github/stars/yizhimanpadewoniu/CVE-2023-33246-Copy">
+- [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/I5N0rth/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/I5N0rth/CVE-2023-33246">
+
+---
+## CVE-2023-33243 ()
+> 
+- [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/CVE-2023-33243">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/CVE-2023-33243">
+
+---
+## CVE-2023-32243 (2023-05-12T08:15:00)
+> Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
+- [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32243">
+- [gbrsh/CVE-2023-32243](https://github.com/gbrsh/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-32243">
+- [thatonesecguy/Wordpress-Vulnerability-Identification-Scripts](https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts)	<img alt="forks" src="https://img.shields.io/github/forks/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts">	<img alt="stars" src="https://img.shields.io/github/stars/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts">
+- [YouGina/CVE-2023-32243](https://github.com/YouGina/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/YouGina/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/YouGina/CVE-2023-32243">
+- [manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-proof-of-concept">
+- [manavvedawala/CVE-2023-32243-POC](https://github.com/manavvedawala/CVE-2023-32243-POC)	<img alt="forks" src="https://img.shields.io/github/forks/manavvedawala/CVE-2023-32243-POC">	<img alt="stars" src="https://img.shields.io/github/stars/manavvedawala/CVE-2023-32243-POC">
+- [hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa](https://github.com/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa">
+- [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
+
+---
+## CVE-2023-31606 ()
+> 
+- [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
+
+---
+## CVE-2023-28771 (2023-04-25T02:15:00)
+> Improper error message handling in Zyxel ZyWALL/USG series firmware versions 4.60 through 4.73, VPN series firmware versions 4.60 through 5.35, USG FLEX series firmware versions 4.60 through 5.35, and ATP series firmware versions 4.60 through 5.35, which could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device.
+- [WhiteOwl-Pub/PoC-CVE-2023-28771](https://github.com/WhiteOwl-Pub/PoC-CVE-2023-28771)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-CVE-2023-28771">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-CVE-2023-28771">
+- [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
+- [DLandonHSCS/Discord-RCE](https://github.com/DLandonHSCS/Discord-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DLandonHSCS/Discord-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DLandonHSCS/Discord-RCE">
+- [BenHays142/CVE-2023-28771-PoC](https://github.com/BenHays142/CVE-2023-28771-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BenHays142/CVE-2023-28771-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BenHays142/CVE-2023-28771-PoC">
+
+---
+## CVE-2023-2825 (2023-05-26T21:15:00)
+> An issue has been discovered in GitLab CE/EE affecting only version 16.0.0. An unauthenticated malicious user can use a path traversal vulnerability to read arbitrary files on the server when an attachment exists in a public project nested within at least five groups.
+- [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
+
+---
+## CVE-2023-25690 (2023-03-07T16:15:00)
+> Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
+
+
+
+
+Configurations are affected when mod_proxy is enabled along with some form of RewriteRule
+ or ProxyPassMatch in which a non-specific pattern matches
+ some portion of the user-supplied request-target (URL) data and is then
+ re-inserted into the proxied request-target using variable 
+substitution. For example, something like:
+
+
+
+
+RewriteEngine on
+RewriteRule "^/here/(.*)" "http://example.com:8080/elsewhere?$1"; [P]
+ProxyPassReverse /here/ http://example.com:8080/
+
+
+Request splitting/smuggling could result in bypass of access controls in the proxy server, proxying unintended URLs to existing origin servers, and cache poisoning. Users are recommended to update to at least version 2.4.56 of Apache HTTP Server.
+
+
+
+- [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2023-25690-POC">
+
+---
+## CVE-2023-25136 (2023-02-03T06:15:00)
+> OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be leveraged, by an unauthenticated remote attacker in the default configuration, to jump to any location in the sshd address space. One third-party report states "remote code execution is theoretically possible."
+- [axylisdead/CVE-2023-25136_POC](https://github.com/axylisdead/CVE-2023-25136_POC)	<img alt="forks" src="https://img.shields.io/github/forks/axylisdead/CVE-2023-25136_POC">	<img alt="stars" src="https://img.shields.io/github/stars/axylisdead/CVE-2023-25136_POC">
+- [nhakobyan685/CVE-2023-25136](https://github.com/nhakobyan685/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/nhakobyan685/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/nhakobyan685/CVE-2023-25136">
+- [adhikara13/CVE-2023-25136](https://github.com/adhikara13/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-25136">
+- [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
+- [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
+- [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
+
+---
+## CVE-2023-23638 (2023-03-08T11:15:00)
+> A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache Dubbo 3.0.x version 3.0.13 and prior versions; Apache Dubbo 3.1.x version 3.1.5 and prior versions.
+- [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
+- [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
+
+---
+## CVE-2023-21839 (2023-01-18T00:15:00)
+> Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
+- [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kw3h4/CVE-2023-21839-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kw3h4/CVE-2023-21839-metasploit-scanner">
+- [RShahHSCS/Discord-0-Day-Exploit](https://github.com/RShahHSCS/Discord-0-Day-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RShahHSCS/Discord-0-Day-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RShahHSCS/Discord-0-Day-Exploit">
+- [AKuzmanHSCS/Microsoft-Exchange-RCE](https://github.com/AKuzmanHSCS/Microsoft-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AKuzmanHSCS/Microsoft-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AKuzmanHSCS/Microsoft-Exchange-RCE">
+- [gobysec/Weblogic](https://github.com/gobysec/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Weblogic">
+- [4ra1n/CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/4ra1n/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/4ra1n/CVE-2023-21839">
+- [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
+- [Firebasky/CVE-2023-21839](https://github.com/Firebasky/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Firebasky/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Firebasky/CVE-2023-21839">
+- [DXask88MA/Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/DXask88MA/Weblogic-CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/DXask88MA/Weblogic-CVE-2023-21839">
+- [fakenews2025/CVE-2023-21839](https://github.com/fakenews2025/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/fakenews2025/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/fakenews2025/CVE-2023-21839">
+- [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">

@@ -34,16 +34,14 @@ func Notice(updateItems []*Item) {
 	bot := lark.NewNotificationBot(webhook)
 	mbPost := lark.NewMsgBuffer(lark.MsgPost)
 	build := lark.NewPostBuilder()
-	cveName := ""
 	for _, item := range updateItems {
-		cveName = item.Name
 		full_name := item.FullName
 		des := item.Description
 		url := item.HtmlUrl
 		t := fmt.Sprintf("%s  [%s]\n\n", des, full_name)
 		build = build.LinkTag(t, url)
 	}
-	mbPost.Post(build.Title(fmt.Sprintf("新漏洞来了:[%s]", cveName)).Render())
+	mbPost.Post(build.Title(fmt.Sprintf("新POC来了")).Render())
 
 	_, err := bot.PostNotificationV2(mbPost.Build())
 	if err != nil {
@@ -165,9 +163,7 @@ func checkLastUpdate(queryStr string, isCVE bool, addItems *[]*Item, updateItems
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
 		// 新增后通知
-		if isCVE {
-			Notice(historyItems)
-		}
+
 	}
 	return &cveList
 }
@@ -226,6 +222,8 @@ func saveItems(addItems *[]*Item, updateItems *[]*Item) {
 			if err = WriteFile(NewJsonFilePath, byteValue); err != nil {
 				fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
 			}
+
+			Notice(*addItems)
 
 		}
 	} else {

@@ -165,7 +165,9 @@ func checkLastUpdate(queryStr string, isCVE bool, addItems *[]*Item, updateItems
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
 		// 新增后通知
-		Notice(historyItems)
+		if isCVE {
+			Notice(historyItems)
+		}
 	}
 	return &cveList
 }

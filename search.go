@@ -40,7 +40,7 @@ func Notice(updateItems []*Item) {
 		full_name := item.FullName
 		des := item.Description
 		url := item.HtmlUrl
-		t := fmt.Sprintf("%s [%s]\n\n", des, full_name)
+		t := fmt.Sprintf("%s  [%s]\n\n", des, full_name)
 		build = build.LinkTag(t, url)
 	}
 	mbPost.Post(build.Title(fmt.Sprintf("新漏洞来了:[%s]", cveName)).Render())

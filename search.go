@@ -6,7 +6,6 @@ import (
 	"github.com/go-lark/lark"
 	"github.com/sari3l/requests"
 	"log"
-	nUrl "net/url"
 	"os"
 	"reflect"
 	"regexp"
@@ -25,7 +24,7 @@ const cveQuery = "CVE-20"
 // 通知函数
 var fsToken = os.Getenv("FS_TOKEN")
 
-func Notice(updateItems *[]*Item) {
+func Notice(updateItems []*Item) {
 	if fsToken == "" {
 		log.Print("None fsToken")
 		return
@@ -36,15 +35,15 @@ func Notice(updateItems *[]*Item) {
 	mbPost := lark.NewMsgBuffer(lark.MsgPost)
 	build := lark.NewPostBuilder()
 	cveName := ""
-	for _, item := range *updateItems {
-		cveName = nUrl.QueryEscape(item.Name)
-		full_name := nUrl.QueryEscape(item.FullName)
-		des := nUrl.QueryEscape(item.Description)
-		url := nUrl.QueryEscape(item.HtmlUrl)
-		t := fmt.Sprintf("%s [%s]\n", des, full_name)
+	for _, item := range updateItems {
+		cveName = item.Name
+		full_name := item.FullName
+		des := item.Description
+		url := item.HtmlUrl
+		t := fmt.Sprintf("%s [%s]\n\n", des, full_name)
 		build = build.LinkTag(t, url)
 	}
-	mbPost.Post(build.Title(cveName).Render())
+	mbPost.Post(build.Title(fmt.Sprintf("新漏洞来了:[%s]", cveName)).Render())
 
 	_, err := bot.PostNotificationV2(mbPost.Build())
 	if err != nil {
@@ -52,25 +51,6 @@ func Notice(updateItems *[]*Item) {
 		return
 	}
 }
-
-// func Notice(updateItems *[]*Item) {
-// 	if fsToken == "" {
-// 		return
-// 	}
-// 	webhook := fmt.Sprintf("https://open.feishu.cn/open-apis/bot/v2/hook/%s", fsToken)
-
-// 	bot := lark.NewNotificationBot(webhook)
-// 	mbPost := NewMsgBuffer(MsgPost)
-
-// 	for _, item := range *updateItems {
-// 		full_name := nUrl.QueryEscape(item.fullName)
-// 		des := nUrl.QueryEscape(item.Description)
-// 		url := nUrl.QueryEscape(item.HtmlUrl)
-// 		mbPost.Post(NewPostBuilder().LinkTag(full_name, url).Render())
-
-// 	}
-// 	bot.PostNotificationV2(mbPost.Build())
-// }
 
 // 以下勿动
 
@@ -94,7 +74,7 @@ func main() {
 		for _, cveId := range *cveList {
 			cveIdMap[cveId] = true
 		}
-		for cveId, _ := range cveIdMap {
+		for cveId := range cveIdMap {
 			_ = checkLastUpdate(cveId, true, &addItems, &updateItems)
 		}
 	}
@@ -184,6 +164,8 @@ func checkLastUpdate(queryStr string, isCVE bool, addItems *[]*Item, updateItems
 		if err = WriteFile(cveFilePath, byteValue); err != nil {
 			fmt.Println(fmt.Errorf("[!] 写入 %s 内容失败, %s", cveFilePath, err))
 		}
+		// 新增后通知
+		Notice(historyItems)
 	}
 	return &cveList
 }
@@ -242,8 +224,10 @@ func saveItems(addItems *[]*Item, updateItems *[]*Item) {
 			if err = WriteFile(NewJsonFilePath, byteValue); err != nil {
 				fmt.Println(fmt.Errorf("[!] 写入新增内容失败, %s", err))
 			}
-			// 新增后通知
-			Notice(addItems)
+
 		}
+	} else {
+		log.Print("None addtiems")
 	}
+
 }

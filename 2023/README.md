@@ -92,6 +92,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
 - [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2023-2825-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2023-2825-Gitlab">
 - [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/yuimarudev/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/yuimarudev/CVE-2023-2825">
+- [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
 
 ---
 ## CVE-2023-2650 (2023-05-30T14:15:00)

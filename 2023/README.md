@@ -114,6 +114,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 
 
 - [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2023-25690-POC">
+- [tbachvarova/linux-apache-fix-mod_rewrite-spaceInURL](https://github.com/tbachvarova/linux-apache-fix-mod_rewrite-spaceInURL)	<img alt="forks" src="https://img.shields.io/github/forks/tbachvarova/linux-apache-fix-mod_rewrite-spaceInURL">	<img alt="stars" src="https://img.shields.io/github/stars/tbachvarova/linux-apache-fix-mod_rewrite-spaceInURL">
 
 ---
 ## CVE-2023-25136 (2023-02-03T06:15:00)

@@ -27,6 +27,7 @@ var fsToken = os.Getenv("FS_TOKEN")
 
 func Notice(updateItems *[]*Item) {
 	if fsToken == "" {
+		log.Print("None fsToken")
 		return
 	}
 	webhook := fmt.Sprintf("https://open.feishu.cn/open-apis/bot/v2/hook/%s", fsToken)

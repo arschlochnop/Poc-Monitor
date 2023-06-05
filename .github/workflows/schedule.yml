@@ -22,7 +22,7 @@ jobs:
       
       - name: Run search
         env:
-            FS_TOKEN: ${{secrets.FS_TOKEN}}
+          FS_TOKEN: ${{secrets.FS_TOKEN}}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"

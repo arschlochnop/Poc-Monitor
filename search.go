@@ -3,8 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/sari3l/notify/notifier/bark"
+	"github.com/go-lark/lark"
 	"github.com/sari3l/requests"
+	"log"
 	nUrl "net/url"
 	"os"
 	"reflect"
@@ -22,36 +23,53 @@ const enableRelatedQuery = true
 const cveQuery = "CVE-20"
 
 // 通知函数
-var barkToken = os.Getenv("barkToken")
-var barkGroup = "Poc-Monitor"
-var barkMsgLimit = 150
+var fsToken = os.Getenv("FS_TOKEN")
 
 func Notice(updateItems *[]*Item) {
+	if fsToken == "" {
+		return
+	}
+	webhook := fmt.Sprintf("https://open.feishu.cn/open-apis/bot/v2/hook/%s", fsToken)
+
+	bot := lark.NewNotificationBot(webhook)
+	mbPost := lark.NewMsgBuffer(lark.MsgPost)
+	build := lark.NewPostBuilder()
+	cveName := ""
 	for _, item := range *updateItems {
-		name := nUrl.QueryEscape(item.Name)
-		content := nUrl.QueryEscape(item.Description)
-		if len(content) >= barkMsgLimit {
-			nBarkMsgLimit := barkMsgLimit
-			// 防止%截断
-			if content[barkMsgLimit-1] == '%' {
-				nBarkMsgLimit = barkMsgLimit + 2
-			} else if content[barkMsgLimit-2] == '%' {
-				nBarkMsgLimit = barkMsgLimit + 1
-			}
-			content = content[:nBarkMsgLimit] + "..."
-		}
-		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
-		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
-		option := bark.Option{Webhook: webhook}
-		option.Url = &item.HtmlUrl
-		option.Group = &barkGroup
-		err := option.ToNotifier().Send(nil)
-		if err != nil {
-			fmt.Printf("[!] 发送失败 %s %s\n", err, webhook)
-		}
-		fmt.Printf("[>] 新增 %s\n", webhook)
+		cveName = nUrl.QueryEscape(item.Name)
+		full_name := nUrl.QueryEscape(item.FullName)
+		des := nUrl.QueryEscape(item.Description)
+		url := nUrl.QueryEscape(item.HtmlUrl)
+		t := fmt.Sprintf("%s [%s]\n", des, full_name)
+		build = build.LinkTag(t, url)
+	}
+	mbPost.Post(build.Title(cveName).Render())
+
+	_, err := bot.PostNotificationV2(mbPost.Build())
+	if err != nil {
+		log.Print(err)
+		return
 	}
 }
+
+// func Notice(updateItems *[]*Item) {
+// 	if fsToken == "" {
+// 		return
+// 	}
+// 	webhook := fmt.Sprintf("https://open.feishu.cn/open-apis/bot/v2/hook/%s", fsToken)
+
+// 	bot := lark.NewNotificationBot(webhook)
+// 	mbPost := NewMsgBuffer(MsgPost)
+
+// 	for _, item := range *updateItems {
+// 		full_name := nUrl.QueryEscape(item.fullName)
+// 		des := nUrl.QueryEscape(item.Description)
+// 		url := nUrl.QueryEscape(item.HtmlUrl)
+// 		mbPost.Post(NewPostBuilder().LinkTag(full_name, url).Render())
+
+// 	}
+// 	bot.PostNotificationV2(mbPost.Build())
+// }
 
 // 以下勿动
 

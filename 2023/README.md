@@ -95,6 +95,15 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
 
 ---
+## CVE-2023-2732 (2023-05-25T03:15:00)
+> The MStore API plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 3.9.2. This is due to insufficient verification on the user being supplied during the add listing REST API request through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the user id.
+- [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-2732">
+- [domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass)	<img alt="forks" src="https://img.shields.io/github/forks/domainhigh/CVE-2023-2732-Mass">	<img alt="stars" src="https://img.shields.io/github/stars/domainhigh/CVE-2023-2732-Mass">
+- [RandomRobbieBF/CVE-2023-2732](https://github.com/RandomRobbieBF/CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2732">
+- [Malwareman007/CVE-2023-27326](https://github.com/Malwareman007/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-27326">
+- [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
+
+---
 ## CVE-2023-2650 (2023-05-30T14:15:00)
 > Issue summary: Processing some specially crafted ASN.1 object identifiers or
 data containing them may be very slow.

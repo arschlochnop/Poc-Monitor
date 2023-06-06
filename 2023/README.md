@@ -85,8 +85,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
 
 ---
-## CVE-2023-31606 ()
-> 
+## CVE-2023-31606 (2023-06-06T17:15:00)
+> A Regular Expression Denial of Service (ReDoS) issue was discovered in the sanitize_html function of redcloth gem v4.0.0. This vulnerability allows attackers to cause a Denial of Service (DoS) via supplying a crafted payload.
 - [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
 
 ---

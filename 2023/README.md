@@ -106,6 +106,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
 
 ---
+## CVE-2023-28178 (2023-05-08T20:15:00)
+> A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.6.4, iOS 16.4 and iPadOS 16.4, macOS Ventura 13.3. An app may be able to bypass Privacy preferences
+- [ahickmansec/CVE-2023-28178-patch](https://github.com/ahickmansec/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/ahickmansec/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/ahickmansec/CVE-2023-28178-patch">
+
+---
 ## CVE-2023-2732 (2023-05-25T03:15:00)
 > The MStore API plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 3.9.2. This is due to insufficient verification on the user being supplied during the add listing REST API request through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the user id.
 - [Jenderal92/WP-CVE-2023-2732](https://github.com/Jenderal92/WP-CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-2732">

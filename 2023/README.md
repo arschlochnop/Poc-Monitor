@@ -12,6 +12,12 @@
 - [mnqazi/CVE-2023-33977](https://github.com/mnqazi/CVE-2023-33977)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-33977">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-33977">
 
 ---
+## CVE-2023-33829 (2023-05-24T21:15:00)
+> A stored cross-site scripting (XSS) vulnerability in Cloudogu GmbH SCM Manager v1.2 to v1.60 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Description text field.
+- [CKevens/CVE-2023-33829-POC](https://github.com/CKevens/CVE-2023-33829-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-33829-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-33829-POC">
+- [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
+
+---
 ## CVE-2023-33782 ()
 > 
 - [s0tr/CVE-2023-33782](https://github.com/s0tr/CVE-2023-33782)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33782">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33782">

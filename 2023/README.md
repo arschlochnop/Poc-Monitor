@@ -239,6 +239,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-23488 (2023-01-20T18:15:00)
 > The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
 - [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8)	<img alt="forks" src="https://img.shields.io/github/forks/cybfar/CVE-2023-23488-pmpro-2.8">	<img alt="stars" src="https://img.shields.io/github/stars/cybfar/CVE-2023-23488-pmpro-2.8">
+- [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
 
 ---
 ## CVE-2023-21839 (2023-01-18T00:15:00)

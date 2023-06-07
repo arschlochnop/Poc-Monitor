@@ -73,6 +73,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy)	<img alt="forks" src="https://img.shields.io/github/forks/yizhimanpadewoniu/CVE-2023-33246-Copy">	<img alt="stars" src="https://img.shields.io/github/stars/yizhimanpadewoniu/CVE-2023-33246-Copy">
 - [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/I5N0rth/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/I5N0rth/CVE-2023-33246">
 - [Serendipity-Lucky/CVE-2023-33246](https://github.com/Serendipity-Lucky/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2023-33246">
+- [hheeyywweellccoommee/CVE-2023-33246-rnkku](https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-rnkku">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-rnkku">
 
 ---
 ## CVE-2023-33243 ()

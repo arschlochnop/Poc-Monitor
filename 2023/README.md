@@ -236,6 +236,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
 
 ---
+## CVE-2023-23488 (2023-01-20T18:15:00)
+> The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
+- [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8)	<img alt="forks" src="https://img.shields.io/github/forks/cybfar/CVE-2023-23488-pmpro-2.8">	<img alt="stars" src="https://img.shields.io/github/stars/cybfar/CVE-2023-23488-pmpro-2.8">
+
+---
 ## CVE-2023-21839 (2023-01-18T00:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).
 - [kw3h4/CVE-2023-21839-metasploit-scanner](https://github.com/kw3h4/CVE-2023-21839-metasploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kw3h4/CVE-2023-21839-metasploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kw3h4/CVE-2023-21839-metasploit-scanner">

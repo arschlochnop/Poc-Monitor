@@ -234,6 +234,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 > A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache Dubbo 3.0.x version 3.0.13 and prior versions; Apache Dubbo 3.1.x version 3.1.5 and prior versions.
 - [YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)	<img alt="forks" src="https://img.shields.io/github/forks/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">	<img alt="stars" src="https://img.shields.io/github/stars/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp">
 - [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
+- [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
 ## CVE-2023-23488 (2023-01-20T18:15:00)

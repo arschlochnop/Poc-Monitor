@@ -54,6 +54,11 @@
 - [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
 
 ---
+## CVE-2023-33253 ()
+> 
+- [Toxich4/CVE-2023-33253](https://github.com/Toxich4/CVE-2023-33253)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-33253">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-33253">
+
+---
 ## CVE-2023-33246 (2023-05-24T15:15:00)
 > For RocketMQ versions 5.1.0 and below, under certain conditions, there is a risk of remote command execution. 
 

@@ -257,6 +257,9 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-22809 (2023-01-18T17:15:00)
 > In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a "--" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.
 - [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/hello4r1end/patch_CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/hello4r1end/patch_CVE-2023-22809">
+- [CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-22809-sudo-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-22809-sudo-POC">
+- [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
+- [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
 
 ---
 ## CVE-2023-21971 (2023-04-18T20:15:00)

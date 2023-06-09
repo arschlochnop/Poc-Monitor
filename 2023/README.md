@@ -317,3 +317,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-10608 ()
 > 
 - [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b35363/cve-2023-10608-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b35363/cve-2023-10608-PoC">
+
+---
+## CVE-2023-0630 (2023-03-20T16:15:00)
+> The Slimstat Analytics WordPress plugin before 4.9.3.3 does not prevent subscribers from rendering shortcodes that concatenates attributes directly into an SQL query.
+- [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">

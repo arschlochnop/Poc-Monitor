@@ -125,6 +125,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
 
 ---
+## CVE-2023-2986 (2023-06-08T02:15:00)
+> The Abandoned Cart Lite for WooCommerce plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 5.14.2. This is due to insufficient encryption on the user being supplied during the abandoned cart link decode through the plugin. This allows unauthenticated attackers to log in as users who have abandoned the cart, which users are typically customers.
+- [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986)	<img alt="forks" src="https://img.shields.io/github/forks/Ayantaker/CVE-2023-2986">	<img alt="stars" src="https://img.shields.io/github/stars/Ayantaker/CVE-2023-2986">
+
+---
 ## CVE-2023-29336 (2023-05-09T18:15:00)
 > Win32k Elevation of Privilege Vulnerability
 - [m-cetin/CVE-2023-29336](https://github.com/m-cetin/CVE-2023-29336)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2023-29336">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2023-29336">

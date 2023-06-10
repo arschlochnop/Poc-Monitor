@@ -139,6 +139,14 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">
+- [1337r0j4n/CVE-2023-29489](https://github.com/1337r0j4n/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/1337r0j4n/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/1337r0j4n/CVE-2023-29489">
+- [whalebone7/EagleEye](https://github.com/whalebone7/EagleEye)	<img alt="forks" src="https://img.shields.io/github/forks/whalebone7/EagleEye">	<img alt="stars" src="https://img.shields.io/github/stars/whalebone7/EagleEye">
+- [haxor1337x/Scanner-CVE-2023-29489](https://github.com/haxor1337x/Scanner-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Scanner-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Scanner-CVE-2023-29489">
+- [Mostafa-Elguerdawi/CVE-2023-29489](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Mostafa-Elguerdawi/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Mostafa-Elguerdawi/CVE-2023-29489">
+- [Mostafa-Elguerdawi/CVE-2023-29489.yaml](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml)	<img alt="forks" src="https://img.shields.io/github/forks/Mostafa-Elguerdawi/CVE-2023-29489.yaml">	<img alt="stars" src="https://img.shields.io/github/stars/Mostafa-Elguerdawi/CVE-2023-29489.yaml">
+- [ipk1/CVE-2023-29489.py](https://github.com/ipk1/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/ipk1/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/ipk1/CVE-2023-29489.py">
+- [xKore123/cPanel-CVE-2023-29489](https://github.com/xKore123/cPanel-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/xKore123/cPanel-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/xKore123/cPanel-CVE-2023-29489">
+- [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
 
 ---
 ## CVE-2023-29336 (2023-05-09T18:15:00)

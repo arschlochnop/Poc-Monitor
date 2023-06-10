@@ -136,6 +136,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986)	<img alt="forks" src="https://img.shields.io/github/forks/Ayantaker/CVE-2023-2986">	<img alt="stars" src="https://img.shields.io/github/stars/Ayantaker/CVE-2023-2986">
 
 ---
+## CVE-2023-29489 (2023-04-27T21:15:00)
+> An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
+- [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">
+
+---
 ## CVE-2023-29336 (2023-05-09T18:15:00)
 > Win32k Elevation of Privilege Vulnerability
 - [m-cetin/CVE-2023-29336](https://github.com/m-cetin/CVE-2023-29336)	<img alt="forks" src="https://img.shields.io/github/forks/m-cetin/CVE-2023-29336">	<img alt="stars" src="https://img.shields.io/github/stars/m-cetin/CVE-2023-29336">

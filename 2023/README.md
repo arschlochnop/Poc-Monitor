@@ -152,6 +152,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ipk1/CVE-2023-29489.py](https://github.com/ipk1/CVE-2023-29489.py)	<img alt="forks" src="https://img.shields.io/github/forks/ipk1/CVE-2023-29489.py">	<img alt="stars" src="https://img.shields.io/github/stars/ipk1/CVE-2023-29489.py">
 - [xKore123/cPanel-CVE-2023-29489](https://github.com/xKore123/cPanel-CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/xKore123/cPanel-CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/xKore123/cPanel-CVE-2023-29489">
 - [learnerboy88/CVE-2023-29489](https://github.com/learnerboy88/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/learnerboy88/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/learnerboy88/CVE-2023-29489">
+- [tucommenceapousser/CVE-2023-29489](https://github.com/tucommenceapousser/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-29489">
 
 ---
 ## CVE-2023-29336 (2023-05-09T18:15:00)

@@ -6,6 +6,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-34965 ()
+> 
+- [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
+
+---
 ## CVE-2023-34960 ()
 > 
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">

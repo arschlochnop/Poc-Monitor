@@ -372,6 +372,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 
 ---
+## CVE-2023-21716 (2023-02-14T20:15:00)
+> Microsoft Word Remote Code Execution Vulnerability
+- [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">
+
+---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
 > The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">

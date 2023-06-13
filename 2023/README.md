@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-66975 ()
+> 
+- [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
+
+---
 ## CVE-2023-51504 ()
 > 
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">

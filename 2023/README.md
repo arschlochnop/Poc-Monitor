@@ -21,8 +21,8 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
-## CVE-2023-34537 ()
-> 
+## CVE-2023-34537 (2023-06-13T21:15:00)
+> A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
 
 ---
@@ -52,8 +52,8 @@
 - [n3gox/CVE-2023-33829](https://github.com/n3gox/CVE-2023-33829)	<img alt="forks" src="https://img.shields.io/github/forks/n3gox/CVE-2023-33829">	<img alt="stars" src="https://img.shields.io/github/stars/n3gox/CVE-2023-33829">
 
 ---
-## CVE-2023-33817 ()
-> 
+## CVE-2023-33817 (2023-06-13T21:15:00)
+> hoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability.
 - [leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-33817---SQL-Injection-found-in-HotelDruid-3.0.5">
 
 ---
@@ -222,6 +222,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > A heap-based buffer overflow vulnerability [CWE-122] in FortiOS version 7.2.4 and below, version 7.0.11 and below, version 6.4.12 and below, version 6.0.16 and below and FortiProxy version 7.2.3 and below, version 7.0.9 and below, version 2.0.12 and below, version 1.2 all versions, version 1.1 all versions SSL-VPN may allow a remote attacker to execute arbitrary code or commands via specifically crafted requests.
 - [Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability](https://github.com/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Socra69/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability">
 - [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">
+
+---
+## CVE-2023-27350 (2023-04-20T16:15:00)
+> This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.
+- [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-27350">
 
 ---
 ## CVE-2023-2732 (2023-05-25T03:15:00)

@@ -377,6 +377,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
 
 ---
+## CVE-2023-20887 (2023-06-07T15:15:00)
+> Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
+- [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
+
+---
 ## CVE-2023-2033 (2023-04-14T19:15:00)
 > Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">

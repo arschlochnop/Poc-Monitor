@@ -11,6 +11,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-36544 ()
+> 
+- [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
@@ -224,9 +229,19 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz](https://github.com/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz">
 
 ---
+## CVE-2023-27363 ()
+> 
+- [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
+
+---
 ## CVE-2023-27350 (2023-04-20T16:15:00)
 > This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.
 - [Jenderal92/CVE-2023-27350](https://github.com/Jenderal92/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-27350">
+- [Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27350">
+- [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
+- [horizon3ai/CVE-2023-27350](https://github.com/horizon3ai/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27350">
+- [adhikara13/CVE-2023-27350](https://github.com/adhikara13/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-27350">
+- [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
 
 ---
 ## CVE-2023-2732 (2023-05-25T03:15:00)

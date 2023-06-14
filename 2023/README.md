@@ -442,3 +442,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-0630 (2023-03-20T16:15:00)
 > The Slimstat Analytics WordPress plugin before 4.9.3.3 does not prevent subscribers from rendering shortcodes that concatenates attributes directly into an SQL query.
 - [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">
+
+---
+## CVE-2023-0386 (2023-03-22T21:15:00)
+> A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
+- [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">

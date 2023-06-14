@@ -137,6 +137,12 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/86x/CVE-2023-32353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/86x/CVE-2023-32353-PoC">
 
 ---
+## CVE-2023-32315 (2023-05-26T23:15:00)
+> Openfire is an XMPP server licensed under the Open Source Apache License. Openfire's administrative console, a web-based application, was found to be vulnerable to a path traversal attack via the setup environment. This permitted an unauthenticated user to use the unauthenticated Openfire Setup Environment in an already configured Openfire environment to access restricted pages in the Openfire Admin Console reserved for administrative users. This vulnerability affects all versions of Openfire that have been released since April 2015, starting with version 3.10.0. The problem has been patched in Openfire release 4.7.5 and 4.6.8, and further improvements will be included in the yet-to-be released first version on the 4.8 branch (which is expected to be version 4.8.0). Users are advised to upgrade. If an Openfire upgrade isn’t available for a specific release, or isn’t quickly actionable, users may see the linked github advisory (GHSA-gw42-f939-fhvm) for mitigation advice.
+- [tangxiaofeng7/CVE-2023-32315-openfire-bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-openfire-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-openfire-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-openfire-bypass">
+- [ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-32315">
+
+---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
 > Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.
 - [RandomRobbieBF/CVE-2023-32243](https://github.com/RandomRobbieBF/CVE-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32243">
@@ -208,6 +214,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > A remote command injection vulnerability exists in the Barracuda Email Security Gateway (appliance form factor only) product effecting versions 5.1.3.001-9.2.0.006. The vulnerability arises out of a failure to comprehensively sanitize the processing of .tar file (tape archives). The vulnerability stems from incomplete input validation of a user-supplied .tar file as it pertains to the names of the files contained within the archive. As a consequence, a remote attacker can specifically format these file names in a particular manner that will result in remotely executing a system command through Perl's qx operator with the privileges of the Email Security Gateway product. This issue was fixed as part of BNSF-36456 patch. This patch was automatically applied to all customer appliances.
 - [T13nn3s/CVE-2023-2868](https://github.com/T13nn3s/CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2023-2868">
 - [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2868-lchvp">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2868-lchvp">
+
+---
+## CVE-2023-28310 ()
+> 
+- [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/cve-2023-28310">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/cve-2023-28310">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)

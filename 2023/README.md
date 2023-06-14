@@ -414,6 +414,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-20887 (2023-06-07T15:15:00)
 > Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
 - [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
+- [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-20887">
 
 ---
 ## CVE-2023-2033 (2023-04-14T19:15:00)
@@ -447,3 +448,9 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-0386 (2023-03-22T21:15:00)
 > A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">
+- [sxlmnwb/CVE-2023-0386](https://github.com/sxlmnwb/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2023-0386">
+- [hshivhare67/kernel_v4.19.72_CVE-2023-0386](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0386">
+- [CKevens/CVE-2023-0386](https://github.com/CKevens/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-0386">
+- [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
+- [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
+- [veritas501/CVE-2023-0386](https://github.com/veritas501/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2023-0386">

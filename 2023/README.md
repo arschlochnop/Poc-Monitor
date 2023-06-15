@@ -26,6 +26,11 @@
 - [Aituglo/CVE-2023-34960](https://github.com/Aituglo/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Aituglo/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Aituglo/CVE-2023-34960">
 
 ---
+## CVE-2023-34924 ()
+> 
+- [ChrisL0tus/CVE-2023-34924](https://github.com/ChrisL0tus/CVE-2023-34924)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisL0tus/CVE-2023-34924">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisL0tus/CVE-2023-34924">
+
+---
 ## CVE-2023-34852 ()
 > 
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
@@ -457,6 +462,10 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">
+- [padbergpete47/CVE-2023-1454](https://github.com/padbergpete47/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/padbergpete47/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/padbergpete47/CVE-2023-1454">
+- [BugFor-Pings/CVE-2023-1454](https://github.com/BugFor-Pings/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2023-1454">
+- [CKevens/CVE-2023-1454-EXP](https://github.com/CKevens/CVE-2023-1454-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-1454-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-1454-EXP">
+- [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
 
 ---
 ## CVE-2023-1430 (2023-06-09T06:15:00)

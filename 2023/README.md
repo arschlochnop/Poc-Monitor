@@ -454,6 +454,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
 
 ---
+## CVE-2023-1454 (2023-03-17T07:15:00)
+> A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
+- [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">
+
+---
 ## CVE-2023-1430 (2023-06-09T06:15:00)
 > The FluentCRM - Marketing Automation For WordPress  plugin for WordPress is vulnerable to unauthorized modification of data in versions up to, and including, 2.7.40 due to the use of an MD5 hash without a salt to control subscriptions. This makes it possible for unauthenticated attackers to unsubscribe users from lists and manage subscriptions, granted they gain access to any targeted subscribers email address.
 - [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2023-1430">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2023-1430">

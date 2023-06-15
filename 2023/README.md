@@ -493,3 +493,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
 - [veritas501/CVE-2023-0386](https://github.com/veritas501/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2023-0386">
+
+---
+## CVE-2023-0297 (2023-01-14T03:15:00)
+> Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
+- [overgrowncarrot1/CVE-2023-0297](https://github.com/overgrowncarrot1/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-0297">
+- [JacobEbben/CVE-2023-0297](https://github.com/JacobEbben/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2023-0297">
+- [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
+- [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">

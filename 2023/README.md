@@ -36,6 +36,11 @@
 - [funny-kill/CVE-2023-34852](https://github.com/funny-kill/CVE-2023-34852)	<img alt="forks" src="https://img.shields.io/github/forks/funny-kill/CVE-2023-34852">	<img alt="stars" src="https://img.shields.io/github/stars/funny-kill/CVE-2023-34852">
 
 ---
+## CVE-2023-34830 ()
+> 
+- [leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw](https://github.com/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34830---XSS-Reflected-found-in-I-doit-open-v24-and-Bekiw">
+
+---
 ## CVE-2023-34537 (2023-06-13T21:15:00)
 > A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.
 - [leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5](https://github.com/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5">
@@ -378,6 +383,35 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
 - [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
+
+---
+## CVE-2023-23752 (2023-02-16T17:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
+- [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">
+- [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-23752">
+- [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
+- [equationsoftworks/Radiance](https://github.com/equationsoftworks/Radiance)	<img alt="forks" src="https://img.shields.io/github/forks/equationsoftworks/Radiance">	<img alt="stars" src="https://img.shields.io/github/stars/equationsoftworks/Radiance">
+- [haxor1337x/Mass-Checker-CVE-2023-23752](https://github.com/haxor1337x/Mass-Checker-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Mass-Checker-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Mass-Checker-CVE-2023-23752">
+- [AkbarWiraN/Joomla-Scanner](https://github.com/AkbarWiraN/Joomla-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/AkbarWiraN/Joomla-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/AkbarWiraN/Joomla-Scanner">
+- [adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-23752">
+- [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2023-23752">
+- [0xNahim/CVE-2023-23752](https://github.com/0xNahim/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xNahim/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xNahim/CVE-2023-23752">
+- [karthikuj/CVE-2023-23752-Docker](https://github.com/karthikuj/CVE-2023-23752-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/karthikuj/CVE-2023-23752-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/karthikuj/CVE-2023-23752-Docker">
+- [gibran-abdillah/CVE-2023-23752](https://github.com/gibran-abdillah/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-23752">
+- [Jenderal92/Joomla-CVE-2023-23752](https://github.com/Jenderal92/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/Joomla-CVE-2023-23752">
+- [H454NSec/CVE-2023-23752](https://github.com/H454NSec/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2023-23752">
+- [GhostToKnow/CVE-2023-23752](https://github.com/GhostToKnow/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/GhostToKnow/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/GhostToKnow/CVE-2023-23752">
+- [adriyansyah-mf/CVE-2023-23752](https://github.com/adriyansyah-mf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-23752">
+- [HaxorSec1945/CVE2023-23752](https://github.com/HaxorSec1945/CVE2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/HaxorSec1945/CVE2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/HaxorSec1945/CVE2023-23752">
+- [keyuan15/CVE-2023-23752](https://github.com/keyuan15/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2023-23752">
+- [ibaiw/joomla_CVE-2023-23752](https://github.com/ibaiw/joomla_CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/ibaiw/joomla_CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/ibaiw/joomla_CVE-2023-23752">
+- [z3n70/CVE-2023-23752](https://github.com/z3n70/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2023-23752">
+- [ifacker/CVE-2023-23752-Joomla](https://github.com/ifacker/CVE-2023-23752-Joomla)	<img alt="forks" src="https://img.shields.io/github/forks/ifacker/CVE-2023-23752-Joomla">	<img alt="stars" src="https://img.shields.io/github/stars/ifacker/CVE-2023-23752-Joomla">
+- [wangking1/CVE-2023-23752-poc](https://github.com/wangking1/CVE-2023-23752-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wangking1/CVE-2023-23752-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wangking1/CVE-2023-23752-poc">
+- [Vulnmachines/joomla_CVE-2023-23752](https://github.com/Vulnmachines/joomla_CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/joomla_CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/joomla_CVE-2023-23752">
+- [WhiteOwl-Pub/CVE-2023-23752](https://github.com/WhiteOwl-Pub/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/CVE-2023-23752">
+- [Saboor-Hakimi/CVE-2023-23752](https://github.com/Saboor-Hakimi/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-23752">
+- [YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/YusinoMy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/YusinoMy/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)

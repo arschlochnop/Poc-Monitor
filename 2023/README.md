@@ -428,6 +428,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r3nt0n/CVE-2023-23488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r3nt0n/CVE-2023-23488-PoC">
 
 ---
+## CVE-2023-23333 (2023-02-06T22:15:00)
+> There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php.
+- [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-23333">
+
+---
 ## CVE-2023-22960 (2023-01-23T21:15:00)
 > Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency.
 - [t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/t3l3machus/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/t3l3machus/CVE-2023-22960">

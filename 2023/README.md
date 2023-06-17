@@ -154,6 +154,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32784 (2023-05-15T06:15:00)
 > In KeePass 2.x before 2.54, it is possible to recover the cleartext master password from a memory dump, even when a workspace is locked or no longer running. The memory dump can be a KeePass process dump, swap file (pagefile.sys), hibernation file (hiberfil.sys), or RAM dump of the entire system. The first character cannot be recovered. In 2.54, there is different API usage and/or random string insertion for mitigation.
 - [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)	<img alt="forks" src="https://img.shields.io/github/forks/CTM1/CVE-2023-32784-keepass-linux">	<img alt="stars" src="https://img.shields.io/github/stars/CTM1/CVE-2023-32784-keepass-linux">
+- [hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)	<img alt="forks" src="https://img.shields.io/github/forks/hau-zy/KeePass-dump-py">	<img alt="stars" src="https://img.shields.io/github/stars/hau-zy/KeePass-dump-py">
+- [vdohney/keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper)	<img alt="forks" src="https://img.shields.io/github/forks/vdohney/keepass-password-dumper">	<img alt="stars" src="https://img.shields.io/github/stars/vdohney/keepass-password-dumper">
+- [LeDocteurDesBits/cve-2023-32784](https://github.com/LeDocteurDesBits/cve-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/LeDocteurDesBits/cve-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/LeDocteurDesBits/cve-2023-32784">
+- [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump)	<img alt="forks" src="https://img.shields.io/github/forks/z-jxy/keepass_dump">	<img alt="stars" src="https://img.shields.io/github/stars/z-jxy/keepass_dump">
+- [und3sc0n0c1d0/BruteForce-to-KeePass](https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/BruteForce-to-KeePass">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/BruteForce-to-KeePass">
 
 ---
 ## CVE-2023-32353 ()

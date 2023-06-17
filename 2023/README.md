@@ -387,6 +387,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
 
 ---
+## CVE-2023-24078 (2023-02-17T07:15:00)
+> Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
+- [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">
+
+---
 ## CVE-2023-23752 (2023-02-16T17:15:00)
 > An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
 - [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">

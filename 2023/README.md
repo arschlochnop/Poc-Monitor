@@ -280,6 +280,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2868-lchvp">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2868-lchvp">
 
 ---
+## CVE-2023-2833 (2023-06-06T10:15:00)
+> The ReviewX plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 1.6.13 due to insufficient restriction on the 'rx_set_screen_options' function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wp_screen_options[option]' and 'wp_screen_options[value]' parameters during a screen option update.
+- [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-2833">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-2833">
+
+---
 ## CVE-2023-28310 (2023-06-14T15:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/cve-2023-28310">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/cve-2023-28310">

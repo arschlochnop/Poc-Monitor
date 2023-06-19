@@ -262,6 +262,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-29325 (2023-05-09T18:15:00)
 > Windows OLE Remote Code Execution Vulnerability
 - [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test-CVE-2023-29325">
+- [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test2-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test2-CVE-2023-29325">
 
 ---
 ## CVE-2023-28771 (2023-04-25T02:15:00)
@@ -326,6 +327,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [RandomRobbieBF/CVE-2023-2732](https://github.com/RandomRobbieBF/CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2732">
 - [Malwareman007/CVE-2023-27326](https://github.com/Malwareman007/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-27326">
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
+
+---
+## CVE-2023-26604 (2023-03-03T16:15:00)
+> systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
+- [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
 
 ---
 ## CVE-2023-2650 (2023-05-30T14:15:00)

@@ -199,6 +199,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/PIDAN-HEIDASHUAI/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/PIDAN-HEIDASHUAI/CVE-2023-32233">
 
 ---
+## CVE-2023-3212 ()
+> 
+- [AAsh035/CVE-2023-3212](https://github.com/AAsh035/CVE-2023-3212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-3212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-3212">
+
+---
 ## CVE-2023-3163 (2023-06-08T14:15:00)
 > A vulnerability was found in y_project RuoYi up to 4.7.7. It has been classified as problematic. Affected is the function filterKeyword. The manipulation of the argument value leads to resource consumption. VDB-231090 is the identifier assigned to this vulnerability.
 - [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">

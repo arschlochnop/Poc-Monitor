@@ -518,6 +518,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-22809-sudo-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-22809-sudo-POC">
 - [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
 - [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
+- [Chan9Yan9/CVE-2023-22809](https://github.com/Chan9Yan9/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Chan9Yan9/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Chan9Yan9/CVE-2023-22809">
 
 ---
 ## CVE-2023-2249 (2023-06-09T06:16:00)

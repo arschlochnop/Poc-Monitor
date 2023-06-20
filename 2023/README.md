@@ -192,6 +192,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)	<img alt="forks" src="https://img.shields.io/github/forks/little44n1o/cve-2023-32243">	<img alt="stars" src="https://img.shields.io/github/stars/little44n1o/cve-2023-32243">
 
 ---
+## CVE-2023-32233 (2023-05-08T20:15:00)
+> In the Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges. This occurs because anonymous sets are mishandled.
+- [oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/oferchen/POC-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/oferchen/POC-CVE-2023-32233">
+
+---
 ## CVE-2023-3163 (2023-06-08T14:15:00)
 > A vulnerability was found in y_project RuoYi up to 4.7.7. It has been classified as problematic. Affected is the function filterKeyword. The manipulation of the argument value leads to resource consumption. VDB-231090 is the identifier assigned to this vulnerability.
 - [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">

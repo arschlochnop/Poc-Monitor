@@ -116,6 +116,11 @@
 - [Thirukrishnan/CVE-2023-33408](https://github.com/Thirukrishnan/CVE-2023-33408)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33408">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33408">
 
 ---
+## CVE-2023-33405 ()
+> 
+- [hacip/CVE-2023-33405](https://github.com/hacip/CVE-2023-33405)	<img alt="forks" src="https://img.shields.io/github/forks/hacip/CVE-2023-33405">	<img alt="stars" src="https://img.shields.io/github/stars/hacip/CVE-2023-33405">
+
+---
 ## CVE-2023-33253 (2023-06-12T13:15:00)
 > LabCollector 6.0 though 6.15 allows remote code execution. An authenticated remote low-privileged user can upload an executable PHP file and execute system commands. The vulnerability is in the message function, and is due to insufficient validation of the file (such as shell.jpg.php.shell) being sent.
 - [Toxich4/CVE-2023-33253](https://github.com/Toxich4/CVE-2023-33253)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-33253">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-33253">

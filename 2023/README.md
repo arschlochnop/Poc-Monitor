@@ -240,6 +240,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">
 
 ---
+## CVE-2023-30347 ()
+> 
+- [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347)	<img alt="forks" src="https://img.shields.io/github/forks/huzefa2212/CVE-2023-30347">	<img alt="stars" src="https://img.shields.io/github/stars/huzefa2212/CVE-2023-30347">
+
+---
 ## CVE-2023-30212 (2023-04-26T17:15:00)
 > OURPHP <= 7.2.0 is vulnerale to Cross Site Scripting (XSS) via /client/manage/ourphp_out.php.
 - [AAsh035/CVE-2023-30212-Vulnerable-Lab](https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-30212-Vulnerable-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-30212-Vulnerable-Lab">

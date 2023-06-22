@@ -16,6 +16,11 @@
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
+## CVE-2023-35840 (2023-06-19T01:15:00)
+> _joinPath in elFinderVolumeLocalFileSystem.class.php in elFinder before 2.1.62 allows path traversal in the PHP LocalVolumeDriver connector.
+- [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-35840">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-35840">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">

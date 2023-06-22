@@ -16,6 +16,21 @@
 - [KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-36544">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-36544">
 
 ---
+## CVE-2023-36146 ()
+> 
+- [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36146">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36146">
+
+---
+## CVE-2023-36144 ()
+> 
+- [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36144">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36144">
+
+---
+## CVE-2023-36143 ()
+> 
+- [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
+
+---
 ## CVE-2023-35840 (2023-06-19T01:15:00)
 > _joinPath in elFinderVolumeLocalFileSystem.class.php in elFinder before 2.1.62 allows path traversal in the PHP LocalVolumeDriver connector.
 - [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-35840">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-35840">

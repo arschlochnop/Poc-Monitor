@@ -67,6 +67,11 @@
 - [ckalnarayan/CVE-2023-34652](https://github.com/ckalnarayan/CVE-2023-34652)	<img alt="forks" src="https://img.shields.io/github/forks/ckalnarayan/CVE-2023-34652">	<img alt="stars" src="https://img.shields.io/github/stars/ckalnarayan/CVE-2023-34652">
 
 ---
+## CVE-2023-34598 ()
+> 
+- [maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)	<img alt="forks" src="https://img.shields.io/github/forks/maddsec/CVE-2023-34598">	<img alt="stars" src="https://img.shields.io/github/stars/maddsec/CVE-2023-34598">
+
+---
 ## CVE-2023-34584 ()
 > 
 - [fu2x2000/-CVE-2023-34584](https://github.com/fu2x2000/-CVE-2023-34584)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/-CVE-2023-34584">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/-CVE-2023-34584">

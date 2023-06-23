@@ -121,6 +121,11 @@
 - [s0tr/CVE-2023-33781](https://github.com/s0tr/CVE-2023-33781)	<img alt="forks" src="https://img.shields.io/github/forks/s0tr/CVE-2023-33781">	<img alt="stars" src="https://img.shields.io/github/stars/s0tr/CVE-2023-33781">
 
 ---
+## CVE-2023-33768 ()
+> 
+- [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/purseclab/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/purseclab/CVE-2023-33768">
+
+---
 ## CVE-2023-33567 ()
 > 
 - [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33567">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33567">

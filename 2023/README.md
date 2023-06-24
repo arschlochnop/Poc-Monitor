@@ -269,8 +269,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/PIDAN-HEIDASHUAI/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/PIDAN-HEIDASHUAI/CVE-2023-32233">
 
 ---
-## CVE-2023-3212 ()
-> 
+## CVE-2023-3212 (2023-06-23T20:15:00)
+> A NULL pointer dereference issue was found in the gfs2 file system in the Linux kernel. It occurs on corrupt gfs2 file systems when the evict code tries to reference the journal descriptor structure after it has been freed and set to NULL. A privileged local user could use this flaw to cause a kernel panic.
 - [AAsh035/CVE-2023-3212](https://github.com/AAsh035/CVE-2023-3212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-3212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-3212">
 
 ---

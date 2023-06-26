@@ -31,6 +31,11 @@
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
 
 ---
+## CVE-2023-35844 (2023-06-19T02:15:00)
+> packages/backend/src/routers in Lightdash before 0.510.3 has insecure file endpoints, e.g., they allow .. directory traversal and do not ensure that an intended file extension (.csv or .png) is used.
+- [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-35844">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-35844">
+
+---
 ## CVE-2023-35840 (2023-06-19T01:15:00)
 > _joinPath in elFinderVolumeLocalFileSystem.class.php in elFinder before 2.1.62 allows path traversal in the PHP LocalVolumeDriver connector.
 - [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-35840">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-35840">

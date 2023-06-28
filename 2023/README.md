@@ -566,6 +566,11 @@ and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
 
 ---
+## CVE-2023-26258 ()
+> 
+- [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe)	<img alt="forks" src="https://img.shields.io/github/forks/mdsecactivebreach/CVE-2023-26258-ArcServe">	<img alt="stars" src="https://img.shields.io/github/stars/mdsecactivebreach/CVE-2023-26258-ArcServe">
+
+---
 ## CVE-2023-25690 (2023-03-07T16:15:00)
 > Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
 

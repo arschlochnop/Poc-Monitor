@@ -779,6 +779,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
 - [veritas501/CVE-2023-0386](https://github.com/veritas501/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2023-0386">
+- [Fanxiaoyao66/CVE-2023-0386](https://github.com/Fanxiaoyao66/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Fanxiaoyao66/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Fanxiaoyao66/CVE-2023-0386">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)

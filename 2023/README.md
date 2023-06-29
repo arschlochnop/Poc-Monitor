@@ -385,6 +385,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Alucard0x1/CVE-2023-2986](https://github.com/Alucard0x1/CVE-2023-2986)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-2986">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-2986">
 
 ---
+## CVE-2023-2982 (2023-06-29T02:15:00)
+> The WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 7.6.4. This is due to insufficient encryption on the user being supplied during a login validated through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they know the email address associated with that user. This was partially patched in version 7.6.4 and fully patched in version 7.6.5.
+- [RandomRobbieBF/CVE-2023-2982](https://github.com/RandomRobbieBF/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2982">
+
+---
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">

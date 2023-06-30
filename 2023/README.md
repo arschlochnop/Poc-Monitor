@@ -639,6 +639,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Christbowel/CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2023-25136">
 - [ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2023-25136">
 - [jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free">
+- [H4K6/CVE-2023-25136](https://github.com/H4K6/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-25136">
 
 ---
 ## CVE-2023-24078 (2023-02-17T07:15:00)

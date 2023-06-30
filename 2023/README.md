@@ -756,6 +756,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
 
 ---
+## CVE-2023-21707 (2023-02-14T20:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
+
+---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
 > The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">

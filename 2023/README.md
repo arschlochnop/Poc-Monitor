@@ -733,6 +733,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [manas3c/CVE-2023-22960](https://github.com/manas3c/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/manas3c/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/manas3c/CVE-2023-22960">
 
 ---
+## CVE-2023-22906 ()
+> 
+- [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)	<img alt="forks" src="https://img.shields.io/github/forks/nonamecoder/CVE-2023-22906">	<img alt="stars" src="https://img.shields.io/github/stars/nonamecoder/CVE-2023-22906">
+
+---
 ## CVE-2023-22809 (2023-01-18T17:15:00)
 > In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a "--" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.
 - [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/hello4r1end/patch_CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/hello4r1end/patch_CVE-2023-22809">

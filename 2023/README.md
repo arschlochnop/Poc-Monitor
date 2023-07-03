@@ -459,6 +459,13 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-2868-lchvp](https://github.com/hheeyywweellccoommee/CVE-2023-2868-lchvp)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2868-lchvp">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2868-lchvp">
 
 ---
+## CVE-2023-28343 (2023-03-14T20:15:00)
+> OS command injection affects Altenergy Power Control Software C1.2.5 via shell metacharacters in the index.php/management/set_timezone timezone parameter, because of set_timezone in models/management_model.php.
+- [hba343434/CVE-2023-28343](https://github.com/hba343434/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/hba343434/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/hba343434/CVE-2023-28343">
+- [superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2023-28343">
+- [gobysec/CVE-2023-28343](https://github.com/gobysec/CVE-2023-28343)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-28343">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-28343">
+
+---
 ## CVE-2023-2833 (2023-06-06T10:15:00)
 > The ReviewX plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 1.6.13 due to insufficient restriction on the 'rx_set_screen_options' function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wp_screen_options[option]' and 'wp_screen_options[value]' parameters during a screen option update.
 - [Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-2833">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-2833">

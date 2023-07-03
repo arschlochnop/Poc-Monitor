@@ -6310,7 +6310,7 @@
 - [wdjcy/CVE-2021-26084](https://github.com/wdjcy/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/wdjcy/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/wdjcy/CVE-2021-26084">
 - [ludy-dev/CVE-2021-26084_PoC](https://github.com/ludy-dev/CVE-2021-26084_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/CVE-2021-26084_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/CVE-2021-26084_PoC">
 - [toowoxx/docker-confluence-patched](https://github.com/toowoxx/docker-confluence-patched)	<img alt="forks" src="https://img.shields.io/github/forks/toowoxx/docker-confluence-patched">	<img alt="stars" src="https://img.shields.io/github/stars/toowoxx/docker-confluence-patched">
-- [nizarbamida/CVE-2021-26084-patch-](https://github.com/nizarbamida/CVE-2021-26084-patch-)	<img alt="forks" src="https://img.shields.io/github/forks/nizarbamida/CVE-2021-26084-patch-">	<img alt="stars" src="https://img.shields.io/github/stars/nizarbamida/CVE-2021-26084-patch-">
+- [nizar0x1f/CVE-2021-26084-patch-](https://github.com/nizar0x1f/CVE-2021-26084-patch-)	<img alt="forks" src="https://img.shields.io/github/forks/nizar0x1f/CVE-2021-26084-patch-">	<img alt="stars" src="https://img.shields.io/github/stars/nizar0x1f/CVE-2021-26084-patch-">
 - [taythebot/CVE-2021-26084](https://github.com/taythebot/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/taythebot/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/taythebot/CVE-2021-26084">
 - [TheclaMcentire/CVE-2021-26084_Confluence](https://github.com/TheclaMcentire/CVE-2021-26084_Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/TheclaMcentire/CVE-2021-26084_Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/TheclaMcentire/CVE-2021-26084_Confluence">
 - [GlennPegden2/cve-2021-26084-confluence](https://github.com/GlennPegden2/cve-2021-26084-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/GlennPegden2/cve-2021-26084-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/GlennPegden2/cve-2021-26084-confluence">
@@ -6330,6 +6330,7 @@
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
 - [Reclu3a/CVE-2021-26084-Confluence-OGNL](https://github.com/Reclu3a/CVE-2021-26084-Confluence-OGNL)	<img alt="forks" src="https://img.shields.io/github/forks/Reclu3a/CVE-2021-26084-Confluence-OGNL">	<img alt="stars" src="https://img.shields.io/github/stars/Reclu3a/CVE-2021-26084-Confluence-OGNL">
+- [R0OtAdm1n/CVE-2021-26084-EXP](https://github.com/R0OtAdm1n/CVE-2021-26084-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/R0OtAdm1n/CVE-2021-26084-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/R0OtAdm1n/CVE-2021-26084-EXP">
 
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)

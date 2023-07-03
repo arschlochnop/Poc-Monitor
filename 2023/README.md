@@ -51,6 +51,11 @@
 - [afine-com/CVE-2023-35840](https://github.com/afine-com/CVE-2023-35840)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2023-35840">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2023-35840">
 
 ---
+## CVE-2023-35829 (2023-06-18T22:15:00)
+> An issue was discovered in the Linux kernel before 6.3.2. A use-after-free was found in rkvdec_remove in drivers/staging/media/rkvdec/rkvdec.c.
+- [ChriSanders22/CVE-2023-35829-poc](https://github.com/ChriSanders22/CVE-2023-35829-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-35829-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-35829-poc">
+
+---
 ## CVE-2023-34965 (2023-06-13T19:15:00)
 > SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.
 - [AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)	<img alt="forks" src="https://img.shields.io/github/forks/AgentY0/CVE-2023-34965">	<img alt="stars" src="https://img.shields.io/github/stars/AgentY0/CVE-2023-34965">
@@ -795,6 +800,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 > Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
 - [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
 - [miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-20887">
+
+---
+## CVE-2023-20871 (2023-04-25T21:15:00)
+> VMware Fusion contains a local privilege escalation vulnerability. A malicious actor with read/write access to the host operating system can elevate privileges to gain root access to the host operating system.
+- [ChriSanders22/CVE-2023-20871-poc](https://github.com/ChriSanders22/CVE-2023-20871-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ChriSanders22/CVE-2023-20871-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ChriSanders22/CVE-2023-20871-poc">
 
 ---
 ## CVE-2023-2033 (2023-04-14T19:15:00)

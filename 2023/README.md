@@ -734,8 +734,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [manas3c/CVE-2023-22960](https://github.com/manas3c/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/manas3c/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/manas3c/CVE-2023-22960">
 
 ---
-## CVE-2023-22906 ()
-> 
+## CVE-2023-22906 (2023-07-04T00:15:00)
+> Hero Qubo HCD01_02_V1.38_20220125 devices allow TELNET access with root privileges by default, without a password.
 - [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)	<img alt="forks" src="https://img.shields.io/github/forks/nonamecoder/CVE-2023-22906">	<img alt="stars" src="https://img.shields.io/github/stars/nonamecoder/CVE-2023-22906">
 
 ---

@@ -891,6 +891,10 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-0669 (2023-02-06T20:15:00)
 > Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.
 - [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">
+- [yosef0x01/CVE-2023-0669-Analysis](https://github.com/yosef0x01/CVE-2023-0669-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-0669-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-0669-Analysis">
+- [Griffin-01/CVE-2023-0669](https://github.com/Griffin-01/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Griffin-01/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Griffin-01/CVE-2023-0669">
+- [cataliniovita/CVE-2023-0669](https://github.com/cataliniovita/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/cataliniovita/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/cataliniovita/CVE-2023-0669">
+- [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2023-0669">
 
 ---
 ## CVE-2023-0630 (2023-03-20T16:15:00)

@@ -888,6 +888,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
 
 ---
+## CVE-2023-0669 (2023-02-06T20:15:00)
+> Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.
+- [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">
+
+---
 ## CVE-2023-0630 (2023-03-20T16:15:00)
 > The Slimstat Analytics WordPress plugin before 4.9.3.3 does not prevent subscribers from rendering shortcodes that concatenates attributes directly into an SQL query.
 - [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">

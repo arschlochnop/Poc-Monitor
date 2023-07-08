@@ -41,6 +41,21 @@
 - [RandomRobbieBF/CVE-2023-36531](https://github.com/RandomRobbieBF/CVE-2023-36531)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-36531">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-36531">
 
 ---
+## CVE-2023-36165 ()
+> 
+- [TraiLeR2/CVE-2023-36165](https://github.com/TraiLeR2/CVE-2023-36165)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36165">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36165">
+
+---
+## CVE-2023-36164 ()
+> 
+- [TraiLeR2/CVE-2023-36164](https://github.com/TraiLeR2/CVE-2023-36164)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36164">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36164">
+
+---
+## CVE-2023-36163 ()
+> 
+- [TraiLeR2/CVE-2023-36163](https://github.com/TraiLeR2/CVE-2023-36163)	<img alt="forks" src="https://img.shields.io/github/forks/TraiLeR2/CVE-2023-36163">	<img alt="stars" src="https://img.shields.io/github/stars/TraiLeR2/CVE-2023-36163">
+
+---
 ## CVE-2023-36146 (2023-06-30T01:15:00)
 > A Stored Cross-Site Scripting (XSS) vulnerability was found in Multilaser RE 170 using firmware 2.2.6733.
 - [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36146">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36146">
@@ -407,6 +422,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-30347 (2023-06-22T21:15:00)
 > Cross Site Scripting (XSS) vulnerability in Neox Contact Center 2.3.9, via the serach_sms_api_name parameter to the SMA API search.
 - [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347)	<img alt="forks" src="https://img.shields.io/github/forks/huzefa2212/CVE-2023-30347">	<img alt="stars" src="https://img.shields.io/github/stars/huzefa2212/CVE-2023-30347">
+
+---
+## CVE-2023-30226 ()
+> 
+- [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226)	<img alt="forks" src="https://img.shields.io/github/forks/ifyGecko/CVE-2023-30226">	<img alt="stars" src="https://img.shields.io/github/stars/ifyGecko/CVE-2023-30226">
 
 ---
 ## CVE-2023-30212 (2023-04-26T17:15:00)

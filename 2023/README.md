@@ -224,6 +224,11 @@
 - [purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/purseclab/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/purseclab/CVE-2023-33768">
 
 ---
+## CVE-2023-33668 ()
+> 
+- [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668)	<img alt="forks" src="https://img.shields.io/github/forks/lodi-g/CVE-2023-33668">	<img alt="stars" src="https://img.shields.io/github/stars/lodi-g/CVE-2023-33668">
+
+---
 ## CVE-2023-33567 (2023-06-27T18:15:00)
 > An unauthorized access vulnerability has been discovered in ROS2 Foxy Fitzroy versions where ROS_VERSION is 2 and ROS_PYTHON_VERSION is 3. This vulnerability could potentially allow a malicious user to gain unauthorized access to multiple ROS2 nodes remotely. Unauthorized access to these nodes could result in compromised system integrity, the execution of arbitrary commands, and disclosure of sensitive information.
 - [16yashpatel/CVE-2023-33567](https://github.com/16yashpatel/CVE-2023-33567)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33567">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33567">

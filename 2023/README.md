@@ -866,6 +866,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 
 ---
+## CVE-2023-21768 (2023-01-10T22:15:00)
+> Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
+- [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_LPE_AFD_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_LPE_AFD_CVE-2023-21768">
+
+---
 ## CVE-2023-21766 (2023-01-10T22:15:00)
 > Windows Overlay Filter Information Disclosure Vulnerability
 - [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2023-21766">

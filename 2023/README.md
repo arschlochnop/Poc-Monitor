@@ -861,6 +861,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [asepsaepdin/CVE-2023-22809](https://github.com/asepsaepdin/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-22809">
 
 ---
+## CVE-2023-2255 (2023-05-25T20:15:00)
+> Improper access control in editor components of The Document Foundation LibreOffice allowed an attacker to craft a document that would cause external links to be loaded without prompt. In the affected versions of LibreOffice documents that used "floating frames" linked to external files, would load the contents of those frames without prompting the user for permission to do so. This was inconsistent with the treatment of other linked content in LibreOffice. This issue affects: The Document Foundation LibreOffice 7.4 versions prior to 7.4.7; 7.5 versions prior to 7.5.3.
+- [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/elweth-sec/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/elweth-sec/CVE-2023-2255">
+
+---
 ## CVE-2023-2249 (2023-06-09T06:16:00)
 > The wpForo Forum plugin for WordPress is vulnerable to Local File Include, Server-Side Request Forgery, and PHAR Deserialization in versions up to, and including, 2.1.7. This is due to the insecure use of file_get_contents without appropriate verification of the data being supplied to the function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to retrieve the contents of files like wp-config.php hosted on the system, perform a deserialization attack and possibly achieve remote code execution, and make requests to internal services.
 - [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249)	<img alt="forks" src="https://img.shields.io/github/forks/ixiacom/CVE-2023-2249">	<img alt="stars" src="https://img.shields.io/github/stars/ixiacom/CVE-2023-2249">

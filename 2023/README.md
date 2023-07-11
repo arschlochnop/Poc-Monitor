@@ -21,13 +21,13 @@
 - [sahiloj/CVE-2023-37598](https://github.com/sahiloj/CVE-2023-37598)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37598">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37598">
 
 ---
-## CVE-2023-37597 ()
-> 
+## CVE-2023-37597 (2023-07-11T17:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in issabel-pbx v.4.0.0-6 allows a remote attacker to cause a denial of service via the delete user grouplist function.
 - [sahiloj/CVE-2023-37597](https://github.com/sahiloj/CVE-2023-37597)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37597">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37597">
 
 ---
-## CVE-2023-37596 ()
-> 
+## CVE-2023-37596 (2023-07-11T17:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in issabel-pbx v.4.0.0-6 allows a remote attacker to cause a denial of service via a crafted script to the deleteuser function.
 - [sahiloj/CVE-2023-37596](https://github.com/sahiloj/CVE-2023-37596)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37596">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37596">
 
 ---
@@ -659,6 +659,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [RandomRobbieBF/CVE-2023-2732](https://github.com/RandomRobbieBF/CVE-2023-2732)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-2732">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-2732">
 - [Malwareman007/CVE-2023-27326](https://github.com/Malwareman007/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-27326">
 - [Impalabs/CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326)	<img alt="forks" src="https://img.shields.io/github/forks/Impalabs/CVE-2023-27326">	<img alt="stars" src="https://img.shields.io/github/stars/Impalabs/CVE-2023-27326">
+
+---
+## CVE-2023-27163 (2023-03-31T20:15:00)
+> request-baskets up to v1.2.1 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /api/baskets/{name}. This vulnerability allows attackers to access network resources and sensitive information via a crafted API request.
+- [entr0pie/CVE-2023-27163](https://github.com/entr0pie/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/entr0pie/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/entr0pie/CVE-2023-27163">
 
 ---
 ## CVE-2023-26604 (2023-03-03T16:15:00)

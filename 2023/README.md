@@ -471,6 +471,16 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [AAsh035/CVE-2023-3212](https://github.com/AAsh035/CVE-2023-3212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-3212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-3212">
 
 ---
+## CVE-2023-31705 ()
+> 
+- [d34dun1c02n/CVE-2023-31705](https://github.com/d34dun1c02n/CVE-2023-31705)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31705">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31705">
+
+---
+## CVE-2023-31704 ()
+> 
+- [d34dun1c02n/CVE-2023-31704](https://github.com/d34dun1c02n/CVE-2023-31704)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31704">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31704">
+
+---
 ## CVE-2023-3163 (2023-06-08T14:15:00)
 > A vulnerability was found in y_project RuoYi up to 4.7.7. It has been classified as problematic. Affected is the function filterKeyword. The manipulation of the argument value leads to resource consumption. VDB-231090 is the identifier assigned to this vulnerability.
 - [George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention](https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention">

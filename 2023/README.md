@@ -477,6 +477,21 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [AAsh035/CVE-2023-3212](https://github.com/AAsh035/CVE-2023-3212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-3212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-3212">
 
 ---
+## CVE-2023-31853 ()
+> 
+- [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">
+
+---
+## CVE-2023-31852 ()
+> 
+- [CalfCrusher/CVE-2023-31852](https://github.com/CalfCrusher/CVE-2023-31852)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31852">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31852">
+
+---
+## CVE-2023-31851 ()
+> 
+- [CalfCrusher/CVE-2023-31851](https://github.com/CalfCrusher/CVE-2023-31851)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31851">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31851">
+
+---
 ## CVE-2023-31705 (2023-07-13T15:15:00)
 > A Reflected Cross-site scripting (XSS) vulnerability in Sourcecodester Task Reminder System 1.0 allows an authenticated user to inject malicious javascript into the page parameter.
 - [d34dun1c02n/CVE-2023-31705](https://github.com/d34dun1c02n/CVE-2023-31705)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31705">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31705">

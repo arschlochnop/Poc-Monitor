@@ -533,6 +533,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">
 
 ---
+## CVE-2023-30383 ()
+> 
+- [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383)	<img alt="forks" src="https://img.shields.io/github/forks/a2ure123/CVE-2023-30383">	<img alt="stars" src="https://img.shields.io/github/stars/a2ure123/CVE-2023-30383">
+
+---
 ## CVE-2023-30347 (2023-06-22T21:15:00)
 > Cross Site Scripting (XSS) vulnerability in Neox Contact Center 2.3.9, via the serach_sms_api_name parameter to the SMA API search.
 - [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347)	<img alt="forks" src="https://img.shields.io/github/forks/huzefa2212/CVE-2023-30347">	<img alt="stars" src="https://img.shields.io/github/stars/huzefa2212/CVE-2023-30347">

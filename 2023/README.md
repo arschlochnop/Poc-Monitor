@@ -1045,6 +1045,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2023-21766">
 
 ---
+## CVE-2023-21746 (2023-01-10T22:15:00)
+> Windows NTLM Elevation of Privilege Vulnerability
+- [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/LocalPotato_CVE-2023-21746">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/LocalPotato_CVE-2023-21746">
+
+---
 ## CVE-2023-21716 (2023-02-14T20:15:00)
 > Microsoft Word Remote Code Execution Vulnerability
 - [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">

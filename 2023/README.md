@@ -488,6 +488,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [AAsh035/CVE-2023-3212](https://github.com/AAsh035/CVE-2023-3212)	<img alt="forks" src="https://img.shields.io/github/forks/AAsh035/CVE-2023-3212">	<img alt="stars" src="https://img.shields.io/github/stars/AAsh035/CVE-2023-3212">
 
 ---
+## CVE-2023-32117 ()
+> 
+- [RandomRobbieBF/CVE-2023-32117](https://github.com/RandomRobbieBF/CVE-2023-32117)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-32117">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-32117">
+
+---
 ## CVE-2023-31853 ()
 > 
 - [CalfCrusher/CVE-2023-31853](https://github.com/CalfCrusher/CVE-2023-31853)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31853">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31853">

@@ -535,8 +535,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [CalfCrusher/CVE-2023-31851](https://github.com/CalfCrusher/CVE-2023-31851)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/CVE-2023-31851">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/CVE-2023-31851">
 
 ---
-## CVE-2023-31753 ()
-> 
+## CVE-2023-31753 (2023-07-20T20:15:00)
+> SQL injection vulnerability in diskusi.php in eNdonesia 8.7, allows an attacker to execute arbitrary SQL commands via the "rid=" parameter.
 - [khmk2k/CVE-2023-31753](https://github.com/khmk2k/CVE-2023-31753)	<img alt="forks" src="https://img.shields.io/github/forks/khmk2k/CVE-2023-31753">	<img alt="stars" src="https://img.shields.io/github/stars/khmk2k/CVE-2023-31753">
 
 ---

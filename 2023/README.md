@@ -145,6 +145,11 @@ This CVE will be updated with new information and links to security updates when
 - [leonardobg/CVE-2023-36143](https://github.com/leonardobg/CVE-2023-36143)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36143">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36143">
 
 ---
+## CVE-2023-35885 (2023-06-20T20:15:00)
+> CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
+- [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
+
+---
 ## CVE-2023-35844 (2023-06-19T02:15:00)
 > packages/backend/src/routers in Lightdash before 0.510.3 has insecure file endpoints, e.g., they allow .. directory traversal and do not ensure that an intended file extension (.csv or .png) is used.
 - [Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844)	<img alt="forks" src="https://img.shields.io/github/forks/Szlein/CVE-2023-35844">	<img alt="stars" src="https://img.shields.io/github/stars/Szlein/CVE-2023-35844">

@@ -727,6 +727,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/cfielding-r7/poc-cve-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/cfielding-r7/poc-cve-2023-2868">
 
 ---
+## CVE-2023-28467 (2023-05-22T19:15:00)
+> In MyBB before 1.8.34, there is XSS in the User CP module via the user email field.
+- [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetaltuntas/CVE-2023-28467">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetaltuntas/CVE-2023-28467">
+
+---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
 > Soko if the code that powers packages.gentoo.org. Prior to version 1.0.2, the two package search handlers, `Search` and `SearchFeed`, implemented in `pkg/app/handler/packages/search.go`, are affected by a SQL injection via the `q` parameter. As a result, unauthenticated attackers can execute arbitrary SQL queries on `https://packages.gentoo.org/`. It was also demonstrated that primitive was enough to gain code execution in the context of the PostgreSQL container. The issue was addressed in commit `4fa6e4b619c0362728955b6ec56eab0e0cbf1e23y` of version 1.0.2 using prepared statements to interpolate user-controlled data in SQL queries.
 - [Fire-Null/CVE-2023-28424](https://github.com/Fire-Null/CVE-2023-28424)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-28424">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-28424">

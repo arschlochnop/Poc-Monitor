@@ -156,6 +156,7 @@
 - [JrDw0/CVE-2017-7921-EXP](https://github.com/JrDw0/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JrDw0/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JrDw0/CVE-2017-7921-EXP">
 - [inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/inj3ction/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/inj3ction/CVE-2017-7921-EXP">
 - [K3ysTr0K3R/CVE-2017-7921-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-7921-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-7921-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-7921-EXPLOIT">
+- [krypton612/hikivision](https://github.com/krypton612/hikivision)	<img alt="forks" src="https://img.shields.io/github/forks/krypton612/hikivision">	<img alt="stars" src="https://img.shields.io/github/stars/krypton612/hikivision">
 
 ---
 ## CVE-2017-7888 (2017-05-10T14:29:00)

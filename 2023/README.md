@@ -806,6 +806,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)	<img alt="forks" src="https://img.shields.io/github/forks/gysf666/CVE-2023-27997-test">	<img alt="stars" src="https://img.shields.io/github/stars/gysf666/CVE-2023-27997-test">
 
 ---
+## CVE-2023-27524 (2023-04-24T16:15:00)
+> Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
+- [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27524">
+
+---
 ## CVE-2023-27372 (2023-02-28T20:15:00)
 > SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.
 - [nuts7/CVE-2023-27372](https://github.com/nuts7/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/nuts7/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/nuts7/CVE-2023-27372">
@@ -828,7 +833,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
 - [horizon3ai/CVE-2023-27350](https://github.com/horizon3ai/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27350">
 - [adhikara13/CVE-2023-27350](https://github.com/adhikara13/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-27350">
-- [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
+- [0ximan1337/CVE-2023-27350-POC](https://github.com/0ximan1337/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0ximan1337/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0ximan1337/CVE-2023-27350-POC">
 
 ---
 ## CVE-2023-2732 (2023-05-25T03:15:00)

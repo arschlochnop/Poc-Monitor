@@ -11,6 +11,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-39144 ()
+> 
+- [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
+
+---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
 > async-sockets-cpp through 0.3.1 has a stack-based buffer overflow in tcpsocket.hpp when processing malformed TCP packets.
 - [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38632">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38632">

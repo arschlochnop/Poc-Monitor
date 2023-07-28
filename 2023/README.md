@@ -566,6 +566,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681)	<img alt="forks" src="https://img.shields.io/github/forks/hardikmodha/POC-CVE-2023-32681">	<img alt="stars" src="https://img.shields.io/github/stars/hardikmodha/POC-CVE-2023-32681">
 
 ---
+## CVE-2023-32434 (2023-06-23T18:15:00)
+> An integer overflow was addressed with improved input validation. This issue is fixed in watchOS 9.5.2, macOS Big Sur 11.7.8, iOS 15.7.7 and iPadOS 15.7.7, macOS Monterey 12.6.7, watchOS 8.8.1, iOS 16.5.1 and iPadOS 16.5.1, macOS Ventura 13.4.1. An app may be able to execute arbitrary code with kernel privileges. Apple is aware of a report that this issue may have been actively exploited against versions of iOS released before iOS 15.7.
+- [ZZY3312/CVE-2023-32434](https://github.com/ZZY3312/CVE-2023-32434)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-32434">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-32434">
+
+---
 ## CVE-2023-32353 (2023-06-23T18:15:00)
 > A logic issue was addressed with improved checks. This issue is fixed in iTunes 12.12.9 for Windows. An app may be able to elevate privileges
 - [86x/CVE-2023-32353-PoC](https://github.com/86x/CVE-2023-32353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/86x/CVE-2023-32353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/86x/CVE-2023-32353-PoC">
@@ -1298,6 +1303,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-1430 (2023-06-09T06:15:00)
 > The FluentCRM - Marketing Automation For WordPress  plugin for WordPress is vulnerable to unauthorized modification of data in versions up to, and including, 2.7.40 due to the use of an MD5 hash without a salt to control subscriptions. This makes it possible for unauthenticated attackers to unsubscribe users from lists and manage subscriptions, granted they gain access to any targeted subscribers email address.
 - [karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2023-1430">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2023-1430">
+
+---
+## CVE-2023-1389 (2023-03-15T23:15:00)
+> TP-Link Archer AX21 (AX1800) firmware versions before 1.1.4 Build 20230219 contained a command injection vulnerability in the country form of the /cgi-bin/luci;stok=/locale endpoint on the web management interface. Specifically, the country parameter of the write operation was not sanitized before being used in a call to popen(), allowing an unauthenticated attacker to inject commands, which would be run as root, with a simple POST request.
+- [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
 
 ---
 ## CVE-2023-10608 ()

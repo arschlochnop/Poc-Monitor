@@ -1195,6 +1195,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)	<img alt="forks" src="https://img.shields.io/github/forks/nonamecoder/CVE-2023-22906">	<img alt="stars" src="https://img.shields.io/github/stars/nonamecoder/CVE-2023-22906">
 
 ---
+## CVE-2023-22884 (2023-01-21T14:15:00)
+> Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Apache Software Foundation Apache Airflow, Apache Software Foundation Apache Airflow MySQL Provider.This issue affects Apache Airflow: before 2.5.1; Apache Airflow MySQL Provider: before 4.0.0.
+- [jakabakos/CVE-2023-22884](https://github.com/jakabakos/CVE-2023-22884)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-22884">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-22884">
+
+---
 ## CVE-2023-22809 (2023-01-18T17:15:00)
 > In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a "--" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.
 - [hello4r1end/patch_CVE-2023-22809](https://github.com/hello4r1end/patch_CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/hello4r1end/patch_CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/hello4r1end/patch_CVE-2023-22809">

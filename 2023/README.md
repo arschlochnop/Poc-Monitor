@@ -25,6 +25,7 @@
 - [hheeyywweellccoommee/CVE-2023-38646-suynl](https://github.com/hheeyywweellccoommee/CVE-2023-38646-suynl)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-suynl">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-suynl">
 - [0xrobiul/CVE-2023-38646](https://github.com/0xrobiul/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-38646">
 - [Chocapikk/CVE-2023-38646](https://github.com/Chocapikk/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-38646">
+- [Xuxfff/CVE-2023-38646-Poc](https://github.com/Xuxfff/CVE-2023-38646-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Xuxfff/CVE-2023-38646-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Xuxfff/CVE-2023-38646-Poc">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

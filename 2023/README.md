@@ -31,6 +31,7 @@
 - [trhacknonimous/CVE-2023-38646](https://github.com/trhacknonimous/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknonimous/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknonimous/CVE-2023-38646">
 - [LazyySec/CVE-2023-38646](https://github.com/LazyySec/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-38646">
 - [Zenmovie/CVE-2023-38646](https://github.com/Zenmovie/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-38646">
+- [hheeyywweellccoommee/CVE-2023-38646-hmoje](https://github.com/hheeyywweellccoommee/CVE-2023-38646-hmoje)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-hmoje">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-hmoje">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

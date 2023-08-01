@@ -1398,6 +1398,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
 
 ---
+## CVE-2023-1112 (2023-03-01T10:15:00)
+> A vulnerability was found in Drag and Drop Multiple File Upload Contact Form 7 5.0.6.1. It has been classified as critical. Affected is an unknown function of the file admin-ajax.php. The manipulation of the argument upload_name leads to relative path traversal. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-222072.
+- [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1112-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1112-EXP">
+
+---
 ## CVE-2023-10608 ()
 > 
 - [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b35363/cve-2023-10608-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b35363/cve-2023-10608-PoC">

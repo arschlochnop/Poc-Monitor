@@ -1246,6 +1246,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-23333">
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
 - [WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333](https://github.com/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-SolarView-Compact-CVE-2023-23333">
+- [emanueldosreis/nmap-CVE-2023-23333-exploit](https://github.com/emanueldosreis/nmap-CVE-2023-23333-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/nmap-CVE-2023-23333-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/nmap-CVE-2023-23333-exploit">
 
 ---
 ## CVE-2023-22960 (2023-01-23T21:15:00)

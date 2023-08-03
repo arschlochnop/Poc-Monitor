@@ -1453,6 +1453,12 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
 
 ---
+## CVE-2023-1177 (2023-03-24T15:15:00)
+> Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
+- [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2023-1177-MLFlow">
+- [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
+
+---
 ## CVE-2023-1112 (2023-03-01T10:15:00)
 > A vulnerability was found in Drag and Drop Multiple File Upload Contact Form 7 5.0.6.1. It has been classified as critical. Affected is an unknown function of the file admin-ajax.php. The manipulation of the argument upload_name leads to relative path traversal. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-222072.
 - [codeb0ss/CVE-2023-1112-EXP](https://github.com/codeb0ss/CVE-2023-1112-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1112-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1112-EXP">

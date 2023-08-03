@@ -773,6 +773,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)	<img alt="forks" src="https://img.shields.io/github/forks/DreamD2v/CVE-2023-31541">	<img alt="stars" src="https://img.shields.io/github/stars/DreamD2v/CVE-2023-31541">
 
 ---
+## CVE-2023-3106 (2023-07-12T09:15:00)
+> A NULL pointer dereference vulnerability was found in netlink_dump. This issue can occur when the Netlink socket receives the message(sendmsg) for the XFRM_MSG_GETSA, XFRM_MSG_GETPOLICY type message, and the DUMP flag is set and can cause a denial of service or possibly another unspecified impact. Due to the nature of the flaw, privilege escalation cannot be fully ruled out, although it is unlikely.
+- [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3106">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3106">
+
+---
 ## CVE-2023-30777 (2023-05-10T06:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in WP Engine Advanced Custom Fields Pro, WP Engine Advanced Custom Fields plugins <= 6.1.5 versions.
 - [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">

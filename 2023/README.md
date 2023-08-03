@@ -11,8 +11,8 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
-## CVE-2023-39144 ()
-> 
+## CVE-2023-39144 (2023-08-03T03:15:00)
+> Element55 KnowMore appliances version 21 and older was discovered to store passwords in plaintext.
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
 
 ---

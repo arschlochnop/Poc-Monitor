@@ -934,6 +934,17 @@
 - [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
 
 ---
+## CVE-2017-12149 (2017-10-04T21:01:00)
+> In Jboss Application Server as shipped with Red Hat Enterprise Application Platform 5.2, it was found that the doFilter method in the ReadOnlyAccessFilter of the HTTP Invoker does not restrict classes for which it performs deserialization and thus allowing an attacker to execute arbitrary code via crafted serialized data.
+- [MrE-Fog/jboss-_CVE-2017-12149](https://github.com/MrE-Fog/jboss-_CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/MrE-Fog/jboss-_CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/MrE-Fog/jboss-_CVE-2017-12149">
+- [VVeakee/CVE-2017-12149](https://github.com/VVeakee/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2017-12149">
+- [Xcatolin/jboss-deserialization](https://github.com/Xcatolin/jboss-deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/Xcatolin/jboss-deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/Xcatolin/jboss-deserialization">
+- [jreppiks/CVE-2017-12149](https://github.com/jreppiks/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/jreppiks/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/jreppiks/CVE-2017-12149">
+- [yunxu1/jboss-_CVE-2017-12149](https://github.com/yunxu1/jboss-_CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/yunxu1/jboss-_CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/yunxu1/jboss-_CVE-2017-12149">
+- [1337g/CVE-2017-12149](https://github.com/1337g/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-12149">
+- [sevck/CVE-2017-12149](https://github.com/sevck/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/sevck/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/sevck/CVE-2017-12149">
+
+---
 ## CVE-2017-12129 (2018-05-14T20:29:00)
 > An exploitable Weak Cryptography for Passwords vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. An attacker could intercept weakly encrypted passwords and could brute force them.
 - [Live-Hack-CVE/CVE-2017-12129](https://github.com/Live-Hack-CVE/CVE-2017-12129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12129">

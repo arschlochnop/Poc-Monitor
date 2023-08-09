@@ -836,6 +836,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765)	<img alt="forks" src="https://img.shields.io/github/forks/0xfml/CVE-2023-30765">	<img alt="stars" src="https://img.shields.io/github/stars/0xfml/CVE-2023-30765">
 
 ---
+## CVE-2023-30533 (2023-04-24T08:15:00)
+> SheetJS Community Edition before 0.19.3 allows Prototype Pollution via a crafted file.
+- [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2023-30533">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2023-30533">
+
+---
 ## CVE-2023-30383 (2023-07-18T19:15:00)
 > TP-LINK Archer C50v2 Archer C50(US)_V2_160801, TP-LINK Archer C20v1 Archer_C20_V1_150707, and TP-LINK Archer C2v1 Archer_C2_US__V1_170228 were discovered to contain a buffer overflow which may lead to a Denial of Service (DoS) when parsing crafted data.
 - [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383)	<img alt="forks" src="https://img.shields.io/github/forks/a2ure123/CVE-2023-30383">	<img alt="stars" src="https://img.shields.io/github/stars/a2ure123/CVE-2023-30383">

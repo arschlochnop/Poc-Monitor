@@ -54,6 +54,7 @@
 - [hheeyywweellccoommee/CVE-2023-38646-hmoje](https://github.com/hheeyywweellccoommee/CVE-2023-38646-hmoje)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-38646-hmoje">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-38646-hmoje">
 - [shamo0/CVE-2023-38646-PoC](https://github.com/shamo0/CVE-2023-38646-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2023-38646-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2023-38646-PoC">
 - [fidjiw/CVE-2023-38646-POC](https://github.com/fidjiw/CVE-2023-38646-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fidjiw/CVE-2023-38646-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fidjiw/CVE-2023-38646-POC">
+- [Any3ite/cve-2023-38646-metabase-ReverseShell](https://github.com/Any3ite/cve-2023-38646-metabase-ReverseShell)	<img alt="forks" src="https://img.shields.io/github/forks/Any3ite/cve-2023-38646-metabase-ReverseShell">	<img alt="stars" src="https://img.shields.io/github/stars/Any3ite/cve-2023-38646-metabase-ReverseShell">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

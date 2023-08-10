@@ -1178,6 +1178,11 @@ and the severity is therefore considered low.
 - [Imahian/CVE-2023-26258](https://github.com/Imahian/CVE-2023-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-26258">
 
 ---
+## CVE-2023-26067 (2023-04-10T20:15:00)
+> Certain Lexmark devices through 2023-02-19 mishandle Input Validation (issue 1 of 4).
+- [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
+
+---
 ## CVE-2023-25690 (2023-03-07T16:15:00)
 > Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
 

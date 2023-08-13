@@ -1484,6 +1484,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
 
 ---
+## CVE-2023-21400 (2023-07-13T00:15:00)
+> In multiple functions  of io_uring.c, there is a possible kernel memory corruption due to improper locking. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [yanglingxi1993/CVE-2023-21400](https://github.com/yanglingxi1993/CVE-2023-21400)	<img alt="forks" src="https://img.shields.io/github/forks/yanglingxi1993/CVE-2023-21400">	<img alt="stars" src="https://img.shields.io/github/stars/yanglingxi1993/CVE-2023-21400">
+
+---
 ## CVE-2023-2114 (2023-05-08T14:15:00)
 > The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">

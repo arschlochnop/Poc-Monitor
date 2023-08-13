@@ -5626,6 +5626,9 @@
 > An integer overflow was addressed with improved input validation. This issue is fixed in Security Update 2021-005 Catalina, iOS 14.8 and iPadOS 14.8, macOS Big Sur 11.6, watchOS 7.6.2. Processing a maliciously crafted PDF may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
 - [Live-Hack-CVE/CVE-2021-30860](https://github.com/Live-Hack-CVE/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30860">
 - [Live-Hack-CVE/CVE-2021-30860](https://github.com/Live-Hack-CVE/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30860">
+- [jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/jeffssh/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/jeffssh/CVE-2021-30860">
+- [30440r/gex](https://github.com/30440r/gex)	<img alt="forks" src="https://img.shields.io/github/forks/30440r/gex">	<img alt="stars" src="https://img.shields.io/github/stars/30440r/gex">
+- [Levilutz/CVE-2021-30860](https://github.com/Levilutz/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Levilutz/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Levilutz/CVE-2021-30860">
 
 ---
 ## CVE-2021-30844 (2021-10-19T14:15:00)

@@ -16,6 +16,11 @@
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
 
 ---
+## CVE-2023-40296 ()
+> 
+- [Halcy0nic/CVE-2023-40296](https://github.com/Halcy0nic/CVE-2023-40296)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40296">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40296">
+
+---
 ## CVE-2023-40294 ()
 > 
 - [Halcy0nic/CVE-2023-40294-and-CVE-2023-40295](https://github.com/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-40294-and-CVE-2023-40295">

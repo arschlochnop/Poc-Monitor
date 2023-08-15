@@ -729,6 +729,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/CVE-2023-33243">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/CVE-2023-33243">
 
 ---
+## CVE-2023-33242 (2023-08-09T22:15:00)
+> Crypto wallets implementing the Lindell17 TSS protocol might allow an attacker to extract the full ECDSA private key by exfiltrating a single bit in every signature attempt (256 in total) because of not adhering to the paper's security proof's assumption regarding handling aborts after a failed signature.
+- [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33242">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33242">
+
+---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
 > Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <= 7.3.3 versions.
 - [LOURC0D3/CVE-2023-32961](https://github.com/LOURC0D3/CVE-2023-32961)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2023-32961">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2023-32961">
@@ -989,6 +994,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 > Windows OLE Remote Code Execution Vulnerability
 - [a-bazi/test-CVE-2023-29325](https://github.com/a-bazi/test-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test-CVE-2023-29325">
 - [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test2-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test2-CVE-2023-29325">
+
+---
+## CVE-2023-2916 (2023-08-15T09:15:00)
+> The InfiniteWP Client plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.11.1 via the 'admin_notice' function. This can allow authenticated attackers with subscriber-level permissions or above to extract sensitive data including configuration. It can only be exploited if the plugin has not been configured yet. If combined with another arbitrary plugin installation and activation vulnerability, it may be possible to connect a site to InfiniteWP which would make remote management possible and allow for elevation of privileges.
+- [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-2916">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-2916">
 
 ---
 ## CVE-2023-28771 (2023-04-25T02:15:00)

@@ -1328,6 +1328,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [LazyySec/CVE-2023-24488](https://github.com/LazyySec/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/LazyySec/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/LazyySec/CVE-2023-24488">
 
 ---
+## CVE-2023-24329 (2023-02-17T15:15:00)
+> An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.
+- [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/CVE-2023-24329-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/CVE-2023-24329-PoC">
+
+---
 ## CVE-2023-24078 (2023-02-17T07:15:00)
 > Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
 - [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">

@@ -1266,6 +1266,11 @@ and the severity is therefore considered low.
 - [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
 
 ---
+## CVE-2023-25968 (2023-03-15T11:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Cozmoslabs, Madalin Ungureanu, Antohe Cristian Client Portal – Private user pages and login plugin <= 1.1.8 versions.
+- [KOwloid/cve-2023-25968](https://github.com/KOwloid/cve-2023-25968)	<img alt="forks" src="https://img.shields.io/github/forks/KOwloid/cve-2023-25968">	<img alt="stars" src="https://img.shields.io/github/stars/KOwloid/cve-2023-25968">
+
+---
 ## CVE-2023-25690 (2023-03-07T16:15:00)
 > Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
 

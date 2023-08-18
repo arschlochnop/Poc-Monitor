@@ -1592,6 +1592,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
 
 ---
+## CVE-2023-20073 (2023-04-05T16:15:00)
+> A vulnerability in the web-based management interface of Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an unauthenticated, remote attacker to upload arbitrary files to an affected device. This vulnerability is due to insufficient authorization enforcement mechanisms in the context of file uploads. An attacker could exploit this vulnerability by sending a crafted HTTP request to an affected device. A successful exploit could allow the attacker to upload arbitrary files to the affected device.
+- [RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073)	<img alt="forks" src="https://img.shields.io/github/forks/RegularITCat/CVE-2023-20073">	<img alt="stars" src="https://img.shields.io/github/stars/RegularITCat/CVE-2023-20073">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">

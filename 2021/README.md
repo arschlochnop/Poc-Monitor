@@ -4715,6 +4715,7 @@
 - [fardinbarashi/PsFix-CVE-2021-34527](https://github.com/fardinbarashi/PsFix-CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/fardinbarashi/PsFix-CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/fardinbarashi/PsFix-CVE-2021-34527">
 - [r1skkam/PrintNightmare](https://github.com/r1skkam/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/PrintNightmare">
 - [d0rb/CVE-2021-34527](https://github.com/d0rb/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2021-34527">
+- [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 
 ---
 ## CVE-2021-3449 (2021-03-25T15:15:00)

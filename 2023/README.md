@@ -1634,6 +1634,32 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">
 
 ---
+## CVE-2023-20562 (2023-08-08T18:15:00)
+> 
+
+
+Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD uProf may allow an authenticated user to load an unsigned driver potentially leading to arbitrary kernel execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562)	<img alt="forks" src="https://img.shields.io/github/forks/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">	<img alt="stars" src="https://img.shields.io/github/stars/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">
+
+---
 ## CVE-2023-2033 (2023-04-14T19:15:00)
 > Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [WalccDev/CVE-2023-2033](https://github.com/WalccDev/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/WalccDev/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/WalccDev/CVE-2023-2033">

@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-9999 ()
+> 
+- [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-9999">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-9999">
+
+---
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">

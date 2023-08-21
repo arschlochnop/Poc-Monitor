@@ -1647,6 +1647,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-21554 (2023-04-11T21:15:00)
 > Microsoft Message Queuing Remote Code Execution Vulnerability
 - [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
+- [zoemurmure/CVE-2023-21554-PoC](https://github.com/zoemurmure/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21554-PoC">
 
 ---
 ## CVE-2023-21400 (2023-07-13T00:15:00)

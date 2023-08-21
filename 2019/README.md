@@ -1603,6 +1603,7 @@
 - [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [trustedsec/cve-2019-19781](https://github.com/trustedsec/cve-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trustedsec/cve-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trustedsec/cve-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)

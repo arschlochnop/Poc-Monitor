@@ -1116,6 +1116,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetaltuntas/CVE-2023-28467">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetaltuntas/CVE-2023-28467">
 
 ---
+## CVE-2023-28432 (2023-03-22T21:15:00)
+> Minio is a Multi-Cloud Object Storage framework. In a cluster deployment starting with RELEASE.2019-12-17T23-16-33Z and prior to RELEASE.2023-03-20T20-16-18Z, MinIO returns all environment variables, including `MINIO_SECRET_KEY` and `MINIO_ROOT_PASSWORD`, resulting in information disclosure. All users of distributed deployment are impacted. All users are advised to upgrade to RELEASE.2023-03-20T20-16-18Z.
+- [bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/CVE-2023-28432">
+
+---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
 > Soko if the code that powers packages.gentoo.org. Prior to version 1.0.2, the two package search handlers, `Search` and `SearchFeed`, implemented in `pkg/app/handler/packages/search.go`, are affected by a SQL injection via the `q` parameter. As a result, unauthenticated attackers can execute arbitrary SQL queries on `https://packages.gentoo.org/`. It was also demonstrated that primitive was enough to gain code execution in the context of the PostgreSQL container. The issue was addressed in commit `4fa6e4b619c0362728955b6ec56eab0e0cbf1e23y` of version 1.0.2 using prepared statements to interpolate user-controlled data in SQL queries.
 - [Fire-Null/CVE-2023-28424](https://github.com/Fire-Null/CVE-2023-28424)	<img alt="forks" src="https://img.shields.io/github/forks/Fire-Null/CVE-2023-28424">	<img alt="stars" src="https://img.shields.io/github/stars/Fire-Null/CVE-2023-28424">

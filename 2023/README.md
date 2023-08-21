@@ -1644,6 +1644,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
 
 ---
+## CVE-2023-21554 (2023-04-11T21:15:00)
+> Microsoft Message Queuing Remote Code Execution Vulnerability
+- [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
+
+---
 ## CVE-2023-21400 (2023-07-13T00:15:00)
 > In multiple functions  of io_uring.c, there is a possible kernel memory corruption due to improper locking. This could lead to local escalation of privilege in the kernel with System execution privileges needed. User interaction is not needed for exploitation.
 

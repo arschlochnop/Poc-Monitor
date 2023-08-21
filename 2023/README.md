@@ -4,6 +4,7 @@
 ## CVE-2023-9999 ()
 > 
 - [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-9999">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-9999">
+- [zeroc00I/CVE-2023-999999](https://github.com/zeroc00I/CVE-2023-999999)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-999999">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-999999">
 
 ---
 ## CVE-2023-66975 ()

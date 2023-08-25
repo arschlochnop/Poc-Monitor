@@ -1714,6 +1714,7 @@
 - [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/Apache-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/Apache-CVEs">
 - [birdlinux/CVE-2021-42013](https://github.com/birdlinux/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/birdlinux/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/birdlinux/CVE-2021-42013">
 - [Hamesawian/CVE-2021-42013](https://github.com/Hamesawian/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Hamesawian/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Hamesawian/CVE-2021-42013">
+- [K3ysTr0K3R/CVE-2021-42013-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-42013-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-42013-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-42013-EXPLOIT">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)

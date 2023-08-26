@@ -1508,6 +1508,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2023-25610">
 
 ---
+## CVE-2023-2523 (2023-05-04T18:15:00)
+> A vulnerability was found in Weaver E-Office 9.5. It has been rated as critical. Affected by this issue is some unknown functionality of the file App/Ajax/ajax.php?action=mobile_upload_save. The manipulation of the argument upload_quwan leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-228014 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [bingtangbanli/cve-2023-2523andcve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523andcve-2023-2648)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/cve-2023-2523andcve-2023-2648">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/cve-2023-2523andcve-2023-2648">
+
+---
 ## CVE-2023-25157 (2023-02-21T22:15:00)
 > GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. GeoServer includes support for the OGC Filter expression language and the OGC Common Query Language (CQL) as part of the Web Feature Service (WFS) and Web Map Service (WMS) protocols. CQL is also supported through the Web Coverage Service (WCS) protocol for ImageMosaic coverages. Users are advised to upgrade to either version 2.21.4, or version 2.22.2 to resolve this issue. Users unable to upgrade should disable the PostGIS Datastore *encode functions* setting to mitigate ``strEndsWith``, ``strStartsWith`` and ``PropertyIsLike `` misuse and enable the PostGIS DataStore *preparedStatements* setting to mitigate the ``FeatureId`` misuse.
 - [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-25157">

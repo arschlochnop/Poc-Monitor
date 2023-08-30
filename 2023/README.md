@@ -1429,6 +1429,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [josephberger/CVE-2023-27163](https://github.com/josephberger/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/josephberger/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/josephberger/CVE-2023-27163">
 
 ---
+## CVE-2023-26818 (2023-05-19T12:15:00)
+> Telegram 9.3.1 and 9.4.0 allows attackers to access restricted files, microphone ,or video recording via the DYLD_INSERT_LIBRARIES flag.
+- [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
+
+---
 ## CVE-2023-26604 (2023-03-03T16:15:00)
 > systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
 - [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">

@@ -1379,6 +1379,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27524">
 - [antx-code/CVE-2023-27524](https://github.com/antx-code/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2023-27524">
 - [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/Superset_auth_bypass_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/Superset_auth_bypass_check">
+- [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 
 ---
 ## CVE-2023-27372 (2023-02-28T20:15:00)

@@ -605,6 +605,7 @@ prior to
 - [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mandiant/citrix-ioc-scanner-cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mandiant/citrix-ioc-scanner-cve-2023-3519">
 - [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
 - [knitteruntil0s/CVE-2023-3519](https://github.com/knitteruntil0s/CVE-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/knitteruntil0s/CVE-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/knitteruntil0s/CVE-2023-3519">
+- [JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck)	<img alt="forks" src="https://img.shields.io/github/forks/JonaNeidhart/CVE-2023-3519-BackdoorCheck">	<img alt="stars" src="https://img.shields.io/github/stars/JonaNeidhart/CVE-2023-3519-BackdoorCheck">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)

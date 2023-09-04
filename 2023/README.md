@@ -1472,6 +1472,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2825-zaskh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2825-zaskh">
 
 ---
+## CVE-2023-28229 (2023-04-11T21:15:00)
+> Windows CNG Key Isolation Service Elevation of Privilege Vulnerability
+- [Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/CVE-2023-28229">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/CVE-2023-28229">
+
+---
 ## CVE-2023-28178 (2023-05-08T20:15:00)
 > A logic issue was addressed with improved validation. This issue is fixed in macOS Monterey 12.6.4, iOS 16.4 and iPadOS 16.4, macOS Ventura 13.3. An app may be able to bypass Privacy preferences
 - [MacCVEResearch/CVE-2023-28178-patch](https://github.com/MacCVEResearch/CVE-2023-28178-patch)	<img alt="forks" src="https://img.shields.io/github/forks/MacCVEResearch/CVE-2023-28178-patch">	<img alt="stars" src="https://img.shields.io/github/stars/MacCVEResearch/CVE-2023-28178-patch">

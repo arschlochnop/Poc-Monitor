@@ -2635,6 +2635,13 @@
 ## CVE-2019-0604 (2019-03-05T23:29:00)
 > A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package, aka 'Microsoft SharePoint Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-0594.
 - [davidlebr1/cve-2019-0604-SP2010-netv3.5](https://github.com/davidlebr1/cve-2019-0604-SP2010-netv3.5)	<img alt="forks" src="https://img.shields.io/github/forks/davidlebr1/cve-2019-0604-SP2010-netv3.5">	<img alt="stars" src="https://img.shields.io/github/stars/davidlebr1/cve-2019-0604-SP2010-netv3.5">
+- [MayankPandey01/Sparty-2.0](https://github.com/MayankPandey01/Sparty-2.0)	<img alt="forks" src="https://img.shields.io/github/forks/MayankPandey01/Sparty-2.0">	<img alt="stars" src="https://img.shields.io/github/stars/MayankPandey01/Sparty-2.0">
+- [boxhg/CVE-2019-0604](https://github.com/boxhg/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/boxhg/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/boxhg/CVE-2019-0604">
+- [Gh0st0ne/weaponized-0604](https://github.com/Gh0st0ne/weaponized-0604)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0st0ne/weaponized-0604">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0st0ne/weaponized-0604">
+- [k8gege/CVE-2019-0604](https://github.com/k8gege/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/k8gege/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/k8gege/CVE-2019-0604">
+- [m5050/CVE-2019-0604](https://github.com/m5050/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/m5050/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/m5050/CVE-2019-0604">
+- [likescam/CVE-2019-0604_sharepoint_CVE](https://github.com/likescam/CVE-2019-0604_sharepoint_CVE)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2019-0604_sharepoint_CVE">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2019-0604_sharepoint_CVE">
+- [linhlhq/CVE-2019-0604](https://github.com/linhlhq/CVE-2019-0604)	<img alt="forks" src="https://img.shields.io/github/forks/linhlhq/CVE-2019-0604">	<img alt="stars" src="https://img.shields.io/github/stars/linhlhq/CVE-2019-0604">
 
 ---
 ## CVE-2019-0257 (2019-02-15T18:29:00)

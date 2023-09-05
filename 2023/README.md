@@ -2144,6 +2144,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
 
 ---
+## CVE-2023-12345 ()
+> 
+- [TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit](https://github.com/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit">
+
+---
 ## CVE-2023-1177 (2023-03-24T15:15:00)
 > Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
 - [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2023-1177-MLFlow">

@@ -22,6 +22,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-4741 ()
+> 
+- [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
+
+---
 ## CVE-2023-4698 ()
 > 
 - [mnqazi/CVE-2023-4698](https://github.com/mnqazi/CVE-2023-4698)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4698">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4698">
@@ -67,6 +72,16 @@
 ## CVE-2023-41646 ()
 > 
 - [tristao-marinho/CVE-2023-41646](https://github.com/tristao-marinho/CVE-2023-41646)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-41646">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-41646">
+
+---
+## CVE-2023-41508 ()
+> 
+- [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41508">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41508">
+
+---
+## CVE-2023-41507 ()
+> 
+- [redblueteam/CVE-2023-41507](https://github.com/redblueteam/CVE-2023-41507)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41507">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41507">
 
 ---
 ## CVE-2023-41080 (2023-08-25T21:15:00)

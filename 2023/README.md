@@ -99,6 +99,7 @@
 
 The vulnerability is limited to the ROOT (default) web application.
 - [shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2023-41080">
+- [thperchi/CVE-2023-41080](https://github.com/thperchi/CVE-2023-41080)	<img alt="forks" src="https://img.shields.io/github/forks/thperchi/CVE-2023-41080">	<img alt="stars" src="https://img.shields.io/github/stars/thperchi/CVE-2023-41080">
 
 ---
 ## CVE-2023-40869 ()
@@ -943,6 +944,7 @@ By default, these properties are false, and the container only attempts to deser
 - [CharonDefalt/CVE-2023-34039](https://github.com/CharonDefalt/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/CharonDefalt/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/CharonDefalt/CVE-2023-34039">
 - [Cyb3rEnthusiast/CVE-2023-34039](https://github.com/Cyb3rEnthusiast/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-34039">
 - [syedhafiz1234/CVE-2023-34039](https://github.com/syedhafiz1234/CVE-2023-34039)	<img alt="forks" src="https://img.shields.io/github/forks/syedhafiz1234/CVE-2023-34039">	<img alt="stars" src="https://img.shields.io/github/stars/syedhafiz1234/CVE-2023-34039">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-34035 (2023-07-18T16:15:00)

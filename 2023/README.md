@@ -1276,6 +1276,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)	<img alt="forks" src="https://img.shields.io/github/forks/DreamD2v/CVE-2023-31541">	<img alt="stars" src="https://img.shields.io/github/stars/DreamD2v/CVE-2023-31541">
 
 ---
+## CVE-2023-3124 (2023-06-07T02:15:00)
+> The Elementor Pro plugin for WordPress is vulnerable to unauthorized data modification due to a missing capability check on the update_page_option function in versions up to, and including, 3.11.6. This makes it possible for authenticated attackers with subscriber-level capabilities to update arbitrary site options, which can lead to privilege escalation.
+- [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124)	<img alt="forks" src="https://img.shields.io/github/forks/AmirWhiteHat/CVE-2023-3124">	<img alt="stars" src="https://img.shields.io/github/stars/AmirWhiteHat/CVE-2023-3124">
+
+---
 ## CVE-2023-3106 (2023-07-12T09:15:00)
 > A NULL pointer dereference vulnerability was found in netlink_dump. This issue can occur when the Netlink socket receives the message(sendmsg) for the XFRM_MSG_GETSA, XFRM_MSG_GETPOLICY type message, and the DUMP flag is set and can cause a denial of service or possibly another unspecified impact. Due to the nature of the flaw, privilege escalation cannot be fully ruled out, although it is unlikely.
 - [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3106">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3106">

@@ -1010,6 +1010,11 @@ An application is not vulnerable if any of the following is true:
 - [Fr0stM0urne/CVE-2023-33768](https://github.com/Fr0stM0urne/CVE-2023-33768)	<img alt="forks" src="https://img.shields.io/github/forks/Fr0stM0urne/CVE-2023-33768">	<img alt="stars" src="https://img.shields.io/github/stars/Fr0stM0urne/CVE-2023-33768">
 
 ---
+## CVE-2023-33733 (2023-06-05T16:15:00)
+> Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file.
+- [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/c53elyas/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/c53elyas/CVE-2023-33733">
+
+---
 ## CVE-2023-33668 (2023-07-12T13:15:00)
 > DigiExam up to v14.0.2 lacks integrity checks for native modules, allowing attackers to access PII and takeover accounts on shared computers.
 - [lodi-g/CVE-2023-33668](https://github.com/lodi-g/CVE-2023-33668)	<img alt="forks" src="https://img.shields.io/github/forks/lodi-g/CVE-2023-33668">	<img alt="stars" src="https://img.shields.io/github/stars/lodi-g/CVE-2023-33668">

@@ -84,6 +84,16 @@
 - [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">
 
 ---
+## CVE-2023-41535 ()
+> 
+- [Sh33talUmath/CVE-2023-41535](https://github.com/Sh33talUmath/CVE-2023-41535)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41535">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41535">
+
+---
+## CVE-2023-41534 ()
+> 
+- [Sh33talUmath/CVE-2023-41534](https://github.com/Sh33talUmath/CVE-2023-41534)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41534">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41534">
+
+---
 ## CVE-2023-41533 ()
 > 
 - [Sh33talUmath/CVE-2023-41533](https://github.com/Sh33talUmath/CVE-2023-41533)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41533">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41533">

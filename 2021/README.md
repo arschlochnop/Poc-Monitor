@@ -8267,6 +8267,7 @@
 ## CVE-2021-1366 (2021-02-17T17:15:00)
 > A vulnerability in the interprocess communication (IPC) channel of Cisco AnyConnect Secure Mobility Client for Windows could allow an authenticated, local attacker to perform a DLL hijacking attack on an affected device if the VPN Posture (HostScan) Module is installed on the AnyConnect client. This vulnerability is due to insufficient validation of resources that are loaded by the application at run time. An attacker could exploit this vulnerability by sending a crafted IPC message to the AnyConnect process. A successful exploit could allow the attacker to execute arbitrary code on the affected machine with SYSTEM privileges. To exploit this vulnerability, the attacker needs valid credentials on the Windows system.
 - [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366)	<img alt="forks" src="https://img.shields.io/github/forks/koztkozt/CVE-2021-1366">	<img alt="stars" src="https://img.shields.io/github/stars/koztkozt/CVE-2021-1366">
+- [koztkozt/CVE-2021-1366](https://github.com/koztkozt/CVE-2021-1366)	<img alt="forks" src="https://img.shields.io/github/forks/koztkozt/CVE-2021-1366">	<img alt="stars" src="https://img.shields.io/github/stars/koztkozt/CVE-2021-1366">
 
 ---
 ## CVE-2021-1357 (2021-01-20T20:15:00)

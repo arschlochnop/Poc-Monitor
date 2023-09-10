@@ -2170,6 +2170,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [codeb0ss/CVE-2023-20073-](https://github.com/codeb0ss/CVE-2023-20073-)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-20073-">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-20073-">
 
 ---
+## CVE-2023-1698 (2023-05-15T09:15:00)
+> In multiple products of WAGO a vulnerability allows an unauthenticated, remote attacker to create new users and change the device configuration which can result in unintended behaviour, Denial of Service and full system compromise.
+- [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1698-PoC">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">

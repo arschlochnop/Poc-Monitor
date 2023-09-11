@@ -48,6 +48,11 @@
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-4350 (2023-08-15T18:15:00)
+> Inappropriate implementation in Fullscreen in Google Chrome on Android prior to 116.0.5845.96 allowed a remote attacker to potentially spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)
+- [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
+
+---
 ## CVE-2023-4278 ()
 > 
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">

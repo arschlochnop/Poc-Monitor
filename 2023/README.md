@@ -58,6 +58,11 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-4238 ()
+> 
+- [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4238-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4238-PoC">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
@@ -2241,6 +2246,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > TP-Link Archer AX21 (AX1800) firmware versions before 1.1.4 Build 20230219 contained a command injection vulnerability in the country form of the /cgi-bin/luci;stok=/locale endpoint on the web management interface. Specifically, the country parameter of the write operation was not sanitized before being used in a call to popen(), allowing an unauthenticated attacker to inject commands, which would be run as root, with a simple POST request.
 - [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
 - [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Terminal1337/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Terminal1337/CVE-2023-1389">
+
+---
+## CVE-2023-1273 (2023-07-04T08:15:00)
+> The ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks
+- [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
 
 ---
 ## CVE-2023-12345 ()

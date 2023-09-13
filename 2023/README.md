@@ -2293,6 +2293,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
 
 ---
+## CVE-2023-08 ()
+> 
+- [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-08-21-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-08-21-exploit">
+
+---
 ## CVE-2023-0669 (2023-02-06T20:15:00)
 > Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.
 - [Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/CVE-2023-0669">

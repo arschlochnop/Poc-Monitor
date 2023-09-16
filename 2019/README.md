@@ -1492,6 +1492,12 @@
 - [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
 
 ---
+## CVE-2019-20372 (2020-01-09T21:15:00)
+> NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by the ability of an attacker to read unauthorized web pages in environments where NGINX is being fronted by a load balancer.
+- [0xleft/CVE-2019-20372](https://github.com/0xleft/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/0xleft/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/0xleft/CVE-2019-20372">
+- [vuongnv3389-sec/CVE-2019-20372](https://github.com/vuongnv3389-sec/CVE-2019-20372)	<img alt="forks" src="https://img.shields.io/github/forks/vuongnv3389-sec/CVE-2019-20372">	<img alt="stars" src="https://img.shields.io/github/stars/vuongnv3389-sec/CVE-2019-20372">
+
+---
 ## CVE-2019-20330 (2020-01-03T04:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache blocking.
 - [Live-Hack-CVE/CVE-2019-20330](https://github.com/Live-Hack-CVE/CVE-2019-20330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20330">
@@ -1982,7 +1988,7 @@
 > Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
 - [FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE](https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE">
-- [c1ph3rm4st3r/CVE-2019-16278](https://github.com/c1ph3rm4st3r/CVE-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/c1ph3rm4st3r/CVE-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/c1ph3rm4st3r/CVE-2019-16278">
+- [crypticdante/CVE-2019-16278](https://github.com/crypticdante/CVE-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/crypticdante/CVE-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/crypticdante/CVE-2019-16278">
 - [alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/alexander-fernandes/CVE-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/alexander-fernandes/CVE-2019-16278">
 - [sunnet-cyber/CVE2019_16278](https://github.com/sunnet-cyber/CVE2019_16278)	<img alt="forks" src="https://img.shields.io/github/forks/sunnet-cyber/CVE2019_16278">	<img alt="stars" src="https://img.shields.io/github/stars/sunnet-cyber/CVE2019_16278">
 - [ianxtianxt/CVE-2019-16278](https://github.com/ianxtianxt/CVE-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2019-16278">

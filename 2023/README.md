@@ -2415,6 +2415,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
 
 ---
+## CVE-2023-0255 (2023-02-13T15:15:00)
+> The Enable Media Replace WordPress plugin before 4.0.2 does not prevent authors from uploading arbitrary files to the site, which may allow them to upload PHP shells on affected sites.
+- [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-0255-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-0255-PoC">
+
+---
 ## CVE-2023-0099 (2023-02-13T15:15:00)
 > The Simple URLs WordPress plugin before 115 does not sanitise and escape some parameters before outputting them back in some pages, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin.
 - [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-0099-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-0099-exploit">

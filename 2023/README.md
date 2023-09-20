@@ -2320,6 +2320,18 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1698-PoC">
 
 ---
+## CVE-2023-15 ()
+> 
+- [XXXE88/cve-2023-15](https://github.com/XXXE88/cve-2023-15)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-15">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-15">
+- [Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-4128">
+- [Trinadh465/linux-4.1.15_CVE-2023-26607](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-26607">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-26607">
+- [nidhi7598/linux-4.1.15_CVE-2023-3567](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3567)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3567">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3567">
+- [nidhi7598/linux-4.1.15_CVE-2023-3106](https://github.com/nidhi7598/linux-4.1.15_CVE-2023-3106)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.1.15_CVE-2023-3106">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.1.15_CVE-2023-3106">
+- [hshivhare67/kernel_v4.1.15_CVE-2023-28772](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.1.15_CVE-2023-28772">
+- [Satheesh575555/linux-4.1.15_CVE-2023-28772](https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.1.15_CVE-2023-28772">
+- [Trinadh465/linux-4.1.15_CVE-2023-28772](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.1.15_CVE-2023-28772">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.1.15_CVE-2023-28772">
+
+---
 ## CVE-2023-1454 (2023-03-17T07:15:00)
 > A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
 - [MzzdToT/CVE-2023-1454](https://github.com/MzzdToT/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/CVE-2023-1454">
@@ -2342,6 +2354,15 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Terminal1337/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Terminal1337/CVE-2023-1389">
 
 ---
+## CVE-2023-13 ()
+> 
+- [XXXE88/cve-2023-13](https://github.com/XXXE88/cve-2023-13)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-13">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-13">
+- [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Terminal1337/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Terminal1337/CVE-2023-1389">
+- [mnqazi/CVE-2023-4696](https://github.com/mnqazi/CVE-2023-4696)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-4696">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-4696">
+- [Voyag3r-Security/CVE-2023-1389](https://github.com/Voyag3r-Security/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Voyag3r-Security/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Voyag3r-Security/CVE-2023-1389">
+- [Penkyzduyi/CVE-2023-1337](https://github.com/Penkyzduyi/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-1337">
+
+---
 ## CVE-2023-1273 (2023-07-04T08:15:00)
 > The ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks
 - [codeb0ss/CVE-2023-1273-PoC](https://github.com/codeb0ss/CVE-2023-1273-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1273-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1273-PoC">
@@ -2350,6 +2371,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-12345 ()
 > 
 - [TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit](https://github.com/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TuanLeDevelopment/CVE-2023-12345-Vulnerability-Forced-MDM-Profiles-Removal-Exploit">
+
+---
+## CVE-2023-12 ()
+> 
+- [XXXE88/cve-2023-12](https://github.com/XXXE88/cve-2023-12)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-12">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-12">
 
 ---
 ## CVE-2023-1177 (2023-03-24T15:15:00)

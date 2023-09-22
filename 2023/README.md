@@ -69,6 +69,11 @@
 - [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43325">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43325">
 
 ---
+## CVE-2023-43154 ()
+> 
+- [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
+
+---
 ## CVE-2023-4278 (2023-09-11T20:15:00)
 > The MasterStudy LMS WordPress Plugin WordPress plugin before 3.0.18 does not have proper checks in place during registration allowing anyone to register on the site as an instructor. They can then add courses and/or posts.
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">

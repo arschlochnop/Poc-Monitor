@@ -170,8 +170,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [apt0factury/CVE-2023-41064](https://github.com/apt0factury/CVE-2023-41064)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-41064">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-41064">
 
 ---
-## CVE-2023-40989 ()
-> 
+## CVE-2023-40989 (2023-09-22T20:15:00)
+> SQL injection vulnerbility in jeecgboot jeecg-boot v 3.0, 3.5.3 that allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.
 - [Zone1-Z/CVE-2023-40989](https://github.com/Zone1-Z/CVE-2023-40989)	<img alt="forks" src="https://img.shields.io/github/forks/Zone1-Z/CVE-2023-40989">	<img alt="stars" src="https://img.shields.io/github/stars/Zone1-Z/CVE-2023-40989">
 
 ---

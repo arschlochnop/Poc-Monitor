@@ -1565,6 +1565,15 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Chocapikk/CVE-2023-30943](https://github.com/Chocapikk/CVE-2023-30943)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-30943">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-30943">
 
 ---
+## CVE-2023-30845 (2023-04-26T21:15:00)
+> ESPv2 is a service proxy that provides API management capabilities using Google Service Infrastructure. ESPv2 2.20.0 through 2.42.0 contains an authentication bypass vulnerability. API clients can craft a malicious `X-HTTP-Method-Override` header value to bypass JWT authentication in specific cases.
+
+ESPv2 allows malicious requests to bypass authentication if both the conditions are true: The requested HTTP method is **not** in the API service definition (OpenAPI spec or gRPC `google.api.http` proto annotations, and the specified `X-HTTP-Method-Override` is a valid HTTP method in the API service definition. ESPv2 will forward the request to your backend without checking the JWT. Attackers can craft requests with a malicious `X-HTTP-Method-Override` value that allows them to bypass specifying JWTs. Restricting API access with API keys works as intended and is not affected by this vulnerability.
+
+Upgrade deployments to release v2.43.0 or higher to receive a patch. This release ensures that JWT authentication occurs, even when the caller specifies `x-http-method-override`. `x-http-method-override` is still supported by v2.43.0+. API clients can continue sending this header to ESPv2.
+- [himori123/-CVE-2023-30845](https://github.com/himori123/-CVE-2023-30845)	<img alt="forks" src="https://img.shields.io/github/forks/himori123/-CVE-2023-30845">	<img alt="stars" src="https://img.shields.io/github/stars/himori123/-CVE-2023-30845">
+
+---
 ## CVE-2023-3079 (2023-06-05T22:15:00)
 > Type confusion in V8 in Google Chrome prior to 114.0.5735.110 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [mistymntncop/CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-3079">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-3079">

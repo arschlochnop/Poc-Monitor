@@ -79,6 +79,11 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-42426 ()
+> 
+- [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-42426">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-42426">
+
+---
 ## CVE-2023-42413 ()
 > 
 - [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413)	<img alt="forks" src="https://img.shields.io/github/forks/chenghao-hao/cve-2023-42413">	<img alt="stars" src="https://img.shields.io/github/stars/chenghao-hao/cve-2023-42413">
@@ -2595,6 +2600,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-0255 (2023-02-13T15:15:00)
 > The Enable Media Replace WordPress plugin before 4.0.2 does not prevent authors from uploading arbitrary files to the site, which may allow them to upload PHP shells on affected sites.
 - [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-0255-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-0255-PoC">
+
+---
+## CVE-2023-0156 (2023-04-10T14:15:00)
+> The All-In-One Security (AIOS) WordPress plugin before 5.1.5 does not limit what log files to display in it's settings pages, allowing an authorized user (admin+) to view the contents of arbitrary files and list directories anywhere on the server (to which the web server has access). The plugin only displays the last 50 lines of the file.
+- [b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-0156">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-0156">
 
 ---
 ## CVE-2023-0099 (2023-02-13T15:15:00)

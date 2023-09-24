@@ -74,6 +74,11 @@
 - [ally-petitt/CVE-2023-43154-PoC](https://github.com/ally-petitt/CVE-2023-43154-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2023-43154-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2023-43154-PoC">
 
 ---
+## CVE-2023-4279 (2023-09-04T12:15:00)
+> This User Activity Log WordPress plugin before 1.6.7 retrieves client IP addresses from potentially untrusted headers, allowing an attacker to manipulate its value. This may be used to hide the source of malicious traffic.
+- [b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4279">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4279">
+
+---
 ## CVE-2023-4278 (2023-09-11T20:15:00)
 > The MasterStudy LMS WordPress Plugin WordPress plugin before 3.0.18 does not have proper checks in place during registration allowing anyone to register on the site as an instructor. They can then add courses and/or posts.
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
@@ -2600,6 +2605,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-0255 (2023-02-13T15:15:00)
 > The Enable Media Replace WordPress plugin before 4.0.2 does not prevent authors from uploading arbitrary files to the site, which may allow them to upload PHP shells on affected sites.
 - [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-0255-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-0255-PoC">
+
+---
+## CVE-2023-0157 (2023-04-10T14:15:00)
+> The All-In-One Security (AIOS) WordPress plugin before 5.1.5 does not escape the content of log files before outputting it to the plugin admin page, allowing an authorized user (admin+) to plant bogus log files containing malicious JavaScript code that will be executed in the context of any administrator visiting this page.
+- [b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-0157">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-0157">
 
 ---
 ## CVE-2023-0156 (2023-04-10T14:15:00)

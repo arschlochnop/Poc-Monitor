@@ -22,6 +22,11 @@
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
 
 ---
+## CVE-2023-5024 (2023-09-17T07:15:00)
+> A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
+- [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
+
+---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
@@ -1245,6 +1250,11 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 > In Tencent QQ through 9.7.8.29039 and TIM through 3.4.7.22084, QQProtect.exe and QQProtectEngine.dll do not validate pointers from inter-process communication, which leads to a write-what-where condition.
 - [lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lan1oc/CVE-2023-34312-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lan1oc/CVE-2023-34312-exp">
 - [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation)	<img alt="forks" src="https://img.shields.io/github/forks/vi3t1/qq-tim-elevation">	<img alt="stars" src="https://img.shields.io/github/stars/vi3t1/qq-tim-elevation">
+
+---
+## CVE-2023-34152 (2023-05-30T22:15:00)
+> A vulnerability was found in ImageMagick. This security flaw cause a remote code execution vulnerability in OpenBlob with --enable-pipes configured.
+- [overgrowncarrot1/ImageTragick_CVE-2023-34152](https://github.com/overgrowncarrot1/ImageTragick_CVE-2023-34152)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/ImageTragick_CVE-2023-34152">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/ImageTragick_CVE-2023-34152">
 
 ---
 ## CVE-2023-34096 (2023-06-08T19:15:00)

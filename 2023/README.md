@@ -163,6 +163,11 @@
 - [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
 
 ---
+## CVE-2023-42222 ()
+> 
+- [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">

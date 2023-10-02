@@ -2504,6 +2504,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Malwareman007/CVE-2023-21768](https://github.com/Malwareman007/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Malwareman007/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Malwareman007/CVE-2023-21768">
 - [SamuelTulach/nullmap](https://github.com/SamuelTulach/nullmap)	<img alt="forks" src="https://img.shields.io/github/forks/SamuelTulach/nullmap">	<img alt="stars" src="https://img.shields.io/github/stars/SamuelTulach/nullmap">
 - [cl4ym0re/cve-2023-21768-compiled](https://github.com/cl4ym0re/cve-2023-21768-compiled)	<img alt="forks" src="https://img.shields.io/github/forks/cl4ym0re/cve-2023-21768-compiled">	<img alt="stars" src="https://img.shields.io/github/stars/cl4ym0re/cve-2023-21768-compiled">
+- [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/Recreate-cve-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/Recreate-cve-2023-21768">
 
 ---
 ## CVE-2023-21766 (2023-01-10T22:15:00)

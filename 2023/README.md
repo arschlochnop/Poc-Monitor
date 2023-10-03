@@ -2568,6 +2568,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [yanglingxi1993/CVE-2023-21400](https://github.com/yanglingxi1993/CVE-2023-21400)	<img alt="forks" src="https://img.shields.io/github/forks/yanglingxi1993/CVE-2023-21400">	<img alt="stars" src="https://img.shields.io/github/stars/yanglingxi1993/CVE-2023-21400">
 
 ---
+## CVE-2023-21286 (2023-08-14T22:15:00)
+> In visitUris of RemoteViews.java, there is a possible way to reveal images across users due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/platform_frameworks_base_CVE-2023-21286](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21286)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21286">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21286">
+
+---
 ## CVE-2023-21282 (2023-08-14T22:15:00)
 > In TRANSPOSER_SETTINGS of lpp_tran.h, there is a possible out of bounds write due to an incorrect bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is needed for exploitation.
 
@@ -2593,6 +2600,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-2114 (2023-05-08T14:15:00)
 > The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
+
+---
+## CVE-2023-20918 (2023-07-13T00:15:00)
+> In getPendingIntentLaunchFlags of ActivityOptions.java, there is a possible elevation of privilege due to a confused deputy with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">
 
 ---
 ## CVE-2023-20887 (2023-06-07T15:15:00)

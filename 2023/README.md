@@ -2575,6 +2575,13 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [yanglingxi1993/CVE-2023-21400](https://github.com/yanglingxi1993/CVE-2023-21400)	<img alt="forks" src="https://img.shields.io/github/forks/yanglingxi1993/CVE-2023-21400">	<img alt="stars" src="https://img.shields.io/github/stars/yanglingxi1993/CVE-2023-21400">
 
 ---
+## CVE-2023-21288 (2023-08-14T22:15:00)
+> In visitUris of Notification.java, there is a possible way to reveal images across users due to a missing permission check. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/platform_frameworks_base_CVE-2023-21288](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21288)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21288">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21288">
+
+---
 ## CVE-2023-21286 (2023-08-14T22:15:00)
 > In visitUris of RemoteViews.java, there is a possible way to reveal images across users due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 

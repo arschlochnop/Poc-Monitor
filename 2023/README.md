@@ -1410,6 +1410,7 @@ An application is not vulnerable if any of the following is true:
 ## CVE-2023-33831 (2023-09-18T20:15:00)
 > A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
+- [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-33831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-33831-PoC">
 
 ---
 ## CVE-2023-33829 (2023-05-24T21:15:00)

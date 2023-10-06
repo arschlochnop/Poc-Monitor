@@ -17,6 +17,12 @@
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
+## CVE-2023-5217 ()
+> 
+- [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
+- [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
+
+---
 ## CVE-2023-51504 ()
 > 
 - [Sybelle03/CVE-2023-51504](https://github.com/Sybelle03/CVE-2023-51504)	<img alt="forks" src="https://img.shields.io/github/forks/Sybelle03/CVE-2023-51504">	<img alt="stars" src="https://img.shields.io/github/stars/Sybelle03/CVE-2023-51504">
@@ -2670,6 +2676,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Trinadh465/platform_frameworks_base_CVE-2023-21272](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21272">
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">
+
+---
+## CVE-2023-21238 ()
+> 
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21238">
 
 ---
 ## CVE-2023-2114 (2023-05-08T14:15:00)

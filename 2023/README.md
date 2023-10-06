@@ -45,6 +45,9 @@
 - [mistymntncop/CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2023-4863">
 - [bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/bbaranoff/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/bbaranoff/CVE-2023-4863">
 - [talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/talbeerysec/BAD-WEBP-CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/talbeerysec/BAD-WEBP-CVE-2023-4863">
+- [murphysecurity/libwebp-checker](https://github.com/murphysecurity/libwebp-checker)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/libwebp-checker">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/libwebp-checker">
+- [GTGalaxi/ElectronVulnerableVersion](https://github.com/GTGalaxi/ElectronVulnerableVersion)	<img alt="forks" src="https://img.shields.io/github/forks/GTGalaxi/ElectronVulnerableVersion">	<img alt="stars" src="https://img.shields.io/github/stars/GTGalaxi/ElectronVulnerableVersion">
+- [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
 
 ---
 ## CVE-2023-4800 ()
@@ -227,6 +230,11 @@
 ## CVE-2023-42222 (2023-09-28T03:15:00)
 > WebCatalog before 49.0 is vulnerable to Incorrect Access Control. WebCatalog calls the Electron shell.openExternal function without verifying that the URL is for an http or https resource, in some circumstances.
 - [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
+
+---
+## CVE-2023-41892 (2023-09-13T20:15:00)
+> Craft CMS is a platform for creating digital experiences. This is a high-impact, low-complexity attack vector. Users running Craft installations before 4.4.15 are encouraged to update to at least that version to mitigate the issue. This issue has been fixed in Craft CMS 4.4.15.
+- [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
 
 ---
 ## CVE-2023-4174 (2023-08-06T01:15:00)

@@ -2536,6 +2536,15 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-22515 (2023-10-04T14:15:00)
+> Atlassian has been made aware of an issue reported by a handful of customers where external attackers may have exploited a previously unknown vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorized Confluence administrator accounts and access Confluence instances.
+
+Atlassian Cloud sites are not affected by this vulnerability. If your Confluence site is accessed via an atlassian.net domain, it is hosted by Atlassian and is not vulnerable to this issue. 
+
+For more details, please review the linked advisory on this CVE.
+- [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/ErikWynter/CVE-2023-22515-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/ErikWynter/CVE-2023-22515-Scan">
+
+---
 ## CVE-2023-2249 (2023-06-09T06:16:00)
 > The wpForo Forum plugin for WordPress is vulnerable to Local File Include, Server-Side Request Forgery, and PHAR Deserialization in versions up to, and including, 2.1.7. This is due to the insecure use of file_get_contents without appropriate verification of the data being supplied to the function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to retrieve the contents of files like wp-config.php hosted on the system, perform a deserialization attack and possibly achieve remote code execution, and make requests to internal services.
 - [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249)	<img alt="forks" src="https://img.shields.io/github/forks/ixiacom/CVE-2023-2249">	<img alt="stars" src="https://img.shields.io/github/stars/ixiacom/CVE-2023-2249">

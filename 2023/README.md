@@ -2712,6 +2712,13 @@ For more details, please review the linked advisory on this CVE.
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">
 
 ---
+## CVE-2023-21246 (2023-07-13T00:15:00)
+> In ShortcutInfo of ShortcutInfo.java, there is a possible way for an app to retain notification listening access due to an uncaught exception. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21246">
+
+---
 ## CVE-2023-21238 (2023-07-13T00:15:00)
 > In visitUris of RemoteViews.java, there is a possible leak of images between users due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
 

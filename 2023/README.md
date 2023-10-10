@@ -1022,6 +1022,11 @@ prior to
 - [apt0factury/CVE-2023-36761](https://github.com/apt0factury/CVE-2023-36761)	<img alt="forks" src="https://img.shields.io/github/forks/apt0factury/CVE-2023-36761">	<img alt="stars" src="https://img.shields.io/github/stars/apt0factury/CVE-2023-36761">
 
 ---
+## CVE-2023-36723 ()
+> 
+- [Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36723">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36723">
+
+---
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">

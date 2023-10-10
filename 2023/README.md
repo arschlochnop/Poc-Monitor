@@ -593,6 +593,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-38646">
 - [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/yxl2001/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/yxl2001/CVE-2023-38646">
 - [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-pecorilla/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-pecorilla/CVE-2023-38646">
+- [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Metabase-H2-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Metabase-H2-CVE-2023-38646-">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -1724,6 +1725,7 @@ Fixed in version 6.4.1.
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
+- [CN016/Openfire-RCE-CVE-2023-32315-](https://github.com/CN016/Openfire-RCE-CVE-2023-32315-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Openfire-RCE-CVE-2023-32315-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Openfire-RCE-CVE-2023-32315-">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -2009,6 +2011,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325)	<img alt="forks" src="https://img.shields.io/github/forks/a-bazi/test2-CVE-2023-29325">	<img alt="stars" src="https://img.shields.io/github/stars/a-bazi/test2-CVE-2023-29325">
 
 ---
+## CVE-2023-2928 (2023-05-27T10:15:00)
+> A vulnerability was found in DedeCMS up to 5.7.106. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file uploads/dede/article_allowurl_edit.php. The manipulation of the argument allurls leads to code injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-230083.
+- [CN016/DedeCMS-getshell-CVE-2023-2928-](https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/DedeCMS-getshell-CVE-2023-2928-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/DedeCMS-getshell-CVE-2023-2928-">
+
+---
 ## CVE-2023-2916 (2023-08-15T09:15:00)
 > The InfiniteWP Client plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.11.1 via the 'admin_notice' function. This can allow authenticated attackers with subscriber-level permissions or above to extract sensitive data including configuration. It can only be exploited if the plugin has not been configured yet. If combined with another arbitrary plugin installation and activation vulnerability, it may be possible to connect a site to InfiniteWP which would make remote management possible and allow for elevation of privileges.
 - [d0rb/CVE-2023-2916](https://github.com/d0rb/CVE-2023-2916)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-2916">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-2916">
@@ -2178,6 +2185,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 > 
 - [webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/webraybtl/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/webraybtl/CVE-2023-27363">
 - [qwqdanchun/CVE-2023-27363](https://github.com/qwqdanchun/CVE-2023-27363)	<img alt="forks" src="https://img.shields.io/github/forks/qwqdanchun/CVE-2023-27363">	<img alt="stars" src="https://img.shields.io/github/stars/qwqdanchun/CVE-2023-27363">
+- [CN016/-Foxit-PDF-CVE-2023-27363-](https://github.com/CN016/-Foxit-PDF-CVE-2023-27363-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/-Foxit-PDF-CVE-2023-27363-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/-Foxit-PDF-CVE-2023-27363-">
 
 ---
 ## CVE-2023-27350 (2023-04-20T16:15:00)

@@ -1935,6 +1935,13 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146)	<img alt="forks" src="https://img.shields.io/github/forks/L1-0/CVE-2023-30146">	<img alt="stars" src="https://img.shields.io/github/stars/L1-0/CVE-2023-30146">
 
 ---
+## CVE-2023-29922 (2023-04-19T19:15:00)
+> PowerJob V4.3.1 is vulnerable to Incorrect Access Control via the create user/save interface.
+- [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Powerjob-CVE-2023-29922-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Powerjob-CVE-2023-29922-">
+- [CKevens/CVE-2023-29923-Scan](https://github.com/CKevens/CVE-2023-29923-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-29923-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-29923-Scan">
+- [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
+
+---
 ## CVE-2023-2986 (2023-06-08T02:15:00)
 > The Abandoned Cart Lite for WooCommerce plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 5.14.2. This is due to insufficient encryption on the user being supplied during the abandoned cart link decode through the plugin. This allows unauthenticated attackers to log in as users who have abandoned the cart, which users are typically customers.
 - [Ayantaker/CVE-2023-2986](https://github.com/Ayantaker/CVE-2023-2986)	<img alt="forks" src="https://img.shields.io/github/forks/Ayantaker/CVE-2023-2986">	<img alt="stars" src="https://img.shields.io/github/stars/Ayantaker/CVE-2023-2986">
@@ -2146,6 +2153,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Okaytc/Superset_auth_bypass_check](https://github.com/Okaytc/Superset_auth_bypass_check)	<img alt="forks" src="https://img.shields.io/github/forks/Okaytc/Superset_auth_bypass_check">	<img alt="stars" src="https://img.shields.io/github/stars/Okaytc/Superset_auth_bypass_check">
 - [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 - [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">
+- [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">
 
 ---
 ## CVE-2023-27470 (2023-09-11T15:15:00)

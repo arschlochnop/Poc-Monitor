@@ -2642,7 +2642,7 @@ For more details, please review the linked advisory on this CVE.
 ---
 ## CVE-2023-2215 (2023-04-21T10:15:00)
 > A vulnerability classified as critical has been found in Campcodes Coffee Shop POS System 1.0. Affected is an unknown function of the file /admin/user/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-226980.
-- [l3moon/CVE-2023-2215](https://github.com/l3moon/CVE-2023-2215)	<img alt="forks" src="https://img.shields.io/github/forks/l3moon/CVE-2023-2215">	<img alt="stars" src="https://img.shields.io/github/stars/l3moon/CVE-2023-2215">
+- [zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2023-2215">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2023-2215">
 
 ---
 ## CVE-2023-21971 (2023-04-18T20:15:00)

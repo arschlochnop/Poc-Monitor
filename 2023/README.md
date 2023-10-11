@@ -604,6 +604,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/yxl2001/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/yxl2001/CVE-2023-38646">
 - [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-pecorilla/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-pecorilla/CVE-2023-38646">
 - [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Metabase-H2-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Metabase-H2-CVE-2023-38646-">
+- [Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools)	<img alt="forks" src="https://img.shields.io/github/forks/Boogipop/MetabaseRceTools">	<img alt="stars" src="https://img.shields.io/github/stars/Boogipop/MetabaseRceTools">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

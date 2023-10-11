@@ -22,6 +22,7 @@
 - [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
 - [Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217">
 - [Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217">
+- [wrv/cve-2023-5217-poc](https://github.com/wrv/cve-2023-5217-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wrv/cve-2023-5217-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wrv/cve-2023-5217-poc">
 
 ---
 ## CVE-2023-51504 ()
@@ -210,6 +211,7 @@
 - [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-42820">
 - [h4m5t/CVE-2023-42820](https://github.com/h4m5t/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/h4m5t/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/h4m5t/CVE-2023-42820">
 - [C1ph3rX13/CVE-2023-42820](https://github.com/C1ph3rX13/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42820">
+- [Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/Startr4ck/cve-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/Startr4ck/cve-2023-42820">
 
 ---
 ## CVE-2023-4281 (2023-09-25T16:15:00)

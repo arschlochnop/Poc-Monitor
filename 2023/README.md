@@ -17,8 +17,8 @@
 - [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
-## CVE-2023-5521 ()
-> 
+## CVE-2023-5521 (2023-10-11T12:15:00)
+> Incorrect Authorization in GitHub repository tiann/kernelsu prior to v0.6.9.
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
 
 ---
@@ -54,6 +54,7 @@
 - [0xtrace/CVE-2023-4911-Looney-Tunables-](https://github.com/0xtrace/CVE-2023-4911-Looney-Tunables-)	<img alt="forks" src="https://img.shields.io/github/forks/0xtrace/CVE-2023-4911-Looney-Tunables-">	<img alt="stars" src="https://img.shields.io/github/stars/0xtrace/CVE-2023-4911-Looney-Tunables-">
 - [silent6trinity/looney-tuneables](https://github.com/silent6trinity/looney-tuneables)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/looney-tuneables">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/looney-tuneables">
 - [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/looney-tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/looney-tunables-CVE-2023-4911">
+- [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/ruycr4ft/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/ruycr4ft/CVE-2023-4911">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)

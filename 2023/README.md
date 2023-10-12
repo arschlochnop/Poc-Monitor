@@ -2210,6 +2210,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)	<img alt="forks" src="https://img.shields.io/github/forks/gysf666/CVE-2023-27997-test">	<img alt="stars" src="https://img.shields.io/github/stars/gysf666/CVE-2023-27997-test">
 - [Cyb3rEnthusiast/CVE-2023-27997](https://github.com/Cyb3rEnthusiast/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rEnthusiast/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rEnthusiast/CVE-2023-27997">
 - [TechinsightsPro/ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS)	<img alt="forks" src="https://img.shields.io/github/forks/TechinsightsPro/ShodanFortiOS">	<img alt="stars" src="https://img.shields.io/github/stars/TechinsightsPro/ShodanFortiOS">
+- [lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/lexfo/xortigate-cve-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/lexfo/xortigate-cve-2023-27997">
 
 ---
 ## CVE-2023-27524 (2023-04-24T16:15:00)

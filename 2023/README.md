@@ -237,6 +237,7 @@
 - [Ariurn/CVE-2023-42793](https://github.com/Ariurn/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Ariurn/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Ariurn/CVE-2023-42793">
 - [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2023-42793">
 - [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-42793">
+- [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
@@ -638,6 +639,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 > 
 - [UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/UTsweetyfish/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/UTsweetyfish/CVE-2023-38545">
 - [imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545)	<img alt="forks" src="https://img.shields.io/github/forks/imfht/CVE-2023-38545">	<img alt="stars" src="https://img.shields.io/github/stars/imfht/CVE-2023-38545">
+- [fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow](https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow)	<img alt="forks" src="https://img.shields.io/github/forks/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow">	<img alt="stars" src="https://img.shields.io/github/stars/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow">
 
 ---
 ## CVE-2023-38501 (2023-07-25T22:15:00)
@@ -2813,6 +2815,13 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/platform_frameworks_base_CVE-2023-21272](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-21272">
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21272">
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-21272">
+
+---
+## CVE-2023-21251 (2023-07-13T00:15:00)
+> In onCreate of ConfirmDialog.java, there is a possible way to connect to VNP bypassing user's consent due to improper input validation. This could lead to local escalation of privilege with User execution privileges needed. User interaction is needed for exploitation.
+
+
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251">
 
 ---
 ## CVE-2023-21246 (2023-07-13T00:15:00)

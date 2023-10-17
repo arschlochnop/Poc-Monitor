@@ -40,6 +40,11 @@
 - [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5074-PoC">
 
 ---
+## CVE-2023-5070 ()
+> 
+- [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5070">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5070">
+
+---
 ## CVE-2023-5024 (2023-09-17T07:15:00)
 > A vulnerability was found in Planno 23.04.04. It has been classified as problematic. This affects an unknown part of the component Comment Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239865 was assigned to this vulnerability.
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
@@ -56,6 +61,7 @@
 - [hadrian3689/looney-tunables-CVE-2023-4911](https://github.com/hadrian3689/looney-tunables-CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/looney-tunables-CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/looney-tunables-CVE-2023-4911">
 - [ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/ruycr4ft/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/ruycr4ft/CVE-2023-4911">
 - [guffre/CVE-2023-4911](https://github.com/guffre/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/guffre/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/guffre/CVE-2023-4911">
+- [chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner)	<img alt="forks" src="https://img.shields.io/github/forks/chaudharyarjun/LooneyPwner">	<img alt="stars" src="https://img.shields.io/github/stars/chaudharyarjun/LooneyPwner">
 
 ---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
@@ -3038,6 +3044,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
  For steps to close the attack vector for this vulnerability, see the Recommendations section of this advisory 
  Cisco will provide updates on the status of this investigation and when a software patch is available.
 - [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/raystr-atearedteam/CVE-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/raystr-atearedteam/CVE-2023-20198-checker">
+- [Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Atea-Redteam/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Atea-Redteam/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

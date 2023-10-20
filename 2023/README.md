@@ -357,6 +357,7 @@
 
 - [HolyGu/CVE-2023-42442](https://github.com/HolyGu/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/HolyGu/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/HolyGu/CVE-2023-42442">
 - [C1ph3rX13/CVE-2023-42442](https://github.com/C1ph3rX13/CVE-2023-42442)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-42442">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-42442">
+- [tarimoe/blackjump](https://github.com/tarimoe/blackjump)	<img alt="forks" src="https://img.shields.io/github/forks/tarimoe/blackjump">	<img alt="stars" src="https://img.shields.io/github/stars/tarimoe/blackjump">
 
 ---
 ## CVE-2023-42426 (2023-09-25T21:15:00)
@@ -3087,6 +3088,12 @@ For more details, please review the linked advisory on this CVE.
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">
 
 ---
+## CVE-2023-20963 (2023-03-24T20:15:00)
+> In WorkSource, there is a possible parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-220302519
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">
+- [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel)	<img alt="forks" src="https://img.shields.io/github/forks/Chal13W1zz/BadParcel">	<img alt="stars" src="https://img.shields.io/github/stars/Chal13W1zz/BadParcel">
+
+---
 ## CVE-2023-20918 (2023-07-13T00:15:00)
 > In getPendingIntentLaunchFlags of ActivityOptions.java, there is a possible elevation of privilege due to a confused deputy with no additional execution privileges needed. User interaction is not needed for exploitation.
 
@@ -3173,6 +3180,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector)	<img alt="forks" src="https://img.shields.io/github/forks/alekos3/CVE_2023_20198_Detector">	<img alt="stars" src="https://img.shields.io/github/stars/alekos3/CVE_2023_20198_Detector">
 - [exp166/CVE-2023-20198](https://github.com/exp166/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/exp166/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/exp166/CVE-2023-20198">
 - [alekos3/CVE_2023_20198_Remediator](https://github.com/alekos3/CVE_2023_20198_Remediator)	<img alt="forks" src="https://img.shields.io/github/forks/alekos3/CVE_2023_20198_Remediator">	<img alt="stars" src="https://img.shields.io/github/stars/alekos3/CVE_2023_20198_Remediator">
+- [reket99/Cisco_CVE-2023-20198](https://github.com/reket99/Cisco_CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/reket99/Cisco_CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/reket99/Cisco_CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

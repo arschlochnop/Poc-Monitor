@@ -3197,6 +3197,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-1698 (2023-05-15T09:15:00)
 > In multiple products of WAGO a vulnerability allows an unauthenticated, remote attacker to create new users and change the device configuration which can result in unintended behaviour, Denial of Service and full system compromise.
 - [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1698-PoC">
+- [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-1698">
 
 ---
 ## CVE-2023-15 ()

@@ -55,8 +55,8 @@
 - [codeb0ss/CVE-2023-5074-PoC](https://github.com/codeb0ss/CVE-2023-5074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5074-PoC">
 
 ---
-## CVE-2023-5070 ()
-> 
+## CVE-2023-5070 (2023-10-20T08:15:00)
+> The Social Media Share Buttons & Social Sharing Icons plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 2.8.5 via the sfsi_save_export function. This can allow subscribers to export plugin settings that include social media authentication tokens and secrets as well as app passwords.
 - [RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5070">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5070">
 
 ---
@@ -530,8 +530,8 @@ The vulnerability is limited to the ROOT (default) web application.
 - [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">
 
 ---
-## CVE-2023-40361 ()
-> 
+## CVE-2023-40361 (2023-10-20T06:15:00)
+> SECUDOS Qiata (DOMOS OS) 4.13 has Insecure Permissions for the previewRm.sh daily cronjob. To exploit this, an attacker needs access as a low-privileged user to the underlying DOMOS system. Every user on the system has write permission for previewRm.sh, which is executed by the root user.
 - [vianic/CVE-2023-40361](https://github.com/vianic/CVE-2023-40361)	<img alt="forks" src="https://img.shields.io/github/forks/vianic/CVE-2023-40361">	<img alt="stars" src="https://img.shields.io/github/stars/vianic/CVE-2023-40361">
 
 ---

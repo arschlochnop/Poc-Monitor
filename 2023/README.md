@@ -2496,6 +2496,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [codeb0ss/CVE-2023-27034-Exploit](https://github.com/codeb0ss/CVE-2023-27034-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-27034-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-27034-Exploit">
 
 ---
+## CVE-2023-26976 (2023-04-04T02:15:00)
+> Tenda AC6 v15.03.05.09_multi was discovered to contain a stack overflow via the ssid parameter in the form_fast_setting_wifi_set function.
+- [FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow)	<img alt="forks" src="https://img.shields.io/github/forks/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow">	<img alt="stars" src="https://img.shields.io/github/stars/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow">
+
+---
 ## CVE-2023-26818 (2023-05-19T12:15:00)
 > Telegram 9.3.1 and 9.4.0 allows attackers to access restricted files, microphone ,or video recording via the DYLD_INSERT_LIBRARIES flag.
 - [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
@@ -2769,6 +2774,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/YusinoMy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/YusinoMy/CVE-2023-23752">
 - [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/MrP4nda1337/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/MrP4nda1337/CVE-2023-23752">
 - [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/k0valskia/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/k0valskia/CVE-2023-23752">
+- [yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)

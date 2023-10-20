@@ -162,6 +162,11 @@
 - [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
 
 ---
+## CVE-2023-45657 ()
+> 
+- [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
+
+---
 ## CVE-2023-45603 ()
 > 
 - [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
@@ -3217,6 +3222,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > In multiple products of WAGO a vulnerability allows an unauthenticated, remote attacker to create new users and change the device configuration which can result in unintended behaviour, Denial of Service and full system compromise.
 - [codeb0ss/CVE-2023-1698-PoC](https://github.com/codeb0ss/CVE-2023-1698-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-1698-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-1698-PoC">
 - [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-1698">
+- [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/WAGO-CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/WAGO-CVE-2023-1698">
 
 ---
 ## CVE-2023-15 ()

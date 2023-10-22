@@ -4006,6 +4006,7 @@
 - [TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/Simple-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/Simple-CVE-2021-36260">
 - [TakenoSite/RemoteUploader-CVE-2021-36260](https://github.com/TakenoSite/RemoteUploader-CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/TakenoSite/RemoteUploader-CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/TakenoSite/RemoteUploader-CVE-2021-36260">
 - [Live-Hack-CVE/CVE-2021-36260](https://github.com/Live-Hack-CVE/CVE-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36260">
+- [haingn/HIK-CVE-2021-36260-Exploit](https://github.com/haingn/HIK-CVE-2021-36260-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/HIK-CVE-2021-36260-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/HIK-CVE-2021-36260-Exploit">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)
@@ -5140,6 +5141,15 @@
 ## CVE-2021-33060 (2022-08-18T20:15:00)
 > Out-of-bounds write in the BIOS firmware for some Intel(R) Processors may allow an authenticated user to potentially enable escalation of privilege via local access.
 - [Live-Hack-CVE/CVE-2021-33060](https://github.com/Live-Hack-CVE/CVE-2021-33060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33060">
+
+---
+## CVE-2021-33044 (2021-09-15T22:15:00)
+> The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.
+- [haingn/LoHongCam-CVE-2021-33044](https://github.com/haingn/LoHongCam-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/haingn/LoHongCam-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/haingn/LoHongCam-CVE-2021-33044">
+- [jorhelp/Ingram](https://github.com/jorhelp/Ingram)	<img alt="forks" src="https://img.shields.io/github/forks/jorhelp/Ingram">	<img alt="stars" src="https://img.shields.io/github/stars/jorhelp/Ingram">
+- [Alonzozzz/alonzzzo](https://github.com/Alonzozzz/alonzzzo)	<img alt="forks" src="https://img.shields.io/github/forks/Alonzozzz/alonzzzo">	<img alt="stars" src="https://img.shields.io/github/stars/Alonzozzz/alonzzzo">
+- [dorkerdevil/CVE-2021-33044](https://github.com/dorkerdevil/CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-33044">
+- [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/bp2008/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/bp2008/DahuaLoginBypass">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)

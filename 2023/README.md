@@ -2939,6 +2939,7 @@ For more details, please review the linked advisory on this CVE.
 - [DsaHen/cve-2023-22515-exp](https://github.com/DsaHen/cve-2023-22515-exp)	<img alt="forks" src="https://img.shields.io/github/forks/DsaHen/cve-2023-22515-exp">	<img alt="stars" src="https://img.shields.io/github/stars/DsaHen/cve-2023-22515-exp">
 - [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
 - [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
+- [spark1security/n0s1](https://github.com/spark1security/n0s1)	<img alt="forks" src="https://img.shields.io/github/forks/spark1security/n0s1">	<img alt="stars" src="https://img.shields.io/github/stars/spark1security/n0s1">
 
 ---
 ## CVE-2023-2249 (2023-06-09T06:16:00)

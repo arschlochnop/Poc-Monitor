@@ -71,6 +71,15 @@
 - [PH03N1XSP/CVE-2023-5024](https://github.com/PH03N1XSP/CVE-2023-5024)	<img alt="forks" src="https://img.shields.io/github/forks/PH03N1XSP/CVE-2023-5024">	<img alt="stars" src="https://img.shields.io/github/stars/PH03N1XSP/CVE-2023-5024">
 
 ---
+## CVE-2023-4966 (2023-10-10T14:15:00)
+> Sensitive information disclosure in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA ?virtual?server. 
+
+
+
+
+- [Chocapikk/CVE-2023-4966](https://github.com/Chocapikk/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-4966">
+
+---
 ## CVE-2023-4911 (2023-10-03T18:15:00)
 > A buffer overflow was discovered in the GNU C Library's dynamic loader ld.so while processing the GLIBC_TUNABLES environment variable. This issue could allow a local attacker to use maliciously crafted GLIBC_TUNABLES environment variables when launching binaries with SUID permission to execute code with elevated privileges.
 - [Green-Avocado/CVE-2023-4911](https://github.com/Green-Avocado/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Green-Avocado/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Green-Avocado/CVE-2023-4911">

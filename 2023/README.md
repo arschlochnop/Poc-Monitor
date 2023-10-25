@@ -78,6 +78,7 @@
 
 
 - [Chocapikk/CVE-2023-4966](https://github.com/Chocapikk/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-4966">
+- [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/citrix_cve-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/citrix_cve-2023-4966">
 
 ---
 ## CVE-2023-4911 (2023-10-03T18:15:00)

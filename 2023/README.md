@@ -2171,8 +2171,13 @@ Fixed in version 6.4.1.
 - [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)	<img alt="forks" src="https://img.shields.io/github/forks/DreamD2v/CVE-2023-31541">	<img alt="stars" src="https://img.shields.io/github/stars/DreamD2v/CVE-2023-31541">
 
 ---
-## CVE-2023-31419 ()
-> 
+## CVE-2023-31419 (2023-10-26T18:15:00)
+> A flaw was discovered in Elasticsearch, affecting the _search API that allowed a specially crafted query string to cause a Stack Overflow and ultimately a Denial of Service.
+
+
+
+
+
 - [sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419](https://github.com/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/Elasticsearch-Exploit-CVE-2023-31419">
 - [u238/Elasticsearch-CVE-2023-31419](https://github.com/u238/Elasticsearch-CVE-2023-31419)	<img alt="forks" src="https://img.shields.io/github/forks/u238/Elasticsearch-CVE-2023-31419">	<img alt="stars" src="https://img.shields.io/github/stars/u238/Elasticsearch-CVE-2023-31419">
 

@@ -2341,6 +2341,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-2982-ugdqh](https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2982-ugdqh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2982-ugdqh">
 
 ---
+## CVE-2023-29552 (2023-04-25T16:15:00)
+> The Service Location Protocol (SLP, RFC 2608) allows an unauthenticated, remote attacker to register arbitrary services. This could allow the attacker to use spoofed UDP traffic to conduct a denial-of-service attack with a significant amplification factor.
+- [0xKayala/CVE-2023-29552](https://github.com/0xKayala/CVE-2023-29552)	<img alt="forks" src="https://img.shields.io/github/forks/0xKayala/CVE-2023-29552">	<img alt="stars" src="https://img.shields.io/github/stars/0xKayala/CVE-2023-29552">
+
+---
 ## CVE-2023-29489 (2023-04-27T21:15:00)
 > An issue was discovered in cPanel before 11.109.9999.116. XSS can occur on the cpsrvd error page via an invalid webcall ID, aka SEC-669. The fixed versions are 11.109.9999.116, 11.108.0.13, 11.106.0.18, and 11.102.0.31.
 - [Abdullah7-ma/CVE-2023-29489](https://github.com/Abdullah7-ma/CVE-2023-29489)	<img alt="forks" src="https://img.shields.io/github/forks/Abdullah7-ma/CVE-2023-29489">	<img alt="stars" src="https://img.shields.io/github/stars/Abdullah7-ma/CVE-2023-29489">

@@ -2585,6 +2585,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [necroteddy/CVE-2023-27524](https://github.com/necroteddy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/necroteddy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/necroteddy/CVE-2023-27524">
 - [jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE](https://github.com/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE">
 - [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">
+- [NguyenCongHaiNam/Research-CVE-2023-27524](https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/NguyenCongHaiNam/Research-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/NguyenCongHaiNam/Research-CVE-2023-27524">
 
 ---
 ## CVE-2023-27470 (2023-09-11T15:15:00)
@@ -3062,6 +3063,7 @@ For more details, please review the linked advisory on this CVE.
 - [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
 - [spark1security/n0s1](https://github.com/spark1security/n0s1)	<img alt="forks" src="https://img.shields.io/github/forks/spark1security/n0s1">	<img alt="stars" src="https://img.shields.io/github/stars/spark1security/n0s1">
 - [C1ph3rX13/CVE-2023-22515](https://github.com/C1ph3rX13/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22515">
+- [AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack)	<img alt="forks" src="https://img.shields.io/github/forks/AIex-3/confluence-hack">	<img alt="stars" src="https://img.shields.io/github/stars/AIex-3/confluence-hack">
 
 ---
 ## CVE-2023-2249 (2023-06-09T06:16:00)

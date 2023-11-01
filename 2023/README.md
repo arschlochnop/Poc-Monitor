@@ -2883,6 +2883,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-25573-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-25573-PoC">
 
 ---
+## CVE-2023-25292 (2023-04-27T01:15:00)
+> Reflected Cross Site Scripting (XSS) in Intermesh BV Group-Office version 6.6.145, allows attackers to gain escalated privileges and gain sensitive information via the GO_LANGUAGE cookie.
+- [brainkok/CVE-2023-25292](https://github.com/brainkok/CVE-2023-25292)	<img alt="forks" src="https://img.shields.io/github/forks/brainkok/CVE-2023-25292">	<img alt="stars" src="https://img.shields.io/github/stars/brainkok/CVE-2023-25292">
+
+---
 ## CVE-2023-2523 (2023-05-04T18:15:00)
 > A vulnerability was found in Weaver E-Office 9.5. It has been rated as critical. Affected by this issue is some unknown functionality of the file App/Ajax/ajax.php?action=mobile_upload_save. The manipulation of the argument upload_quwan leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-228014 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/cve-2023-2523-and-cve-2023-2648">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/cve-2023-2523-and-cve-2023-2648">

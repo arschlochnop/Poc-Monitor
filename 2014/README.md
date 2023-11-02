@@ -104,6 +104,11 @@
 - [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
 
 ---
+## CVE-2014-3470 (2014-06-05T21:55:00)
+> The ssl3_send_client_key_exchange function in s3_clnt.c in OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h, when an anonymous ECDH cipher suite is used, allows remote attackers to cause a denial of service (NULL pointer dereference and client crash) by triggering a NULL certificate value.
+- [Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470](https://github.com/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">
+
+---
 ## CVE-2014-3166 (2014-08-13T04:57:00)
 > The Public Key Pinning (PKP) implementation in Google Chrome before 36.0.1985.143 on Windows, OS X, and Linux, and before 36.0.1985.135 on Android, does not correctly consider the properties of SPDY connections, which allows remote attackers to obtain sensitive information by leveraging the use of multiple domain names.
 - [Live-Hack-CVE/CVE-2014-3166](https://github.com/Live-Hack-CVE/CVE-2014-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3166">
@@ -485,12 +490,13 @@
 ## CVE-2014-0224 (2014-06-05T21:55:00)
 > OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h does not properly restrict processing of ChangeCipherSpec messages, which allows man-in-the-middle attackers to trigger use of a zero-length master key in certain OpenSSL-to-OpenSSL communications, and consequently hijack sessions or obtain sensitive information, via a crafted TLS handshake, aka the "CCS Injection" vulnerability.
 - [Live-Hack-CVE/CVE-2014-0224](https://github.com/Live-Hack-CVE/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0224">
-- [clic-kbait/A2SV--SSL-VUL-Scan](https://github.com/clic-kbait/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clic-kbait/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clic-kbait/A2SV--SSL-VUL-Scan">
+- [clino-mania/A2SV--SSL-VUL-Scan](https://github.com/clino-mania/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clino-mania/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clino-mania/A2SV--SSL-VUL-Scan">
 - [ssllabs/openssl-ccs-cve-2014-0224](https://github.com/ssllabs/openssl-ccs-cve-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/ssllabs/openssl-ccs-cve-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/ssllabs/openssl-ccs-cve-2014-0224">
 - [Tripwire/OpenSSL-CCS-Inject-Test](https://github.com/Tripwire/OpenSSL-CCS-Inject-Test)	<img alt="forks" src="https://img.shields.io/github/forks/Tripwire/OpenSSL-CCS-Inject-Test">	<img alt="stars" src="https://img.shields.io/github/stars/Tripwire/OpenSSL-CCS-Inject-Test">
 - [secretnonempty/CVE-2014-0224](https://github.com/secretnonempty/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/secretnonempty/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/secretnonempty/CVE-2014-0224">
 - [droptables/ccs-eval](https://github.com/droptables/ccs-eval)	<img alt="forks" src="https://img.shields.io/github/forks/droptables/ccs-eval">	<img alt="stars" src="https://img.shields.io/github/stars/droptables/ccs-eval">
 - [iph0n3/CVE-2014-0224](https://github.com/iph0n3/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/iph0n3/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/iph0n3/CVE-2014-0224">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">
 
 ---
 ## CVE-2014-0207 (2014-07-09T11:07:00)

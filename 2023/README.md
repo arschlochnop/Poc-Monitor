@@ -240,6 +240,8 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 
 Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, which fixes this issue.
 - [SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ)	<img alt="forks" src="https://img.shields.io/github/forks/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ">	<img alt="stars" src="https://img.shields.io/github/stars/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ">
+- [JaneMandy/ActiveMQ_RCE_Pro_Max](https://github.com/JaneMandy/ActiveMQ_RCE_Pro_Max)	<img alt="forks" src="https://img.shields.io/github/forks/JaneMandy/ActiveMQ_RCE_Pro_Max">	<img alt="stars" src="https://img.shields.io/github/stars/JaneMandy/ActiveMQ_RCE_Pro_Max">
+- [X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/ActiveMQ-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/ActiveMQ-RCE">
 
 ---
 ## CVE-2023-46501 ()

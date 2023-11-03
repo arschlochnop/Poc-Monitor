@@ -2620,6 +2620,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/Mass-CVE-2023-28121-kdoec">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/Mass-CVE-2023-28121-kdoec">
 - [Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2023-28121">
 - [C04LA/CVE-2023-28121](https://github.com/C04LA/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/C04LA/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/C04LA/CVE-2023-28121">
+- [Jenderal92/WP-CVE-2023-28121](https://github.com/Jenderal92/WP-CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2023-28121">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)

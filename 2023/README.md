@@ -3280,6 +3280,7 @@ For more details, please review the linked advisory on this CVE.
 - [gyaansastra/CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/gyaansastra/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/gyaansastra/CVE-2023-21716">
 - [Xnuvers007/CVE-2023-21716](https://github.com/Xnuvers007/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Xnuvers007/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Xnuvers007/CVE-2023-21716">
 - [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
+- [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-21716-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-21716-EXPLOIT.py">
 
 ---
 ## CVE-2023-21707 (2023-02-14T20:15:00)

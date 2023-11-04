@@ -350,6 +350,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-45158 (2023-10-16T08:15:00)
 > An OS command injection vulnerability exists in web2py 2.24.1 and earlier. When the product is configured to use notifySendHandler for logging (not the default configuration), a crafted web request may execute an arbitrary OS command on the web server using the product.
 - [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
+- [Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)	<img alt="forks" src="https://img.shields.io/github/forks/Evan-Zhangyf/CVE-2023-45158">	<img alt="stars" src="https://img.shields.io/github/stars/Evan-Zhangyf/CVE-2023-45158">
 
 ---
 ## CVE-2023-44962 (2023-10-11T19:15:00)

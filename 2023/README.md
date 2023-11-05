@@ -2432,6 +2432,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-30190 ()
 > 
 - [MojithaR/CVE-2023-30190-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-30190-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-30190-EXPLOIT.py">
+- [MojithaR/CVE-2023-30190-FOLLINA](https://github.com/MojithaR/CVE-2023-30190-FOLLINA)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-30190-FOLLINA">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-30190-FOLLINA">
 
 ---
 ## CVE-2023-30146 (2023-08-04T01:15:00)

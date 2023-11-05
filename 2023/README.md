@@ -2429,6 +2429,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb](https://github.com/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb">
 
 ---
+## CVE-2023-30190 ()
+> 
+- [MojithaR/CVE-2023-30190-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-30190-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-30190-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-30190-EXPLOIT.py">
+
+---
 ## CVE-2023-30146 (2023-08-04T01:15:00)
 > Assmann Digitus Plug&View IP Camera family allows unauthenticated attackers to download a copy of the camera's settings and the administrator credentials.
 - [L1-0/CVE-2023-30146](https://github.com/L1-0/CVE-2023-30146)	<img alt="forks" src="https://img.shields.io/github/forks/L1-0/CVE-2023-30146">	<img alt="stars" src="https://img.shields.io/github/stars/L1-0/CVE-2023-30146">

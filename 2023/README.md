@@ -3022,6 +3022,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-25136">
 
 ---
+## CVE-2023-24706 ()
+> 
+- [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706)	<img alt="forks" src="https://img.shields.io/github/forks/hatjwe/CVE-2023-24706">	<img alt="stars" src="https://img.shields.io/github/stars/hatjwe/CVE-2023-24706">
+
+---
 ## CVE-2023-24517 (2023-08-22T19:16:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in the Pandora FMS File Manager component, allows an attacker to make make use of this issue ( unrestricted file upload ) to execute arbitrary system commands. This issue affects Pandora FMS v767 version and prior versions on all platforms.
 - [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517)	<img alt="forks" src="https://img.shields.io/github/forks/Argonx21/CVE-2023-24517">	<img alt="stars" src="https://img.shields.io/github/stars/Argonx21/CVE-2023-24517">

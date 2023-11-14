@@ -156,6 +156,11 @@
 - [OITApps/Find-VulnerableElectronVersion](https://github.com/OITApps/Find-VulnerableElectronVersion)	<img alt="forks" src="https://img.shields.io/github/forks/OITApps/Find-VulnerableElectronVersion">	<img alt="stars" src="https://img.shields.io/github/stars/OITApps/Find-VulnerableElectronVersion">
 
 ---
+## CVE-2023-48200 ()
+> 
+- [nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48200">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48200">
+
+---
 ## CVE-2023-48199 ()
 > 
 - [nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48199">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48199">

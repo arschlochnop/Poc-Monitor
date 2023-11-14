@@ -187,6 +187,11 @@
 - [wudidike/CVE-2023-4741](https://github.com/wudidike/CVE-2023-4741)	<img alt="forks" src="https://img.shields.io/github/forks/wudidike/CVE-2023-4741">	<img alt="stars" src="https://img.shields.io/github/stars/wudidike/CVE-2023-4741">
 
 ---
+## CVE-2023-47246 ()
+> 
+- [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
+
+---
 ## CVE-2023-47184 ()
 > 
 - [rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)	<img alt="forks" src="https://img.shields.io/github/forks/rach1tarora/CVE-2023-47184">	<img alt="stars" src="https://img.shields.io/github/stars/rach1tarora/CVE-2023-47184">
@@ -215,6 +220,11 @@
 ## CVE-2023-47102 ()
 > 
 - [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47102">
+
+---
+## CVE-2023-47014 ()
+> 
+- [emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS)	<img alt="forks" src="https://img.shields.io/github/forks/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">	<img alt="stars" src="https://img.shields.io/github/stars/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS">
 
 ---
 ## CVE-2023-46998 ()

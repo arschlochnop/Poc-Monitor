@@ -3902,6 +3902,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
 - [iumiro/CVE-2023-1177-MLFlow](https://github.com/iumiro/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/iumiro/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/iumiro/CVE-2023-1177-MLFlow">
 - [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
+- [tiyeume25112004/CVE-2023-1177-rebuild](https://github.com/tiyeume25112004/CVE-2023-1177-rebuild)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2023-1177-rebuild">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2023-1177-rebuild">
 
 ---
 ## CVE-2023-1112 (2023-03-01T10:15:00)

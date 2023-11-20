@@ -3452,6 +3452,11 @@
 - [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
 
 ---
+## CVE-2021-38297 ()
+> 
+- [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)	<img alt="forks" src="https://img.shields.io/github/forks/gkrishnan724/CVE-2021-38297">	<img alt="stars" src="https://img.shields.io/github/stars/gkrishnan724/CVE-2021-38297">
+
+---
 ## CVE-2021-38294 (2021-10-25T13:15:00)
 > A Command Injection vulnerability exists in the getTopologyHistory service of the Apache Storm 2.x prior to 2.2.1 and Apache Storm 1.x prior to 1.2.4. A specially crafted thrift request to the Nimbus server allows Remote Code Execution (RCE) prior to authentication.
 - [Live-Hack-CVE/CVE-2021-38294](https://github.com/Live-Hack-CVE/CVE-2021-38294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38294">
@@ -4160,6 +4165,11 @@
 ## CVE-2021-3598 (2021-07-06T15:15:00)
 > There's a flaw in OpenEXR's ImfDeepScanLineInputFile functionality in versions prior to 3.0.5. An attacker who is able to submit a crafted file to an application linked with OpenEXR could cause an out-of-bounds read. The greatest risk from this flaw is to application availability.
 - [Live-Hack-CVE/CVE-2021-3598](https://github.com/Live-Hack-CVE/CVE-2021-3598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3598">
+
+---
+## CVE-2021-35975 ()
+> 
+- [fbkcs/CVE-2021-35975](https://github.com/fbkcs/CVE-2021-35975)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2021-35975">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2021-35975">
 
 ---
 ## CVE-2021-3597 (2022-05-24T19:15:00)

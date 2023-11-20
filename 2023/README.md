@@ -176,6 +176,11 @@
 - [nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48197">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48197">
 
 ---
+## CVE-2023-48123 ()
+> 
+- [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
+
+---
 ## CVE-2023-4800 (2023-10-16T20:15:00)
 > The DoLogin Security WordPress plugin before 3.7.1 does not restrict the access of a widget that shows the IPs of failed logins to low privileged users.
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
@@ -225,6 +230,7 @@
 ## CVE-2023-47246 ()
 > 
 - [ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)	<img alt="forks" src="https://img.shields.io/github/forks/ex0day/CVE-2023-47246">	<img alt="stars" src="https://img.shields.io/github/stars/ex0day/CVE-2023-47246">
+- [W01fh4cker/CVE-2023-47246-EXP](https://github.com/W01fh4cker/CVE-2023-47246-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-47246-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-47246-EXP">
 
 ---
 ## CVE-2023-47184 ()
@@ -255,6 +261,7 @@
 ## CVE-2023-47102 ()
 > 
 - [quantiano/cve-2023-47102](https://github.com/quantiano/cve-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/quantiano/cve-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/quantiano/cve-2023-47102">
+- [nitipoom-jar/CVE-2023-47102](https://github.com/nitipoom-jar/CVE-2023-47102)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-47102">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-47102">
 
 ---
 ## CVE-2023-47014 ()
@@ -329,6 +336,10 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp)	<img alt="forks" src="https://img.shields.io/github/forks/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp">	<img alt="stars" src="https://img.shields.io/github/stars/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp">
 - [h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up](https://github.com/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up)	<img alt="forks" src="https://img.shields.io/github/forks/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up">	<img alt="stars" src="https://img.shields.io/github/stars/h3x3h0g/ActiveMQ-RCE-CVE-2023-46604-Write-up">
 - [duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell](https://github.com/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-46604-ActiveMQ-RCE-pseudoshell">
+- [LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence](https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence)	<img alt="forks" src="https://img.shields.io/github/forks/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">	<img alt="stars" src="https://img.shields.io/github/stars/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">
+- [minhangxiaohui/ActiveMQ_CVE-2023-46604](https://github.com/minhangxiaohui/ActiveMQ_CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/minhangxiaohui/ActiveMQ_CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/minhangxiaohui/ActiveMQ_CVE-2023-46604">
+- [NKeshawarz/CVE-2023-46604-RCE](https://github.com/NKeshawarz/CVE-2023-46604-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NKeshawarz/CVE-2023-46604-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NKeshawarz/CVE-2023-46604-RCE">
+- [vjayant93/CVE-2023-46604-POC](https://github.com/vjayant93/CVE-2023-46604-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vjayant93/CVE-2023-46604-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vjayant93/CVE-2023-46604-POC">
 - [LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence](https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence)	<img alt="forks" src="https://img.shields.io/github/forks/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">	<img alt="stars" src="https://img.shields.io/github/stars/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">
 
 ---
@@ -510,6 +521,11 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
 
 ---
+## CVE-2023-44796 ()
+> 
+- [Hebing123/CVE-2023-44796](https://github.com/Hebing123/CVE-2023-44796)	<img alt="forks" src="https://img.shields.io/github/forks/Hebing123/CVE-2023-44796">	<img alt="stars" src="https://img.shields.io/github/stars/Hebing123/CVE-2023-44796">
+
+---
 ## CVE-2023-44487 (2023-10-10T14:15:00)
 > The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
 - [bcdannyboy/CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2023-44487">
@@ -552,6 +568,12 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 ## CVE-2023-43641 (2023-10-09T22:15:00)
 > libcue provides an API for parsing and extracting data from CUE sheets. Versions 2.2.1 and prior are vulnerable to out-of-bounds array access. A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage. Because the file is saved to `~/Downloads`, it is then automatically scanned by tracker-miners. And because it has a .cue filename extension, tracker-miners use libcue to parse the file. The file exploits the vulnerability in libcue to gain code execution. This issue is patched in version 2.3.0.
 - [ItsMagick/CVE-2023-43641](https://github.com/ItsMagick/CVE-2023-43641)	<img alt="forks" src="https://img.shields.io/github/forks/ItsMagick/CVE-2023-43641">	<img alt="stars" src="https://img.shields.io/github/stars/ItsMagick/CVE-2023-43641">
+
+---
+## CVE-2023-4357 (2023-08-15T18:15:00)
+> Insufficient validation of untrusted input in XML in Google Chrome prior to 116.0.5845.96 allowed a remote attacker to bypass file access restrictions via a crafted HTML page. (Chromium security severity: Medium)
+- [OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation">
+- [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/xcanwin/CVE-2023-4357-Chrome-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/xcanwin/CVE-2023-4357-Chrome-XXE">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
@@ -1733,6 +1755,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-36076">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-36076">
 
 ---
+## CVE-2023-36025 ()
+> 
+- [ka7ana/CVE-2023-36025](https://github.com/ka7ana/CVE-2023-36025)	<img alt="forks" src="https://img.shields.io/github/forks/ka7ana/CVE-2023-36025">	<img alt="stars" src="https://img.shields.io/github/stars/ka7ana/CVE-2023-36025">
+
+---
 ## CVE-2023-35885 (2023-06-20T20:15:00)
 > CloudPanel 2 before 2.3.1 has insecure file-manager cookie authentication.
 - [datackmy/FallingSkies-CVE-2023-35885](https://github.com/datackmy/FallingSkies-CVE-2023-35885)	<img alt="forks" src="https://img.shields.io/github/forks/datackmy/FallingSkies-CVE-2023-35885">	<img alt="stars" src="https://img.shields.io/github/stars/datackmy/FallingSkies-CVE-2023-35885">
@@ -2334,6 +2361,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/k4but0/Ubuntu-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/k4but0/Ubuntu-LPE">
 
 ---
+## CVE-2023-32571 (2023-06-22T20:15:00)
+> Dynamic Linq 1.0.7.10 through 1.2.25 before 1.3.0 allows attackers to execute arbitrary code and commands when untrusted input to methods including Where, Select, OrderBy is parsed.
+- [Tris0n/CVE-2023-32571-POC](https://github.com/Tris0n/CVE-2023-32571-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Tris0n/CVE-2023-32571-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Tris0n/CVE-2023-32571-POC">
+
+---
 ## CVE-2023-32560 (2023-08-10T20:15:00)
 > An attacker can send a specially crafted message to the Wavelink Avalanche Manager, which could result in service disruption or arbitrary code execution.
 
@@ -2649,6 +2681,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [H4K6/CVE-2023-2982-POC](https://github.com/H4K6/CVE-2023-2982-POC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-2982-POC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-2982-POC">
 - [LoaiEsam37/CVE-2023-2982](https://github.com/LoaiEsam37/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/LoaiEsam37/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/LoaiEsam37/CVE-2023-2982">
 - [hheeyywweellccoommee/CVE-2023-2982-ugdqh](https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2982-ugdqh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2982-ugdqh">
+- [wshinkle/CVE-2023-2982](https://github.com/wshinkle/CVE-2023-2982)	<img alt="forks" src="https://img.shields.io/github/forks/wshinkle/CVE-2023-2982">	<img alt="stars" src="https://img.shields.io/github/stars/wshinkle/CVE-2023-2982">
 
 ---
 ## CVE-2023-29552 (2023-04-25T16:15:00)
@@ -3097,6 +3130,11 @@ and the severity is therefore considered low.
 ## CVE-2023-26048 (2023-04-18T21:15:00)
 > Jetty is a java based web server and servlet engine. In affected versions servlets with multipart support (e.g. annotated with `@MultipartConfig`) that call `HttpServletRequest.getParameter()` or `HttpServletRequest.getParts()` may cause `OutOfMemoryError` when the client sends a multipart request with a part that has a name but no filename and very large content. This happens even with the default settings of `fileSizeThreshold=0` which should stream the whole part content to disk. An attacker client may send a large multipart request and cause the server to throw `OutOfMemoryError`. However, the server may be able to recover after the `OutOfMemoryError` and continue its service -- although it may take some time. This issue has been patched in versions 9.4.51, 10.0.14, and 11.0.14. Users are advised to upgrade. Users unable to upgrade may set the multipart parameter `maxRequestSize` which must be set to a non-negative value, so the whole multipart content is limited (although still read into memory).
 - [Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/jetty_9.4.31_CVE-2023-26048">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/jetty_9.4.31_CVE-2023-26048">
+
+---
+## CVE-2023-2598 (2023-06-01T01:15:00)
+> A flaw was found in the fixed buffer registration code for io_uring (io_sqe_buffer_register in io_uring/rsrc.c) in the Linux kernel that allows out-of-bounds access to physical memory beyond the end of the buffer. This flaw enables full local privilege escalation.
+- [ysanatomic/io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598)	<img alt="forks" src="https://img.shields.io/github/forks/ysanatomic/io_uring_LPE-CVE-2023-2598">	<img alt="stars" src="https://img.shields.io/github/stars/ysanatomic/io_uring_LPE-CVE-2023-2598">
 
 ---
 ## CVE-2023-25968 (2023-03-15T11:15:00)
@@ -3609,6 +3647,8 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-21109 (2023-05-15T22:15:00)
 > In multiple places of AccessibilityService, there is a possible way to hide the app from the user due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-261589597
 - [nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21109">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109">
+- [Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_](https://github.com/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_CVE-2023-21109r33_">
 
 ---
 ## CVE-2023-21097 (2023-04-19T20:15:00)
@@ -3641,6 +3681,11 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-20955 (2023-03-24T20:15:00)
 > In onPrepareOptionsMenu of AppInfoDashboardFragment.java, there is a possible way to bypass admin restrictions and uninstall applications for all users due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-258653813
 - [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">
+
+---
+## CVE-2023-20932 (2023-02-28T17:15:00)
+> In onCreatePreferences of EditInfoFragment.java, there is a possible way to read contacts belonging to other users due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-248251018
+- [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">
 
 ---
 ## CVE-2023-20918 (2023-07-13T00:15:00)
@@ -3741,6 +3786,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [ohlawd/CVE-2023-20198](https://github.com/ohlawd/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/ohlawd/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/ohlawd/CVE-2023-20198">
 - [IceBreakerCode/CVE-2023-20198](https://github.com/IceBreakerCode/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/IceBreakerCode/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/IceBreakerCode/CVE-2023-20198">
 - [sanjai-AK47/CVE-2023-20198](https://github.com/sanjai-AK47/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanjai-AK47/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanjai-AK47/CVE-2023-20198">
+- [smokeintheshell/CVE-2023-20198](https://github.com/smokeintheshell/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

@@ -3452,8 +3452,8 @@
 - [0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/CVE-2021-38314">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/CVE-2021-38314">
 
 ---
-## CVE-2021-38297 ()
-> 
+## CVE-2021-38297 (2021-10-18T06:15:00)
+> Go before 1.16.9 and 1.17.x before 1.17.2 has a Buffer Overflow via large arguments in a function invocation from a WASM module, when GOARCH=wasm GOOS=js is used.
 - [gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)	<img alt="forks" src="https://img.shields.io/github/forks/gkrishnan724/CVE-2021-38297">	<img alt="stars" src="https://img.shields.io/github/stars/gkrishnan724/CVE-2021-38297">
 
 ---

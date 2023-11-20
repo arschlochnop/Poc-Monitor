@@ -181,6 +181,11 @@
 - [NHPT/CVE-2023-48123](https://github.com/NHPT/CVE-2023-48123)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/CVE-2023-48123">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/CVE-2023-48123">
 
 ---
+## CVE-2023-48034 ()
+> 
+- [aprkr/CVE-2023-48034](https://github.com/aprkr/CVE-2023-48034)	<img alt="forks" src="https://img.shields.io/github/forks/aprkr/CVE-2023-48034">	<img alt="stars" src="https://img.shields.io/github/stars/aprkr/CVE-2023-48034">
+
+---
 ## CVE-2023-4800 (2023-10-16T20:15:00)
 > The DoLogin Security WordPress plugin before 3.7.1 does not restrict the access of a widget that shows the IPs of failed logins to low privileged users.
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">

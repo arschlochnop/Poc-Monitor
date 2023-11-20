@@ -341,6 +341,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [NKeshawarz/CVE-2023-46604-RCE](https://github.com/NKeshawarz/CVE-2023-46604-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/NKeshawarz/CVE-2023-46604-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/NKeshawarz/CVE-2023-46604-RCE">
 - [vjayant93/CVE-2023-46604-POC](https://github.com/vjayant93/CVE-2023-46604-POC)	<img alt="forks" src="https://img.shields.io/github/forks/vjayant93/CVE-2023-46604-POC">	<img alt="stars" src="https://img.shields.io/github/stars/vjayant93/CVE-2023-46604-POC">
 - [LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence](https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence)	<img alt="forks" src="https://img.shields.io/github/forks/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">	<img alt="stars" src="https://img.shields.io/github/stars/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence">
+- [nitzanoligo/CVE-2023-46604-demo](https://github.com/nitzanoligo/CVE-2023-46604-demo)	<img alt="forks" src="https://img.shields.io/github/forks/nitzanoligo/CVE-2023-46604-demo">	<img alt="stars" src="https://img.shields.io/github/stars/nitzanoligo/CVE-2023-46604-demo">
 
 ---
 ## CVE-2023-46501 ()

@@ -3339,6 +3339,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [CKevens/CVE-2023-23638-Tools](https://github.com/CKevens/CVE-2023-23638-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-23638-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-23638-Tools">
 
 ---
+## CVE-2023-23583 ()
+> 
+- [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/CVE-2023-23583-Reptar-">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/CVE-2023-23583-Reptar-">
+
+---
 ## CVE-2023-23488 (2023-01-20T18:15:00)
 > The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
 - [cybfar/CVE-2023-23488-pmpro-2.8](https://github.com/cybfar/CVE-2023-23488-pmpro-2.8)	<img alt="forks" src="https://img.shields.io/github/forks/cybfar/CVE-2023-23488-pmpro-2.8">	<img alt="stars" src="https://img.shields.io/github/stars/cybfar/CVE-2023-23488-pmpro-2.8">

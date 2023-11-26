@@ -280,6 +280,21 @@
 - [Live-Hack-CVE/CVE-2020-8300](https://github.com/Live-Hack-CVE/CVE-2020-8300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8300">
 
 ---
+## CVE-2020-8254 (2020-10-28T13:15:00)
+> A vulnerability in the Pulse Secure Desktop Client < 9.1R9 has Remote Code Execution (RCE) if users can be convinced to connect to a malicious server. This vulnerability only affects Windows PDC.To improve the security of connections between Pulse clients and Pulse Connect Secure, see below recommendation(s):Disable Dynamic certificate trust for PDC.
+- [mbadanoiu/CVE-2020-8254](https://github.com/mbadanoiu/CVE-2020-8254)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8254">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8254">
+
+---
+## CVE-2020-8250 (2020-10-28T13:15:00)
+> A vulnerability in the Pulse Secure Desktop Client (Linux) < 9.1R9 could allow local attackers to escalate privilege.
+- [mbadanoiu/CVE-2020-8250](https://github.com/mbadanoiu/CVE-2020-8250)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8250">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8250">
+
+---
+## CVE-2020-8249 (2020-10-28T13:15:00)
+> A vulnerability in the Pulse Secure Desktop Client (Linux) < 9.1R9 could allow local attackers to perform buffer overflow.
+- [mbadanoiu/CVE-2020-8249](https://github.com/mbadanoiu/CVE-2020-8249)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8249">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8249">
+
+---
 ## CVE-2020-8248 (2020-10-28T13:15:00)
 > A vulnerability in the Pulse Secure Desktop Client (Linux) < 9.1R9 could allow local attackers to escalate privilege.
 - [mbadanoiu/CVE-2020-8248](https://github.com/mbadanoiu/CVE-2020-8248)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8248">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8248">

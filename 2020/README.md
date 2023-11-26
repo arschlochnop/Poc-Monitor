@@ -280,6 +280,11 @@
 - [Live-Hack-CVE/CVE-2020-8300](https://github.com/Live-Hack-CVE/CVE-2020-8300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8300">
 
 ---
+## CVE-2020-8248 (2020-10-28T13:15:00)
+> A vulnerability in the Pulse Secure Desktop Client (Linux) < 9.1R9 could allow local attackers to escalate privilege.
+- [mbadanoiu/CVE-2020-8248](https://github.com/mbadanoiu/CVE-2020-8248)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8248">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8248">
+
+---
 ## CVE-2020-8196 (2020-07-10T16:15:00)
 > Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
 - [Live-Hack-CVE/CVE-2020-8196](https://github.com/Live-Hack-CVE/CVE-2020-8196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8196">

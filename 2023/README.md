@@ -135,6 +135,11 @@
 - [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/byte4RR4Y/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/byte4RR4Y/CVE-2023-4966">
 
 ---
+## CVE-2023-49314 ()
+> 
+- [louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49314">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49314">
+
+---
 ## CVE-2023-49313 ()
 > 
 - [louiselalanne/CVE-2023-49313](https://github.com/louiselalanne/CVE-2023-49313)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2023-49313">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2023-49313">

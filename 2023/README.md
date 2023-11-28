@@ -3421,7 +3421,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-23752 (2023-02-16T17:15:00)
 > An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
 - [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">
-- [Pari-Malam/CVE-2023-23752](https://github.com/Pari-Malam/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-23752">
+- [ThatNotEasy/CVE-2023-23752](https://github.com/ThatNotEasy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-23752">
 - [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
 - [equationsoftworks/Radiance](https://github.com/equationsoftworks/Radiance)	<img alt="forks" src="https://img.shields.io/github/forks/equationsoftworks/Radiance">	<img alt="stars" src="https://img.shields.io/github/stars/equationsoftworks/Radiance">
 - [haxor1337x/Mass-Checker-CVE-2023-23752](https://github.com/haxor1337x/Mass-Checker-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Mass-Checker-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Mass-Checker-CVE-2023-23752">
@@ -3451,6 +3451,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/AlissoftCodes/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/AlissoftCodes/CVE-2023-23752">
 - [Pushkarup/CVE-2023-23752](https://github.com/Pushkarup/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23752">
 - [cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/cybernetwiz/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/cybernetwiz/CVE-2023-23752">
+- [Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Youns92/Joomla-v4.2.8---CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Youns92/Joomla-v4.2.8---CVE-2023-23752">
 
 ---
 ## CVE-2023-23638 (2023-03-08T11:15:00)

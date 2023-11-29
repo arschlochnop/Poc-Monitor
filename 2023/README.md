@@ -3846,6 +3846,11 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">
 
 ---
+## CVE-2023-20944 (2023-02-28T17:15:00)
+> In run of ChooseTypeAndAccountActivity.java, there is a possible escalation of privilege due to unsafe deserialization. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-244154558
+- [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">
+
+---
 ## CVE-2023-20932 (2023-02-28T17:15:00)
 > In onCreatePreferences of EditInfoFragment.java, there is a possible way to read contacts belonging to other users due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-248251018
 - [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">

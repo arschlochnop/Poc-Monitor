@@ -186,6 +186,11 @@
 - [nitipoom-jar/CVE-2023-48866](https://github.com/nitipoom-jar/CVE-2023-48866)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2023-48866">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2023-48866">
 
 ---
+## CVE-2023-48849 ()
+> 
+- [delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849)	<img alt="forks" src="https://img.shields.io/github/forks/delsploit/CVE-2023-48849">	<img alt="stars" src="https://img.shields.io/github/stars/delsploit/CVE-2023-48849">
+
+---
 ## CVE-2023-4863 (2023-09-12T15:15:00)
 > Heap buffer overflow in WebP in Google Chrome prior to 116.0.5845.187 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)
 - [suhipek/CVE-2023-4863](https://github.com/suhipek/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/suhipek/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/suhipek/CVE-2023-4863">
@@ -2181,6 +2186,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 
 - [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34468">
+- [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 
 ---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
@@ -2216,6 +2222,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 
 - [mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34212">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34212">
+- [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 
 ---
 ## CVE-2023-34152 (2023-05-30T22:15:00)

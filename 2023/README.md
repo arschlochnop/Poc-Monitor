@@ -1090,6 +1090,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Arajawat007/CVE-2023-39707](https://github.com/Arajawat007/CVE-2023-39707)	<img alt="forks" src="https://img.shields.io/github/forks/Arajawat007/CVE-2023-39707">	<img alt="stars" src="https://img.shields.io/github/stars/Arajawat007/CVE-2023-39707">
 
 ---
+## CVE-2023-39320 (2023-09-08T17:15:00)
+> The go.mod toolchain directive, introduced in Go 1.21, can be leveraged to execute scripts and binaries relative to the root of the module when the "go" command was executed within the module. This applies to modules downloaded using the "go" command from the module proxy, as well as modules downloaded directly using VCS software.
+- [stogaru/cve-2023-39320-exploit](https://github.com/stogaru/cve-2023-39320-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/stogaru/cve-2023-39320-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/stogaru/cve-2023-39320-exploit">
+
+---
 ## CVE-2023-39144 (2023-08-03T03:15:00)
 > Element55 KnowMore appliances version 21 and older was discovered to store passwords in plaintext.
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">

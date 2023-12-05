@@ -3466,6 +3466,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-24329-Exploit">
 
 ---
+## CVE-2023-24100 ()
+> 
+- [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2023-24100">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2023-24100">
+
+---
 ## CVE-2023-24078 (2023-02-17T07:15:00)
 > Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
 - [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">

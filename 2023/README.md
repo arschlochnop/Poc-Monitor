@@ -2731,6 +2731,11 @@ Fixed in version 6.4.1.
 - [e23e/CVE-2023-31606](https://github.com/e23e/CVE-2023-31606)	<img alt="forks" src="https://img.shields.io/github/forks/e23e/CVE-2023-31606">	<img alt="stars" src="https://img.shields.io/github/stars/e23e/CVE-2023-31606">
 
 ---
+## CVE-2023-31546 ()
+> 
+- [ran9ege/CVE-2023-31546](https://github.com/ran9ege/CVE-2023-31546)	<img alt="forks" src="https://img.shields.io/github/forks/ran9ege/CVE-2023-31546">	<img alt="stars" src="https://img.shields.io/github/stars/ran9ege/CVE-2023-31546">
+
+---
 ## CVE-2023-31541 (2023-06-13T17:15:00)
 > A unrestricted file upload vulnerability was discovered in the ‘Browse and upload images’ feature of the CKEditor v1.2.3 plugin for Redmine, which allows arbitrary files to be uploaded to the server.
 - [DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)	<img alt="forks" src="https://img.shields.io/github/forks/DreamD2v/CVE-2023-31541">	<img alt="stars" src="https://img.shields.io/github/stars/DreamD2v/CVE-2023-31541">

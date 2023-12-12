@@ -276,6 +276,7 @@
 - [devmrt/CVE-2018-6574-POC](https://github.com/devmrt/CVE-2018-6574-POC)	<img alt="forks" src="https://img.shields.io/github/forks/devmrt/CVE-2018-6574-POC">	<img alt="stars" src="https://img.shields.io/github/stars/devmrt/CVE-2018-6574-POC">
 - [bilalk88/CVE-2018-6574](https://github.com/bilalk88/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/bilalk88/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/bilalk88/CVE-2018-6574">
 - [Ashved9/Orange](https://github.com/Ashved9/Orange)	<img alt="forks" src="https://img.shields.io/github/forks/Ashved9/Orange">	<img alt="stars" src="https://img.shields.io/github/stars/Ashved9/Orange">
+- [zerbaliy3v/cve-2018-6574-exploit](https://github.com/zerbaliy3v/cve-2018-6574-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zerbaliy3v/cve-2018-6574-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zerbaliy3v/cve-2018-6574-exploit">
 
 ---
 ## CVE-2018-6389 (2018-02-06T17:29:00)

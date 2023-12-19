@@ -4342,6 +4342,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Terminal1337/CVE-2023-1389](https://github.com/Terminal1337/CVE-2023-1389)	<img alt="forks" src="https://img.shields.io/github/forks/Terminal1337/CVE-2023-1389">	<img alt="stars" src="https://img.shields.io/github/stars/Terminal1337/CVE-2023-1389">
 
 ---
+## CVE-2023-1337 (2023-03-10T20:15:00)
+> The RapidLoad Power-Up for Autoptimize plugin for WordPress is vulnerable to unauthorized data loss due to a missing capability check on the clear_uucss_logs function in versions up to, and including, 1.7.1. This makes it possible for authenticated attackers with subscriber-level access to delete plugin log files.
+- [DARKSECshell/CVE-2023-1337](https://github.com/DARKSECshell/CVE-2023-1337)	<img alt="forks" src="https://img.shields.io/github/forks/DARKSECshell/CVE-2023-1337">	<img alt="stars" src="https://img.shields.io/github/stars/DARKSECshell/CVE-2023-1337">
+
+---
 ## CVE-2023-1326 (2023-04-13T23:15:00)
 > A privilege escalation attack was found in apport-cli 2.26.0 and earlier which is similar to CVE-2023-26604. If a system is specially configured to allow unprivileged users to run sudo apport-cli, less is configured as the pager, and the terminal size can be set: a local attacker can escalate privilege. It is extremely unlikely that a system administrator would configure sudo to allow unprivileged users to perform this class of exploit.
 - [diego-tella/CVE-2023-1326-PoC](https://github.com/diego-tella/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2023-1326-PoC">

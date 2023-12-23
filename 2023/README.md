@@ -12,6 +12,16 @@
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
 
 ---
+## CVE-2023-6663 ()
+> 
+- [cli-ish/CVE-2023-6663](https://github.com/cli-ish/CVE-2023-6663)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-6663">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-6663">
+
+---
+## CVE-2023-6661 ()
+> 
+- [cli-ish/CVE-2023-6661](https://github.com/cli-ish/CVE-2023-6661)	<img alt="forks" src="https://img.shields.io/github/forks/cli-ish/CVE-2023-6661">	<img alt="stars" src="https://img.shields.io/github/stars/cli-ish/CVE-2023-6661">
+
+---
 ## CVE-2023-6553 (2023-12-15T11:15:00)
 > The Backup Migration plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.3.7 via the /includes/backup-heart.php file. This is due to an attacker being able to control the values passed to an include, and subsequently leverage that to achieve remote code execution. This makes it possible for unauthenticated attackers to easily execute code on the server.
 - [Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-6553">
@@ -394,6 +404,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables](https://github.com/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteH4T-Dev/CVE-2023-4911-Looney-Tunables">
 - [teraGL/looneyCVE](https://github.com/teraGL/looneyCVE)	<img alt="forks" src="https://img.shields.io/github/forks/teraGL/looneyCVE">	<img alt="stars" src="https://img.shields.io/github/stars/teraGL/looneyCVE">
 - [snurkeburk/Looney-Tunables](https://github.com/snurkeburk/Looney-Tunables)	<img alt="forks" src="https://img.shields.io/github/forks/snurkeburk/Looney-Tunables">	<img alt="stars" src="https://img.shields.io/github/stars/snurkeburk/Looney-Tunables">
+- [puckiestyle/CVE-2023-4911](https://github.com/puckiestyle/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2023-4911">
 
 ---
 ## CVE-2023-49103 ()
@@ -672,6 +683,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [dcm2406/CVE-Lab](https://github.com/dcm2406/CVE-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-Lab">
 - [dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-2023-46604">
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
+- [Mudoleto/Broker_ApacheMQ](https://github.com/Mudoleto/Broker_ApacheMQ)	<img alt="forks" src="https://img.shields.io/github/forks/Mudoleto/Broker_ApacheMQ">	<img alt="stars" src="https://img.shields.io/github/stars/Mudoleto/Broker_ApacheMQ">
 
 ---
 ## CVE-2023-46501 ()

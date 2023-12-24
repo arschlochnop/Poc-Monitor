@@ -376,6 +376,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49539">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49539">
 
 ---
+## CVE-2023-49471 ()
+> 
+- [zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)	<img alt="forks" src="https://img.shields.io/github/forks/zunak/CVE-2023-49471">	<img alt="stars" src="https://img.shields.io/github/stars/zunak/CVE-2023-49471">
+
+---
 ## CVE-2023-49438 ()
 > 
 - [brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2023-49438">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2023-49438">

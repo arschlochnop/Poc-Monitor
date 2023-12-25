@@ -7,6 +7,11 @@
 - [zeroc00I/CVE-2023-999999](https://github.com/zeroc00I/CVE-2023-999999)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-999999">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-999999">
 
 ---
+## CVE-2023-6710 (2023-12-12T22:15:00)
+> A flaw was found in the mod_proxy_cluster in the Apache server. This issue may allow a malicious user to add a script in the 'alias' parameter in the URL to trigger the stored cross-site scripting (XSS) vulnerability. By adding a script on the alias parameter on the URL, it adds a new virtual host and adds the script to the cluster-manager page. The impact of this vulnerability is considered as Low, as the cluster_manager URL should not be exposed outside and is protected by user/password.
+- [DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710)	<img alt="forks" src="https://img.shields.io/github/forks/DedSec-47/CVE-2023-6710">	<img alt="stars" src="https://img.shields.io/github/stars/DedSec-47/CVE-2023-6710">
+
+---
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
@@ -130,6 +135,7 @@
 - [FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-51385">
 - [Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/Tachanka-zz/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/Tachanka-zz/CVE-2023-51385_test">
 - [watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/watarium/poc-cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/watarium/poc-cve-2023-51385">
+- [Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-51385">
 
 ---
 ## CVE-2023-51281 ()
@@ -3339,7 +3345,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Mr-xn/CVE-2023-28432](https://github.com/Mr-xn/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-28432">
 - [yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-28432">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
-- [Fw-fW-fw/CVE-2023-28432-minio_update_rce](https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Fw-fW-fw/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Fw-fW-fw/CVE-2023-28432-minio_update_rce">
+- [unam4/CVE-2023-28432-minio_update_rce](https://github.com/unam4/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/unam4/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/unam4/CVE-2023-28432-minio_update_rce">
 - [Chocapikk/CVE-2023-28432](https://github.com/Chocapikk/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-28432">
 - [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-28432">
 - [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">

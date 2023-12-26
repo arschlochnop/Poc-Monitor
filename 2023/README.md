@@ -4590,6 +4590,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-12 ()
 > 
 - [XXXE88/cve-2023-12](https://github.com/XXXE88/cve-2023-12)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-12">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-12">
+- [Faelian/CraftCMS_CVE-2023-12-26](https://github.com/Faelian/CraftCMS_CVE-2023-12-26)	<img alt="forks" src="https://img.shields.io/github/forks/Faelian/CraftCMS_CVE-2023-12-26">	<img alt="stars" src="https://img.shields.io/github/stars/Faelian/CraftCMS_CVE-2023-12-26">
 
 ---
 ## CVE-2023-1177 (2023-03-24T15:15:00)

@@ -3845,6 +3845,12 @@ client config override policy, which can be used to control which Kafka client p
 - [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-25136">
 
 ---
+## CVE-2023-24955 (2023-05-09T18:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability
+- [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/former-farmer/CVE-2023-24955-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/former-farmer/CVE-2023-24955-PoC">
+- [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
+
+---
 ## CVE-2023-24706 ()
 > 
 - [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706)	<img alt="forks" src="https://img.shields.io/github/forks/hatjwe/CVE-2023-24706">	<img alt="stars" src="https://img.shields.io/github/stars/hatjwe/CVE-2023-24706">

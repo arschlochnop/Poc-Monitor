@@ -3791,6 +3791,34 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Any3ite/CVE-2023-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Any3ite/CVE-2023-2523">
 
 ---
+## CVE-2023-25194 (2023-02-07T20:15:00)
+> A possible security vulnerability has been identified in Apache Kafka Connect API.
+This requires access to a Kafka Connect worker, and the ability to create/modify connectors on it with an arbitrary Kafka client SASL JAAS config
+and a SASL-based security protocol, which has been possible on Kafka Connect clusters since Apache Kafka Connect 2.3.0.
+When configuring the connector via the Kafka Connect REST API, an authenticated operator can set the `sasl.jaas.config`
+property for any of the connector's Kafka clients to "com.sun.security.auth.module.JndiLoginModule", which can be done via the
+`producer.override.sasl.jaas.config`, `consumer.override.sasl.jaas.config`, or `admin.override.sasl.jaas.config` properties.
+This will allow the server to connect to the attacker's LDAP server
+and deserialize the LDAP response, which the attacker can use to execute java deserialization gadget chains on the Kafka connect server.
+Attacker can cause unrestricted deserialization of untrusted data (or) RCE vulnerability when there are gadgets in the classpath.
+
+Since Apache Kafka 3.0.0, users are allowed to specify these properties in connector configurations for Kafka Connect clusters running with out-of-the-box
+configurations. Before Apache Kafka 3.0.0, users may not specify these properties unless the Kafka Connect cluster has been reconfigured with a connector
+client override policy that permits them.
+
+Since Apache Kafka 3.4.0, we have added a system property ("-Dorg.apache.kafka.disallowed.login.modules") to disable the problematic login modules usage
+in SASL JAAS configuration. Also by default "com.sun.security.auth.module.JndiLoginModule" is disabled in Apache Kafka Connect 3.4.0. 
+
+We advise the Kafka Connect users to validate connector configurations and only allow trusted JNDI configurations. Also examine connector dependencies for 
+vulnerable versions and either upgrade their connectors, upgrading that specific dependency, or removing the connectors as options for remediation. Finally,
+in addition to leveraging the "org.apache.kafka.disallowed.login.modules" system property, Kafka Connect users can also implement their own connector
+client config override policy, which can be used to control which Kafka client properties can be overridden directly in a connector config and which cannot.
+
+- [YongYe-Security/CVE-2023-25194](https://github.com/YongYe-Security/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2023-25194">
+- [Avento/Apache_Druid_JNDI_Vuln](https://github.com/Avento/Apache_Druid_JNDI_Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Avento/Apache_Druid_JNDI_Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Avento/Apache_Druid_JNDI_Vuln">
+- [ohnonoyesyes/CVE-2023-25194](https://github.com/ohnonoyesyes/CVE-2023-25194)	<img alt="forks" src="https://img.shields.io/github/forks/ohnonoyesyes/CVE-2023-25194">	<img alt="stars" src="https://img.shields.io/github/stars/ohnonoyesyes/CVE-2023-25194">
+
+---
 ## CVE-2023-25157 (2023-02-21T22:15:00)
 > GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. GeoServer includes support for the OGC Filter expression language and the OGC Common Query Language (CQL) as part of the Web Feature Service (WFS) and Web Map Service (WMS) protocols. CQL is also supported through the Web Coverage Service (WCS) protocol for ImageMosaic coverages. Users are advised to upgrade to either version 2.21.4, or version 2.22.2 to resolve this issue. Users unable to upgrade should disable the PostGIS Datastore *encode functions* setting to mitigate ``strEndsWith``, ``strStartsWith`` and ``PropertyIsLike `` misuse and enable the PostGIS DataStore *preparedStatements* setting to mitigate the ``FeatureId`` misuse.
 - [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-25157">

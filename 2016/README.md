@@ -459,6 +459,7 @@
 ## CVE-2016-4437 (2016-06-07T14:06:00)
 > Apache Shiro before 1.2.5, when a cipher key has not been configured for the "remember me" feature, allows remote attackers to execute arbitrary code or bypass intended access restrictions via an unspecified request parameter.
 - [WSIDFY/-WSIDFY-CVE-2016-4437](https://github.com/WSIDFY/-WSIDFY-CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/WSIDFY/-WSIDFY-CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/WSIDFY/-WSIDFY-CVE-2016-4437">
+- [pizza-power/CVE-2016-4437](https://github.com/pizza-power/CVE-2016-4437)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/CVE-2016-4437">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/CVE-2016-4437">
 
 ---
 ## CVE-2016-4432 (2016-06-01T20:59:00)

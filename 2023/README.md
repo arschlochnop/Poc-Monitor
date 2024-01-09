@@ -4590,6 +4590,11 @@ For more details, please review the linked advisory on this CVE.
 - [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">
 
 ---
+## CVE-2023-20573 ()
+> 
+- [Freax13/cve-2023-20573-poc](https://github.com/Freax13/cve-2023-20573-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2023-20573-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2023-20573-poc">
+
+---
 ## CVE-2023-20562 (2023-08-08T18:15:00)
 > 
 

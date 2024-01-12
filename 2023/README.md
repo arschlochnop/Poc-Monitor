@@ -3581,6 +3581,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [krmxd/CVE-2023-2868](https://github.com/krmxd/CVE-2023-2868)	<img alt="forks" src="https://img.shields.io/github/forks/krmxd/CVE-2023-2868">	<img alt="stars" src="https://img.shields.io/github/stars/krmxd/CVE-2023-2868">
 
 ---
+## CVE-2023-28588 (2023-12-05T03:15:00)
+> Transient DOS in Bluetooth Host while rfc slot allocation.
+- [uthrasri/CVE-2023-28588](https://github.com/uthrasri/CVE-2023-28588)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-28588">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-28588">
+
+---
 ## CVE-2023-28467 (2023-05-22T19:15:00)
 > In MyBB before 1.8.34, there is XSS in the User CP module via the user email field.
 - [ahmetaltuntas/CVE-2023-28467](https://github.com/ahmetaltuntas/CVE-2023-28467)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetaltuntas/CVE-2023-28467">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetaltuntas/CVE-2023-28467">

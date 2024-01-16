@@ -873,6 +873,7 @@ Users are recommended to upgrade to version 18.12.10
 - [cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805)	<img alt="forks" src="https://img.shields.io/github/forks/cbeek-r7/CVE-2023-46805">	<img alt="stars" src="https://img.shields.io/github/stars/cbeek-r7/CVE-2023-46805">
 - [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
 - [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
+- [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
@@ -1185,6 +1186,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-43804 (2023-10-04T17:15:00)
 > urllib3 is a user-friendly HTTP client library for Python. urllib3 doesn't treat the `Cookie` HTTP header special or provide any helpers for managing cookies over HTTP, that is the responsibility of the user. However, it is possible for a user to specify a `Cookie` header and unknowingly leak information via HTTP redirects to a different origin if that user doesn't disable redirects explicitly. This issue has been patched in urllib3 version 1.26.17 or 2.0.5.
 - [JawadPy/CVE-2023-43804-Exploit](https://github.com/JawadPy/CVE-2023-43804-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-43804-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-43804-Exploit">
+
+---
+## CVE-2023-43786 (2023-10-10T13:15:00)
+> A vulnerability was found in libX11 due to an infinite loop within the PutSubImage() function. This flaw allows a local user to consume all available system resources and cause a denial of service condition.
+- [jfrog/jfrog-CVE-2023-43786-libX11_DoS](https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS)	<img alt="forks" src="https://img.shields.io/github/forks/jfrog/jfrog-CVE-2023-43786-libX11_DoS">	<img alt="stars" src="https://img.shields.io/github/stars/jfrog/jfrog-CVE-2023-43786-libX11_DoS">
 
 ---
 ## CVE-2023-43770 (2023-09-22T06:15:00)

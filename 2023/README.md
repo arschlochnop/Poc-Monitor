@@ -4341,6 +4341,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">
 - [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23397">
 - [ducnorth2712/CVE-2023-23397](https://github.com/ducnorth2712/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/ducnorth2712/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/ducnorth2712/CVE-2023-23397">
+- [yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397](https://github.com/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">
 
 ---
 ## CVE-2023-23333 (2023-02-06T22:15:00)

@@ -4233,6 +4233,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-24329-Exploit">
 
 ---
+## CVE-2023-24317 (2023-02-23T20:15:00)
+> Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php.
+- [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
+
+---
 ## CVE-2023-24100 ()
 > 
 - [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2023-24100">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2023-24100">

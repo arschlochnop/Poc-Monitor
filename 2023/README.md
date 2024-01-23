@@ -116,6 +116,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 
 
 - [uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717">
+- [uthrasri/CVE-2023-5717_G3](https://github.com/uthrasri/CVE-2023-5717_G3)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-5717_G3">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-5717_G3">
 
 ---
 ## CVE-2023-5601 ()
@@ -4485,6 +4486,7 @@ For additional details, please see full advisory.
 - [VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)	<img alt="forks" src="https://img.shields.io/github/forks/VNCERT-CC/CVE-2023-22527-confluence">	<img alt="stars" src="https://img.shields.io/github/stars/VNCERT-CC/CVE-2023-22527-confluence">
 - [Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2023-22527">
 - [C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22527">
+- [Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2023-22527">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)

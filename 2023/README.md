@@ -3537,6 +3537,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347)	<img alt="forks" src="https://img.shields.io/github/forks/huzefa2212/CVE-2023-30347">	<img alt="stars" src="https://img.shields.io/github/stars/huzefa2212/CVE-2023-30347">
 
 ---
+## CVE-2023-30258 (2023-06-23T12:15:00)
+> Command Injection vulnerability in MagnusSolution magnusbilling 6.x and 7.x allows remote attackers to run arbitrary commands via unauthenticated HTTP request.
+- [gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup)	<img alt="forks" src="https://img.shields.io/github/forks/gy741/CVE-2023-30258-setup">	<img alt="stars" src="https://img.shields.io/github/stars/gy741/CVE-2023-30258-setup">
+
+---
 ## CVE-2023-30226 (2023-07-12T02:15:00)
 > An issue was discovered in function get_gnu_verneed in rizinorg Rizin prior to 0.5.0 verneed_entry allows attackers to cause a denial of service via crafted elf file.
 - [ifyGecko/CVE-2023-30226](https://github.com/ifyGecko/CVE-2023-30226)	<img alt="forks" src="https://img.shields.io/github/forks/ifyGecko/CVE-2023-30226">	<img alt="stars" src="https://img.shields.io/github/stars/ifyGecko/CVE-2023-30226">

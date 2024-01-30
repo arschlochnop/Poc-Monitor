@@ -21,6 +21,11 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-24134 (2024-01-29T19:15:00)
+> Sourcecodester Online Food Menu 1.0 is vulnerable to Cross Site Scripting (XSS) via the 'Menu Name' and 'Description' fields in the Update Menu section.
+- [BurakSevben/CVE-2024-24134](https://github.com/BurakSevben/CVE-2024-24134)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24134">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24134">
+
+---
 ## CVE-2024-23897 (2024-01-24T18:15:00)
 > Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.
 - [forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0127/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0127/CVE-2024-23897">
@@ -100,6 +105,11 @@
 ## CVE-2024-22922 (2024-01-25T22:15:00)
 > An issue in Projectworlds Vistor Management Systemin PHP v.1.0 allows a remtoe attacker to escalate privileges via a crafted script to the login page in the POST/index.php
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
+
+---
+## CVE-2024-22909 ()
+> 
+- [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-22909">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-22909">
 
 ---
 ## CVE-2024-22894 (2024-01-30T10:15:00)

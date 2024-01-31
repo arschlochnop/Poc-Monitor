@@ -102,6 +102,11 @@
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
 
 ---
+## CVE-2023-6036 ()
+> 
+- [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">
+
+---
 ## CVE-2023-5966 ()
 > 
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">

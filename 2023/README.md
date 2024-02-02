@@ -3465,6 +3465,11 @@ Fixed in version 6.4.1.
 - [MateusTesser/CVE-2023-31716](https://github.com/MateusTesser/CVE-2023-31716)	<img alt="forks" src="https://img.shields.io/github/forks/MateusTesser/CVE-2023-31716">	<img alt="stars" src="https://img.shields.io/github/stars/MateusTesser/CVE-2023-31716">
 
 ---
+## CVE-2023-31714 (2023-08-30T22:15:00)
+> Chitor-CMS before v1.1.2 was discovered to contain multiple SQL injection vulnerabilities.
+- [msd0pe-1/CVE-2023-31714](https://github.com/msd0pe-1/CVE-2023-31714)	<img alt="forks" src="https://img.shields.io/github/forks/msd0pe-1/CVE-2023-31714">	<img alt="stars" src="https://img.shields.io/github/stars/msd0pe-1/CVE-2023-31714">
+
+---
 ## CVE-2023-31705 (2023-07-13T15:15:00)
 > A Reflected Cross-site scripting (XSS) vulnerability in Sourcecodester Task Reminder System 1.0 allows an authenticated user to inject malicious javascript into the page parameter.
 - [d34dun1c02n/CVE-2023-31705](https://github.com/d34dun1c02n/CVE-2023-31705)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-31705">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-31705">

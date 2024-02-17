@@ -5185,6 +5185,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [wxrdnx/CVE-2023-38408](https://github.com/wxrdnx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/wxrdnx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/wxrdnx/CVE-2023-38408">
 - [AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777](https://github.com/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777)	<img alt="forks" src="https://img.shields.io/github/forks/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">	<img alt="stars" src="https://img.shields.io/github/stars/AkuCyberSec/Elementor-3.18.0-Upload-Path-Traversal-RCE-CVE-2023-48777">
 - [nles-crt/CVE-2023-6895](https://github.com/nles-crt/CVE-2023-6895)	<img alt="forks" src="https://img.shields.io/github/forks/nles-crt/CVE-2023-6895">	<img alt="stars" src="https://img.shields.io/github/stars/nles-crt/CVE-2023-6895">
+- [ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2023-36845">
 
 ---
 ## CVE-2023-20209 (2023-08-16T21:15:00)

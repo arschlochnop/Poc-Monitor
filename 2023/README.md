@@ -2485,6 +2485,7 @@ prior to
 - [ak1t4/CVE-2023-36845](https://github.com/ak1t4/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ak1t4/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ak1t4/CVE-2023-36845">
 - [0xNehru/CVE-2023-36845-Juniper-Vulnerability](https://github.com/0xNehru/CVE-2023-36845-Juniper-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/0xNehru/CVE-2023-36845-Juniper-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/0xNehru/CVE-2023-36845-Juniper-Vulnerability">
 - [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
+- [ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2023-36845">
 
 ---
 ## CVE-2023-36844 (2023-08-17T20:15:00)

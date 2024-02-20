@@ -2073,6 +2073,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 - [0utl4nder/Another-Metabase-RCE-CVE-2023-38646](https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/0utl4nder/Another-Metabase-RCE-CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/0utl4nder/Another-Metabase-RCE-CVE-2023-38646">
 - [Shisones/MetabaseRCE_CVE-2023-38646](https://github.com/Shisones/MetabaseRCE_CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Shisones/MetabaseRCE_CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Shisones/MetabaseRCE_CVE-2023-38646">
+- [acesoyeo/METABASE-RCE-CVE-2023-38646-](https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/acesoyeo/METABASE-RCE-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/acesoyeo/METABASE-RCE-CVE-2023-38646-">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

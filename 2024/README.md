@@ -41,6 +41,11 @@
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
 
 ---
+## CVE-2024-25381 ()
+> 
+- [Ox130e07d/CVE-2024-25381](https://github.com/Ox130e07d/CVE-2024-25381)	<img alt="forks" src="https://img.shields.io/github/forks/Ox130e07d/CVE-2024-25381">	<img alt="stars" src="https://img.shields.io/github/stars/Ox130e07d/CVE-2024-25381">
+
+---
 ## CVE-2024-25281 ()
 > 
 - [sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25281">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25281">

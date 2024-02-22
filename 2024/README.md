@@ -36,6 +36,7 @@
 - [Chocapikk/CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-25600">
 - [Christbowel/CVE-2024-25600_Nuclei-Template](https://github.com/Christbowel/CVE-2024-25600_Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/Christbowel/CVE-2024-25600_Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/Christbowel/CVE-2024-25600_Nuclei-Template">
 - [h0tak88r/CVE-2024-25600checker](https://github.com/h0tak88r/CVE-2024-25600checker)	<img alt="forks" src="https://img.shields.io/github/forks/h0tak88r/CVE-2024-25600checker">	<img alt="stars" src="https://img.shields.io/github/stars/h0tak88r/CVE-2024-25600checker">
+- [Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress">
 
 ---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
@@ -389,6 +390,11 @@
 ## CVE-2024-22534 ()
 > 
 - [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)	<img alt="forks" src="https://img.shields.io/github/forks/austino2000/CVE-2024-22534">	<img alt="stars" src="https://img.shields.io/github/stars/austino2000/CVE-2024-22534">
+
+---
+## CVE-2024-22532 ()
+> 
+- [pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532)	<img alt="forks" src="https://img.shields.io/github/forks/pwndorei/CVE-2024-22532">	<img alt="stars" src="https://img.shields.io/github/stars/pwndorei/CVE-2024-22532">
 
 ---
 ## CVE-2024-22515 (2024-02-06T21:15:00)

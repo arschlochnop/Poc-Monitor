@@ -4830,6 +4830,7 @@ For more details, please review the linked advisory on this CVE.
 - [edsonjt81/CVE-2023-22515-Scan.](https://github.com/edsonjt81/CVE-2023-22515-Scan.)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2023-22515-Scan.">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2023-22515-Scan.">
 - [INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/INTfinityConsulting/cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/INTfinityConsulting/cve-2023-22515">
 - [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2023-22515">
+- [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-22515">
 
 ---
 ## CVE-2023-2249 (2023-06-09T06:16:00)

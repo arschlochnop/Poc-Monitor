@@ -236,18 +236,18 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [Pastea/CVE-2023-51810](https://github.com/Pastea/CVE-2023-51810)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2023-51810">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2023-51810">
 
 ---
-## CVE-2023-51802 ()
-> 
+## CVE-2023-51802 (2024-02-29T02:15:00)
+> Cross Site Scripting (XSS) vulnerability in the Simple Student Attendance System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the page or class_month parameter in the /php-attendance/attendance_report component.
 - [geraldoalcantara/CVE-2023-51802](https://github.com/geraldoalcantara/CVE-2023-51802)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51802">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51802">
 
 ---
-## CVE-2023-51801 ()
-> 
+## CVE-2023-51801 (2024-02-29T02:15:00)
+> SQL Injection vulnerability in the Simple Student Attendance System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the id parameter in the student_form.php and the class_form.php pages.
 - [geraldoalcantara/CVE-2023-51801](https://github.com/geraldoalcantara/CVE-2023-51801)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51801">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51801">
 
 ---
-## CVE-2023-51800 ()
-> 
+## CVE-2023-51800 (2024-02-29T02:15:00)
+> Cross Site Scripting (XSS) vulnerability in School Fees Management System v.1.0 allows a remote attacker to execute arbitrary code via a crafted payload to the main_settings component in the phone, address, bank, acc_name, acc_number parameters, new_class and cname parameter, add_new_parent function in the name email parameters, new_term function in the tname parameter, and the edit_student function in the name parameter.
 - [geraldoalcantara/CVE-2023-51800](https://github.com/geraldoalcantara/CVE-2023-51800)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-51800">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-51800">
 
 ---
@@ -433,6 +433,24 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 ## CVE-2023-50387 (2024-02-14T16:15:00)
 > Certain DNSSEC aspects of the DNS protocol (in RFC 4033, 4034, 4035, 6840, and related RFCs) allow remote attackers to cause a denial of service (CPU consumption) via one or more DNSSEC responses, aka the "KeyTrap" issue. One of the concerns is that, when there is a zone with many DNSKEY and RRSIG records, the protocol specification implies that an algorithm must evaluate all combinations of DNSKEY and RRSIG records.
 - [knqyf263/CVE-2023-50387](https://github.com/knqyf263/CVE-2023-50387)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2023-50387">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2023-50387">
+
+---
+## CVE-2023-50386 (2024-02-09T18:15:00)
+> Improper Control of Dynamically-Managed Code Resources, Unrestricted Upload of File with Dangerous Type, Inclusion of Functionality from Untrusted Control Sphere vulnerability in Apache Solr.This issue affects Apache Solr: from 6.0.0 through 8.11.2, from 9.0.0 before 9.4.1.
+
+In the affected versions, Solr ConfigSets accepted Java jar and class files to be uploaded through the ConfigSets API.
+When backing up Solr Collections, these configSet files would be saved to disk when using the LocalFileSystemRepository (the default for backups).
+If the backup was saved to a directory that Solr uses in its ClassPath/ClassLoaders, then the jar and class files would be available to use with any ConfigSet, trusted or untrusted.
+
+When Solr is run in a secure way (Authorization enabled), as is strongly suggested, this vulnerability is limited to extending the Backup permissions with the ability to add libraries.
+Users are recommended to upgrade to version 8.11.3 or 9.4.1, which fix the issue.
+In these versions, the following protections have been added:
+
+  *  Users are no longer able to upload files to a configSet that could be executed via a Java ClassLoader.
+  *  The Backup API restricts saving backups to directories that are used in the ClassLoader.
+
+
+- [vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC)	<img alt="forks" src="https://img.shields.io/github/forks/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC">	<img alt="stars" src="https://img.shields.io/github/stars/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC">
 
 ---
 ## CVE-2023-5024 (2023-09-17T07:15:00)

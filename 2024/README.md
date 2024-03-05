@@ -26,6 +26,7 @@
 - [tucommenceapousser/CVE-2024-27198](https://github.com/tucommenceapousser/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2024-27198">
 - [yoryio/CVE-2024-27198](https://github.com/yoryio/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/yoryio/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/yoryio/CVE-2024-27198">
 - [labesterOct/CVE-2024-27198](https://github.com/labesterOct/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-27198">
+- [Chocapikk/CVE-2024-27198](https://github.com/Chocapikk/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-27198">
 
 ---
 ## CVE-2024-26560 ()
@@ -266,8 +267,8 @@
 - [ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24099">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24099">
 
 ---
-## CVE-2024-24098 ()
-> 
+## CVE-2024-24098 (2024-03-05T16:15:00)
+> Code-projects Scholars Tracking System 1.0 is vulnerable to SQL Injection via the News Feed.
 - [ASR511-OO7/CVE-2024-24098](https://github.com/ASR511-OO7/CVE-2024-24098)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24098">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24098">
 
 ---
@@ -641,6 +642,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [sk2wie/CVE-2024-21410-CITRIX](https://github.com/sk2wie/CVE-2024-21410-CITRIX)	<img alt="forks" src="https://img.shields.io/github/forks/sk2wie/CVE-2024-21410-CITRIX">	<img alt="stars" src="https://img.shields.io/github/stars/sk2wie/CVE-2024-21410-CITRIX">
 - [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
+
+---
+## CVE-2024-21338 (2024-02-13T18:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability
+- [gogobuster/CVE-2024-21338-POC](https://github.com/gogobuster/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21338-POC">
 
 ---
 ## CVE-2024-21306 (2024-01-09T18:15:00)

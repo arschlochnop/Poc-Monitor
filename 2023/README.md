@@ -3901,6 +3901,13 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [BenEdridge/CVE-2023-30533](https://github.com/BenEdridge/CVE-2023-30533)	<img alt="forks" src="https://img.shields.io/github/forks/BenEdridge/CVE-2023-30533">	<img alt="stars" src="https://img.shields.io/github/stars/BenEdridge/CVE-2023-30533">
 
 ---
+## CVE-2023-3047 (2023-06-13T12:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMT Lockcell allows SQL Injection.This issue affects Lockcell: before 15.
+
+
+- [Phamchie/CVE-2023-3047](https://github.com/Phamchie/CVE-2023-3047)	<img alt="forks" src="https://img.shields.io/github/forks/Phamchie/CVE-2023-3047">	<img alt="stars" src="https://img.shields.io/github/stars/Phamchie/CVE-2023-3047">
+
+---
 ## CVE-2023-30383 (2023-07-18T19:15:00)
 > TP-LINK Archer C50v2 Archer C50(US)_V2_160801, TP-LINK Archer C20v1 Archer_C20_V1_150707, and TP-LINK Archer C2v1 Archer_C2_US__V1_170228 were discovered to contain a buffer overflow which may lead to a Denial of Service (DoS) when parsing crafted data.
 - [a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383)	<img alt="forks" src="https://img.shields.io/github/forks/a2ure123/CVE-2023-30383">	<img alt="stars" src="https://img.shields.io/github/stars/a2ure123/CVE-2023-30383">

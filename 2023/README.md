@@ -5744,6 +5744,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-0179 (2023-03-27T22:15:00)
 > A buffer overflow vulnerability was found in the Netfilter subsystem in the Linux Kernel. This issue could allow the leakage of both stack and heap addresses, and potentially allow Local Privilege Escalation to the root user via arbitrary code execution.
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
+- [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-0179-PoC">
 
 ---
 ## CVE-2023-0157 (2023-04-10T14:15:00)

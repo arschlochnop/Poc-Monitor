@@ -5741,6 +5741,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [codeb0ss/CVE-2023-0255-PoC](https://github.com/codeb0ss/CVE-2023-0255-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-0255-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-0255-PoC">
 
 ---
+## CVE-2023-0179 (2023-03-27T22:15:00)
+> A buffer overflow vulnerability was found in the Netfilter subsystem in the Linux Kernel. This issue could allow the leakage of both stack and heap addresses, and potentially allow Local Privilege Escalation to the root user via arbitrary code execution.
+- [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
+
+---
 ## CVE-2023-0157 (2023-04-10T14:15:00)
 > The All-In-One Security (AIOS) WordPress plugin before 5.1.5 does not escape the content of log files before outputting it to the plugin admin page, allowing an authorized user (admin+) to plant bogus log files containing malicious JavaScript code that will be executed in the context of any administrator visiting this page.
 - [b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-0157">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-0157">

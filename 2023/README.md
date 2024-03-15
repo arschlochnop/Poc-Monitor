@@ -3492,6 +3492,7 @@ Security and Spring WebFlux, and the potential for a security bypass.
 ## CVE-2023-33733 (2023-06-05T16:15:00)
 > Reportlab up to v3.6.12 allows attackers to execute arbitrary code via supplying a crafted PDF file.
 - [c53elyas/CVE-2023-33733](https://github.com/c53elyas/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/c53elyas/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/c53elyas/CVE-2023-33733">
+- [onion2203/CVE-2023-33733](https://github.com/onion2203/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/onion2203/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/onion2203/CVE-2023-33733">
 
 ---
 ## CVE-2023-33677 (2024-03-06T01:15:00)

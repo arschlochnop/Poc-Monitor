@@ -366,6 +366,7 @@ to load arbitrary JavaScript code.
 - [farliy-hacker/CVE-2023-51385-save](https://github.com/farliy-hacker/CVE-2023-51385-save)	<img alt="forks" src="https://img.shields.io/github/forks/farliy-hacker/CVE-2023-51385-save">	<img alt="stars" src="https://img.shields.io/github/stars/farliy-hacker/CVE-2023-51385-save">
 - [Whhxy4/CVE-2023-51385_test](https://github.com/Whhxy4/CVE-2023-51385_test)	<img alt="forks" src="https://img.shields.io/github/forks/Whhxy4/CVE-2023-51385_test">	<img alt="stars" src="https://img.shields.io/github/stars/Whhxy4/CVE-2023-51385_test">
 - [2048JiaLi/CVE-2023-51385](https://github.com/2048JiaLi/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/2048JiaLi/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/2048JiaLi/CVE-2023-51385">
+- [vin01/poc-proxycommand-vulnerable](https://github.com/vin01/poc-proxycommand-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-proxycommand-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-proxycommand-vulnerable">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
@@ -2524,6 +2525,11 @@ URL that curl has been told to operate with.
 ## CVE-2023-37739 (2023-09-14T20:15:00)
 > i-doit Pro v25 and below was discovered to be vulnerable to path traversal.
 - [leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below">
+
+---
+## CVE-2023-37679 (2023-08-03T03:15:00)
+> A remote command execution (RCE) vulnerability in NextGen Mirth Connect v4.3.0 allows attackers to execute arbitrary commands on the hosting server.
+- [jakabakos/CVE-2023-37679-mirth-connect-rce-poc](https://github.com/jakabakos/CVE-2023-37679-mirth-connect-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-37679-mirth-connect-rce-poc">
 
 ---
 ## CVE-2023-37625 (2023-08-10T20:15:00)

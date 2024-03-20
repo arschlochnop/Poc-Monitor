@@ -4083,6 +4083,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [phucodeexp/CVE-2023-30033](https://github.com/phucodeexp/CVE-2023-30033)	<img alt="forks" src="https://img.shields.io/github/forks/phucodeexp/CVE-2023-30033">	<img alt="stars" src="https://img.shields.io/github/stars/phucodeexp/CVE-2023-30033">
 
 ---
+## CVE-2023-29929 ()
+> 
+- [YSaxon/CVE-2023-29929](https://github.com/YSaxon/CVE-2023-29929)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-29929">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-29929">
+
+---
 ## CVE-2023-29922 (2023-04-19T19:15:00)
 > PowerJob V4.3.1 is vulnerable to Incorrect Access Control via the create user/save interface.
 - [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Powerjob-CVE-2023-29922-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Powerjob-CVE-2023-29922-">

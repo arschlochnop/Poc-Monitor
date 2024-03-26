@@ -1642,6 +1642,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4294">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4294">
 
 ---
+## CVE-2023-42931 ()
+> 
+- [d0rb/CVE-2023-42931](https://github.com/d0rb/CVE-2023-42931)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-42931">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-42931">
+
+---
 ## CVE-2023-42820 (2023-09-27T15:19:00)
 > JumpServer is an open source bastion host. This vulnerability is due to exposing the random number seed to the API, potentially allowing the randomly generated verification codes to be replayed, which could lead to password resets. If MFA is enabled users are not affect. Users not using local authentication are also not affected. Users are advised to upgrade to either version 2.28.19 or to 3.6.5. There are no known workarounds or this issue.
 - [wh-gov/CVE-2023-42820](https://github.com/wh-gov/CVE-2023-42820)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-42820">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-42820">

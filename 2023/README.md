@@ -4816,6 +4816,7 @@ client config override policy, which can be used to control which Kafka client p
 > Microsoft SharePoint Server Remote Code Execution Vulnerability
 - [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/former-farmer/CVE-2023-24955-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/former-farmer/CVE-2023-24955-PoC">
 - [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
+- [AndreOve/CVE-2023-24955-real-RCE](https://github.com/AndreOve/CVE-2023-24955-real-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AndreOve/CVE-2023-24955-real-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AndreOve/CVE-2023-24955-real-RCE">
 
 ---
 ## CVE-2023-24706 ()

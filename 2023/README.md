@@ -4407,6 +4407,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial)	<img alt="forks" src="https://img.shields.io/github/forks/awchjimmy/CVE-2023-27997-tutorial">	<img alt="stars" src="https://img.shields.io/github/stars/awchjimmy/CVE-2023-27997-tutorial">
 
 ---
+## CVE-2023-27564 (2023-05-10T15:15:00)
+> The n8n package 0.218.0 for Node.js allows Information Disclosure.
+- [david-botelho-mariano/exploit-CVE-2023-27564](https://github.com/david-botelho-mariano/exploit-CVE-2023-27564)	<img alt="forks" src="https://img.shields.io/github/forks/david-botelho-mariano/exploit-CVE-2023-27564">	<img alt="stars" src="https://img.shields.io/github/stars/david-botelho-mariano/exploit-CVE-2023-27564">
+
+---
 ## CVE-2023-27524 (2023-04-24T16:15:00)
 > Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
 - [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27524">

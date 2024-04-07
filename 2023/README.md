@@ -5282,6 +5282,7 @@ For more details, please review the linked advisory on this CVE.
 - [cl4ym0re/cve-2023-21768-compiled](https://github.com/cl4ym0re/cve-2023-21768-compiled)	<img alt="forks" src="https://img.shields.io/github/forks/cl4ym0re/cve-2023-21768-compiled">	<img alt="stars" src="https://img.shields.io/github/stars/cl4ym0re/cve-2023-21768-compiled">
 - [Rosayxy/Recreate-cve-2023-21768](https://github.com/Rosayxy/Recreate-cve-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/Recreate-cve-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/Recreate-cve-2023-21768">
 - [Ha0-Y/CVE-2023-21768](https://github.com/Ha0-Y/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Ha0-Y/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Ha0-Y/CVE-2023-21768">
+- [h1bAna/CVE-2023-21768](https://github.com/h1bAna/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/h1bAna/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/h1bAna/CVE-2023-21768">
 
 ---
 ## CVE-2023-21766 (2023-01-10T22:15:00)

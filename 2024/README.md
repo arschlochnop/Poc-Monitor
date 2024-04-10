@@ -157,6 +157,7 @@
 - [crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/crfearnworks/ansible-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/crfearnworks/ansible-CVE-2024-3094">
 - [badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/badsectorlabs/ludus_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/badsectorlabs/ludus_xz_backdoor">
 - [Juul/xz-backdoor-scan](https://github.com/Juul/xz-backdoor-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Juul/xz-backdoor-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Juul/xz-backdoor-scan">
+- [drdry2/CVE-2024-3094-EXPLOIT](https://github.com/drdry2/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/drdry2/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/drdry2/CVE-2024-3094-EXPLOIT">
 
 ---
 ## CVE-2024-30937 ()
@@ -924,6 +925,7 @@
 ## CVE-2024-24576 ()
 > 
 - [frostb1ten/CVE-2024-24576-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/frostb1ten/CVE-2024-24576-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/frostb1ten/CVE-2024-24576-PoC">
+- [aydinnyunus/CVE-2024-24576-Exploit](https://github.com/aydinnyunus/CVE-2024-24576-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/aydinnyunus/CVE-2024-24576-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/aydinnyunus/CVE-2024-24576-Exploit">
 
 ---
 ## CVE-2024-24567 (2024-01-30T21:15:00)

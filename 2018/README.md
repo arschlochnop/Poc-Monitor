@@ -163,7 +163,7 @@
 ---
 ## CVE-2018-7448 (2018-02-26T17:29:00)
 > Remote code execution vulnerability in /cmsms-2.1.6-install.php/index.php in CMS Made Simple version 2.1.6 allows remote attackers to inject arbitrary PHP code via the "timezone" parameter in step 4 of a fresh installation procedure.
-- [b1d0ws/exploit-CVE-2018-7448](https://github.com/b1d0ws/exploit-CVE-2018-7448)	<img alt="forks" src="https://img.shields.io/github/forks/b1d0ws/exploit-CVE-2018-7448">	<img alt="stars" src="https://img.shields.io/github/stars/b1d0ws/exploit-CVE-2018-7448">
+- [b1d0ws/exploit-cve-2018-7448](https://github.com/b1d0ws/exploit-cve-2018-7448)	<img alt="forks" src="https://img.shields.io/github/forks/b1d0ws/exploit-cve-2018-7448">	<img alt="stars" src="https://img.shields.io/github/stars/b1d0ws/exploit-cve-2018-7448">
 
 ---
 ## CVE-2018-7422 (2018-03-19T14:29:00)

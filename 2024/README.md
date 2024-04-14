@@ -42,6 +42,8 @@
 - [0x0d3ad/CVE-2024-3400](https://github.com/0x0d3ad/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2024-3400">
 - [FoxyProxys/CVE-2024-3400](https://github.com/FoxyProxys/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3400">
 - [momika233/CVE-2024-3400](https://github.com/momika233/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-3400">
+- [MrR0b0t19/CVE-2024-3400](https://github.com/MrR0b0t19/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2024-3400">
+- [kerberoshacker/CVE-2024-3400-POC](https://github.com/kerberoshacker/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kerberoshacker/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kerberoshacker/CVE-2024-3400-POC">
 
 ---
 ## CVE-2024-33333 ()

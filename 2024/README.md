@@ -71,6 +71,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/schooldropout1337/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/schooldropout1337/CVE-2024-3400">
 - [hahasagined/CVE-2024-3400](https://github.com/hahasagined/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/hahasagined/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/hahasagined/CVE-2024-3400">
 - [codeblueprint/CVE-2024-3400](https://github.com/codeblueprint/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/codeblueprint/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/codeblueprint/CVE-2024-3400">
+- [swaybs/CVE-2024-3400](https://github.com/swaybs/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/swaybs/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/swaybs/CVE-2024-3400">
 
 ---
 ## CVE-2024-33333 ()
@@ -92,6 +93,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [K3ysTr0K3R/CVE-2024-3273-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-3273-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-3273-EXPLOIT">
 - [ThatNotEasy/CVE-2024-3273](https://github.com/ThatNotEasy/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-3273">
 - [LeopoldSkell/CVE-2024-3273](https://github.com/LeopoldSkell/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/LeopoldSkell/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/LeopoldSkell/CVE-2024-3273">
+
+---
+## CVE-2024-32258 ()
+> 
+- [liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258)	<img alt="forks" src="https://img.shields.io/github/forks/liyansong2018/CVE-2024-32258">	<img alt="stars" src="https://img.shields.io/github/stars/liyansong2018/CVE-2024-32258">
 
 ---
 ## CVE-2024-3217 ()

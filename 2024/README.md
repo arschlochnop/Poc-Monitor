@@ -69,6 +69,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [phantomradar/cve-2024-3400-poc](https://github.com/phantomradar/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/phantomradar/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/phantomradar/cve-2024-3400-poc">
 - [retkoussa/CVE-2024-3400](https://github.com/retkoussa/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/retkoussa/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/retkoussa/CVE-2024-3400">
 - [schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/schooldropout1337/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/schooldropout1337/CVE-2024-3400">
+- [hahasagined/CVE-2024-3400](https://github.com/hahasagined/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/hahasagined/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/hahasagined/CVE-2024-3400">
 
 ---
 ## CVE-2024-33333 ()
@@ -1884,6 +1885,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 ## CVE-2024-2054 (2024-03-21T02:52:00)
 > The Artica-Proxy administrative web application will deserialize arbitrary PHP objects supplied by unauthenticated users and subsequently enable code execution as the "www-data" user.
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
+
+---
+## CVE-2024-20356 ()
+> 
+- [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-20356">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-20356">
 
 ---
 ## CVE-2024-20337 (2024-03-06T17:15:00)

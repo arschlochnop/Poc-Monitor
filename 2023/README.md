@@ -6038,6 +6038,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Anekant-Singhai/Exploits](https://github.com/Anekant-Singhai/Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/Anekant-Singhai/Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/Anekant-Singhai/Exploits">
 - [letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2023-0386">
 - [churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/churamanib/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/churamanib/CVE-2023-0386">
+- [EstamelGG/CVE-2023-0386-libs](https://github.com/EstamelGG/CVE-2023-0386-libs)	<img alt="forks" src="https://img.shields.io/github/forks/EstamelGG/CVE-2023-0386-libs">	<img alt="stars" src="https://img.shields.io/github/stars/EstamelGG/CVE-2023-0386-libs">
 
 ---
 ## CVE-2023-0297 (2023-01-14T03:15:00)

@@ -1036,6 +1036,11 @@ overflow.
 - [sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-25278">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-25278">
 
 ---
+## CVE-2024-25277 ()
+> 
+- [maen08/CVE-2024-25277](https://github.com/maen08/CVE-2024-25277)	<img alt="forks" src="https://img.shields.io/github/forks/maen08/CVE-2024-25277">	<img alt="stars" src="https://img.shields.io/github/stars/maen08/CVE-2024-25277">
+
+---
 ## CVE-2024-25270 ()
 > 
 - [fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270)	<img alt="forks" src="https://img.shields.io/github/forks/fbkcs/CVE-2024-25270">	<img alt="stars" src="https://img.shields.io/github/stars/fbkcs/CVE-2024-25270">

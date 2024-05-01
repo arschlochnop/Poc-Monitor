@@ -126,8 +126,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 
 ---
-## CVE-2024-33078 ()
-> 
+## CVE-2024-33078 (2024-05-01T18:15:00)
+> Tencent Libpag v4.3 is vulnerable to Buffer Overflow. A user can send a crafted image to trigger a overflow leading to remote code execution.
 - [HBLocker/CVE-2024-33078](https://github.com/HBLocker/CVE-2024-33078)	<img alt="forks" src="https://img.shields.io/github/forks/HBLocker/CVE-2024-33078">	<img alt="stars" src="https://img.shields.io/github/stars/HBLocker/CVE-2024-33078">
 
 ---

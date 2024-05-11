@@ -4640,7 +4640,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ---
 ## CVE-2023-27524 (2023-04-24T16:15:00)
 > Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
-- [Pari-Malam/CVE-2023-27524](https://github.com/Pari-Malam/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27524">
+- [ThatNotEasy/CVE-2023-27524](https://github.com/ThatNotEasy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-27524">
 - [TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/TardC/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/TardC/CVE-2023-27524">
 - [MaanVader/CVE-2023-27524-POC](https://github.com/MaanVader/CVE-2023-27524-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27524-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27524-POC">
 - [horizon3ai/CVE-2023-27524](https://github.com/horizon3ai/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27524">
@@ -4651,6 +4651,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-](https://github.com/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-">
 - [NguyenCongHaiNam/Research-CVE-2023-27524](https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/NguyenCongHaiNam/Research-CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/NguyenCongHaiNam/Research-CVE-2023-27524">
 - [karthi-the-hacker/CVE-2023-27524](https://github.com/karthi-the-hacker/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2023-27524">
+- [Cappricio-Securities/CVE-2023-2752](https://github.com/Cappricio-Securities/CVE-2023-2752)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-2752">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-2752">
 
 ---
 ## CVE-2023-2752 (2023-05-17T08:15:00)

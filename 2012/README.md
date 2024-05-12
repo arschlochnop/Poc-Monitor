@@ -44,7 +44,7 @@
 ---
 ## CVE-2012-2012 (2012-06-29T22:55:00)
 > HP System Management Homepage (SMH) before 7.1.1 does not have an off autocomplete attribute for unspecified form fields, which makes it easier for remote attackers to obtain access by leveraging an unattended workstation.
-- [hello123body/CVE-2012-2012](https://github.com/hello123body/CVE-2012-2012)	<img alt="forks" src="https://img.shields.io/github/forks/hello123body/CVE-2012-2012">	<img alt="stars" src="https://img.shields.io/github/stars/hello123body/CVE-2012-2012">
+- [Ashro-one/CVE-2012-2012](https://github.com/Ashro-one/CVE-2012-2012)	<img alt="forks" src="https://img.shields.io/github/forks/Ashro-one/CVE-2012-2012">	<img alt="stars" src="https://img.shields.io/github/stars/Ashro-one/CVE-2012-2012">
 - [R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/R00tendo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/R00tendo/CVE-2012-2982">
 - [0xTas/CVE-2012-2982](https://github.com/0xTas/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xTas/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xTas/CVE-2012-2982">
 - [irsl/CVE-2022-20128](https://github.com/irsl/CVE-2022-20128)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/CVE-2022-20128">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/CVE-2022-20128">

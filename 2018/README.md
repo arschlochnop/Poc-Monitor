@@ -1474,6 +1474,7 @@
 ## CVE-2018-10583 (2018-05-01T16:29:00)
 > An information disclosure vulnerability occurs when LibreOffice 6.0.3 and Apache OpenOffice Writer 4.1.5 automatically process and initiate an SMB connection embedded in a malicious file, as demonstrated by xlink:href=file://192.168.0.2/test.jpg within an office:document-content element in a .odt XML document.
 - [octodi/CVE-2018-10583](https://github.com/octodi/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/octodi/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/octodi/CVE-2018-10583">
+- [MrTaherAmine/CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/MrTaherAmine/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/MrTaherAmine/CVE-2018-10583">
 
 ---
 ## CVE-2018-1057 (2018-03-13T16:29:00)

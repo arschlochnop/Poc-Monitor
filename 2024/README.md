@@ -365,6 +365,7 @@ QuTScloud c5.1.5.2651 and later
 - [aitorcastel/git-cve-2024-32002](https://github.com/aitorcastel/git-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-cve-2024-32002">
 - [aitorcastel/git-submodule-cve-2024-32002](https://github.com/aitorcastel/git-submodule-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/git-submodule-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/git-submodule-cve-2024-32002">
 - [safebuffer/CVE-2024-32002](https://github.com/safebuffer/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/safebuffer/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/safebuffer/CVE-2024-32002">
+- [M507/CVE-2024-32002](https://github.com/M507/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2024-32002">
 
 ---
 ## CVE-2024-31848 ()
@@ -2270,6 +2271,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [hakaioffsec/CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2024-21338">
 - [UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/UMU618/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/UMU618/CVE-2024-21338">
 - [varwara/CVE-2024-21338](https://github.com/varwara/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-21338">
+- [Zombie-Kaiser/CVE-2024-21338-x64-build-](https://github.com/Zombie-Kaiser/CVE-2024-21338-x64-build-)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-21338-x64-build-">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-21338-x64-build-">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)

@@ -4771,6 +4771,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 ## CVE-2023-27100 (2023-03-22T23:15:00)
 > Improper restriction of excessive authentication attempts in the SSHGuard component of Netgate pfSense Plus software v22.05.1 and pfSense CE software v2.6.0 allows attackers to bypass brute force protection mechanisms via crafted web requests.
 - [fabdotnet/CVE-2023-27100](https://github.com/fabdotnet/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/fabdotnet/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/fabdotnet/CVE-2023-27100">
+- [DarokNET/CVE-2023-27100](https://github.com/DarokNET/CVE-2023-27100)	<img alt="forks" src="https://img.shields.io/github/forks/DarokNET/CVE-2023-27100">	<img alt="stars" src="https://img.shields.io/github/stars/DarokNET/CVE-2023-27100">
 
 ---
 ## CVE-2023-27034 (2023-03-23T22:15:00)

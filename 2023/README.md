@@ -4910,6 +4910,7 @@ and the severity is therefore considered low.
 - [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">
 - [ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation](https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation">
 - [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/k4but0/Ubuntu-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/k4but0/Ubuntu-LPE">
+- [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)	<img alt="forks" src="https://img.shields.io/github/forks/K5LK/CVE-2023-2640-32629">	<img alt="stars" src="https://img.shields.io/github/stars/K5LK/CVE-2023-2640-32629">
 
 ---
 ## CVE-2023-26360 (2023-03-23T20:15:00)

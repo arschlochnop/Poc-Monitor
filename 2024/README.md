@@ -459,6 +459,8 @@ QuTScloud c5.1.5.2651 and later
 - [ycdxsb/CVE-2024-32002-hulk](https://github.com/ycdxsb/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-hulk">
 - [vincepsh/CVE-2024-32002](https://github.com/vincepsh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002">
 - [vincepsh/CVE-2024-32002-hook](https://github.com/vincepsh/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002-hook">
+- [PoC0007/main_repo](https://github.com/PoC0007/main_repo)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/main_repo">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/main_repo">
+- [PoC0007/malicious](https://github.com/PoC0007/malicious)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/malicious">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/malicious">
 
 ---
 ## CVE-2024-31848 ()
@@ -2265,6 +2267,7 @@ You can download the latest version of Confluence Data Center and Server from th
 
 This vulnerability was found internally.
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
+- [Arbeys/CVE-2024-21683-PoC](https://github.com/Arbeys/CVE-2024-21683-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Arbeys/CVE-2024-21683-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Arbeys/CVE-2024-21683-PoC">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)

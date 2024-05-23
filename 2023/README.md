@@ -5350,6 +5350,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)	<img alt="forks" src="https://img.shields.io/github/forks/nonamecoder/CVE-2023-22906">	<img alt="stars" src="https://img.shields.io/github/stars/nonamecoder/CVE-2023-22906">
 
 ---
+## CVE-2023-22894 (2023-04-19T16:15:00)
+> Strapi through 4.5.5 allows attackers (with access to the admin panel) to discover sensitive user details by exploiting the query filter. The attacker can filter users by columns that contain sensitive information and infer a value from API responses. If the attacker has super admin access, then this can be exploited to discover the password hash and password reset token of all users. If the attacker has admin panel access to an account with permission to access the username and email of API users with a lower privileged role (e.g., Editor or Author), then this can be exploited to discover sensitive information for all API users but not other admin accounts.
+- [ductan2/CVE-2023-22894](https://github.com/ductan2/CVE-2023-22894)	<img alt="forks" src="https://img.shields.io/github/forks/ductan2/CVE-2023-22894">	<img alt="stars" src="https://img.shields.io/github/stars/ductan2/CVE-2023-22894">
+
+---
 ## CVE-2023-22884 (2023-01-21T14:15:00)
 > Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in Apache Software Foundation Apache Airflow, Apache Software Foundation Apache Airflow MySQL Provider.This issue affects Apache Airflow: before 2.5.1; Apache Airflow MySQL Provider: before 4.0.0.
 - [jakabakos/CVE-2023-22884-Airflow-SQLi](https://github.com/jakabakos/CVE-2023-22884-Airflow-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-22884-Airflow-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-22884-Airflow-SQLi">

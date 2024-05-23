@@ -29,6 +29,7 @@
 ## CVE-2024-4956 (2024-05-16T16:15:00)
 > Path Traversal in Sonatype Nexus Repository 3 allows an unauthenticated attacker to read system files. Fixed in version 3.68.1.
 - [banditzCyber0x/CVE-2024-4956](https://github.com/banditzCyber0x/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/banditzCyber0x/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/banditzCyber0x/CVE-2024-4956">
+- [cungts/CVE-2024-4956](https://github.com/cungts/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/cungts/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/cungts/CVE-2024-4956">
 
 ---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
@@ -479,6 +480,7 @@ QuTScloud c5.1.5.2651 and later
 - [10cks/CVE-2024-32002-EXP](https://github.com/10cks/CVE-2024-32002-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-32002-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-32002-EXP">
 - [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
 - [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
+- [fadhilthomas/poc-git-rce-cve-2024-32002](https://github.com/fadhilthomas/poc-git-rce-cve-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/fadhilthomas/poc-git-rce-cve-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/fadhilthomas/poc-git-rce-cve-2024-32002">
 
 ---
 ## CVE-2024-31848 ()

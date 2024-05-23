@@ -461,6 +461,10 @@ QuTScloud c5.1.5.2651 and later
 - [vincepsh/CVE-2024-32002-hook](https://github.com/vincepsh/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002-hook">
 - [PoC0007/main_repo](https://github.com/PoC0007/main_repo)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/main_repo">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/main_repo">
 - [PoC0007/malicious](https://github.com/PoC0007/malicious)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/malicious">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/malicious">
+- [WOOOOONG/hook-for-CVE-2024-32002](https://github.com/WOOOOONG/hook-for-CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook-for-CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook-for-CVE-2024-32002">
+- [JJoosh/CVE-2024-32002-](https://github.com/JJoosh/CVE-2024-32002-)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002-">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002-">
+- [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
+- [JJoosh/malicious-hook](https://github.com/JJoosh/malicious-hook)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/malicious-hook">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/malicious-hook">
 
 ---
 ## CVE-2024-31848 ()

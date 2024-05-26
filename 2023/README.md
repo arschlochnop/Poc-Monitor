@@ -1960,6 +1960,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-41991">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-41991">
 
 ---
+## CVE-2023-4197 (2023-11-01T08:15:00)
+> Improper input validation in Dolibarr ERP CRM <= v18.0.1 fails to strip certain PHP code from user-supplied input when creating a Website, allowing an attacker to inject and evaluate arbitrary PHP code.
+- [alien-keric/CVE-2023-4197](https://github.com/alien-keric/CVE-2023-4197)	<img alt="forks" src="https://img.shields.io/github/forks/alien-keric/CVE-2023-4197">	<img alt="stars" src="https://img.shields.io/github/stars/alien-keric/CVE-2023-4197">
+
+---
 ## CVE-2023-41892 (2023-09-13T20:15:00)
 > Craft CMS is a platform for creating digital experiences. This is a high-impact, low-complexity attack vector. Users running Craft installations before 4.4.15 are encouraged to update to at least that version to mitigate the issue. This issue has been fixed in Craft CMS 4.4.15.
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
@@ -3849,7 +3854,7 @@ Security and Spring WebFlux, and the potential for a security bypass.
 - [huyqa/CVE-2023-33733](https://github.com/huyqa/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/CVE-2023-33733">
 - [hoangbui24/CVE-2023-33733](https://github.com/hoangbui24/CVE-2023-33733)	<img alt="forks" src="https://img.shields.io/github/forks/hoangbui24/CVE-2023-33733">	<img alt="stars" src="https://img.shields.io/github/stars/hoangbui24/CVE-2023-33733">
 - [L41KAA/CVE-2023-33733-PoC](https://github.com/L41KAA/CVE-2023-33733-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/L41KAA/CVE-2023-33733-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/L41KAA/CVE-2023-33733-PoC">
-- [L41KAA/CVE-2023-33733-POC](https://github.com/L41KAA/CVE-2023-33733-POC)	<img alt="forks" src="https://img.shields.io/github/forks/L41KAA/CVE-2023-33733-POC">	<img alt="stars" src="https://img.shields.io/github/stars/L41KAA/CVE-2023-33733-POC">
+- [L41KAA/CVE-2023-33733-Exploit-PoC](https://github.com/L41KAA/CVE-2023-33733-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/L41KAA/CVE-2023-33733-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/L41KAA/CVE-2023-33733-Exploit-PoC">
 
 ---
 ## CVE-2023-33677 (2024-03-06T01:15:00)

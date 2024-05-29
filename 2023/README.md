@@ -4158,6 +4158,7 @@ Fixed in version 6.4.1.
 - [PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/PIDAN-HEIDASHUAI/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/PIDAN-HEIDASHUAI/CVE-2023-32233">
 - [RogelioPumajulca/TEST-CVE-2023-32233](https://github.com/RogelioPumajulca/TEST-CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/RogelioPumajulca/TEST-CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/RogelioPumajulca/TEST-CVE-2023-32233">
 - [void0red/CVE-2023-32233](https://github.com/void0red/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/void0red/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/void0red/CVE-2023-32233">
+- [rootkalilocalhost/CVE-2023-32233](https://github.com/rootkalilocalhost/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/rootkalilocalhost/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/rootkalilocalhost/CVE-2023-32233">
 
 ---
 ## CVE-2023-3212 (2023-06-23T20:15:00)

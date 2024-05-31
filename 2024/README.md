@@ -90,6 +90,7 @@
 - [s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s4vvysec/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s4vvysec/CVE-2024-4367-POC">
 - [spaceraccoon/detect-cve-2024-4367](https://github.com/spaceraccoon/detect-cve-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/spaceraccoon/detect-cve-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/spaceraccoon/detect-cve-2024-4367">
 - [avalahEE/pdfjs_disable_eval](https://github.com/avalahEE/pdfjs_disable_eval)	<img alt="forks" src="https://img.shields.io/github/forks/avalahEE/pdfjs_disable_eval">	<img alt="stars" src="https://img.shields.io/github/stars/avalahEE/pdfjs_disable_eval">
+- [clarkio/pdfjs-vuln-demo](https://github.com/clarkio/pdfjs-vuln-demo)	<img alt="forks" src="https://img.shields.io/github/forks/clarkio/pdfjs-vuln-demo">	<img alt="stars" src="https://img.shields.io/github/stars/clarkio/pdfjs-vuln-demo">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
@@ -1409,6 +1410,15 @@ QuTScloud c5.1.5.2651 and later
 - [Alaatk/CVE-2024-27460](https://github.com/Alaatk/CVE-2024-27460)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-27460">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-27460">
 - [xct/CVE-2024-27460](https://github.com/xct/CVE-2024-27460)	<img alt="forks" src="https://img.shields.io/github/forks/xct/CVE-2024-27460">	<img alt="stars" src="https://img.shields.io/github/stars/xct/CVE-2024-27460">
 - [10cks/CVE-2024-27460-installer](https://github.com/10cks/CVE-2024-27460-installer)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-27460-installer">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-27460-installer">
+
+---
+## CVE-2024-27348 (2024-04-22T14:15:00)
+> RCE-Remote Command Execution vulnerability in Apache HugeGraph-Server.This issue affects Apache HugeGraph-Server: from 1.0.0 before 1.3.0 in Java8 & Java11
+
+Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth system, which fixes the issue.
+
+
+- [Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2024-27348">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)

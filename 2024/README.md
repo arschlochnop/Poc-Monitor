@@ -134,6 +134,7 @@
 - [RevoltSecurities/CVE-2024-4358](https://github.com/RevoltSecurities/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-4358">
 - [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/Harydhk7/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/Harydhk7/CVE-2024-4358">
 - [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">
+- [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4358">
 
 ---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
@@ -1842,6 +1843,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starlox0/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starlox0/CVE-2024-24919-POC">
 - [nullcult/CVE-2024-24919-Exploit](https://github.com/nullcult/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nullcult/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nullcult/CVE-2024-24919-Exploit">
 - [satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satchhacker/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satchhacker/cve-2024-24919">
+- [verylazytech/CVE-2024-24919](https://github.com/verylazytech/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)

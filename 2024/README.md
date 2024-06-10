@@ -1834,7 +1834,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ifconfig-me/CVE-2024-24919-Bulk-Scanner](https://github.com/ifconfig-me/CVE-2024-24919-Bulk-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/CVE-2024-24919-Bulk-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/CVE-2024-24919-Bulk-Scanner">
 - [r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN](https://github.com/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Exploit-PoC-Checkpoint-Firewall-VPN">
 - [r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check](https://github.com/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check)	<img alt="forks" src="https://img.shields.io/github/forks/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">	<img alt="stars" src="https://img.shields.io/github/stars/r4p3c4/CVE-2024-24919-Checkpoint-Firewall-VPN-Check">
-- [J4F9S5D2Q7/CVE-2024-24919](https://github.com/J4F9S5D2Q7/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919">
+- [J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT](https://github.com/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT)	<img alt="forks" src="https://img.shields.io/github/forks/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">	<img alt="stars" src="https://img.shields.io/github/stars/J4F9S5D2Q7/CVE-2024-24919-CHECKPOINT">
 - [mr-kasim-mehar/CVE-2024-24919-Exploit](https://github.com/mr-kasim-mehar/CVE-2024-24919-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mr-kasim-mehar/CVE-2024-24919-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mr-kasim-mehar/CVE-2024-24919-Exploit">
 - [B1naryo/CVE-2024-24919-POC](https://github.com/B1naryo/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/B1naryo/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/B1naryo/CVE-2024-24919-POC">
 - [Expl0itD0g/CVE-2024-24919---Poc](https://github.com/Expl0itD0g/CVE-2024-24919---Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Expl0itD0g/CVE-2024-24919---Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Expl0itD0g/CVE-2024-24919---Poc">
@@ -2786,8 +2786,14 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
+## CVE-2024-20405 ()
+> 
+- [AbdElRahmanEzzat1995/CVE-2024-20405](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20405)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20405">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20405">
+
+---
 ## CVE-2024-20404 ()
 > 
+- [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 
 ---

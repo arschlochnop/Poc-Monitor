@@ -5971,6 +5971,11 @@ For more details, please review the linked advisory on this CVE.
 - [hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi](https://github.com/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-20871-poc-jbwbi">
 
 ---
+## CVE-2023-20598 ()
+> 
+- [H4rk3nz0/CVE-2023-20598-PDFWKRNL](https://github.com/H4rk3nz0/CVE-2023-20598-PDFWKRNL)	<img alt="forks" src="https://img.shields.io/github/forks/H4rk3nz0/CVE-2023-20598-PDFWKRNL">	<img alt="stars" src="https://img.shields.io/github/stars/H4rk3nz0/CVE-2023-20598-PDFWKRNL">
+
+---
 ## CVE-2023-20573 (2024-01-11T14:15:00)
 > A privileged attacker
 can prevent delivery of debug exceptions to SEV-SNP guests potentially

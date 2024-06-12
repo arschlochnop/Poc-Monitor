@@ -62,6 +62,11 @@
 - [verylazytech/CVE-2024-4956](https://github.com/verylazytech/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4956">
 
 ---
+## CVE-2024-4898 ()
+> 
+- [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
+
+---
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
@@ -111,6 +116,7 @@
 - [Entropt/CVE-2024-4577_Analysis](https://github.com/Entropt/CVE-2024-4577_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Entropt/CVE-2024-4577_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Entropt/CVE-2024-4577_Analysis">
 - [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/d3ck4/Shodan-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/d3ck4/Shodan-CVE-2024-4577">
 - [aaddmin1122345/CVE-2024-4577-POC](https://github.com/aaddmin1122345/CVE-2024-4577-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aaddmin1122345/CVE-2024-4577-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aaddmin1122345/CVE-2024-4577-POC">
+- [XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE](https://github.com/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
@@ -3085,6 +3091,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0399 (2024-04-15T05:15:00)
 > The WooCommerce Customers Manager WordPress plugin before 29.7 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to an SQL injection exploitable by Subscriber+ role.
 - [xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-0399">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-0399">
+
+---
+## CVE-2024-0352 ()
+> 
+- [Cappricio-Securities/CVE-2024-0352](https://github.com/Cappricio-Securities/CVE-2024-0352)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-0352">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-0352">
 
 ---
 ## CVE-2024-0305 (2024-01-08T09:15:00)

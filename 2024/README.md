@@ -758,6 +758,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
 
 ---
+## CVE-2024-31210 ()
+> 
+- [Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-31210">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-31210">
+
+---
 ## CVE-2024-3116 (2024-04-04T15:15:00)
 > pgAdmin <= 8.4 is affected by a  Remote Code Execution (RCE) vulnerability through the validate binary path API. This vulnerability allows attackers to execute arbitrary code on the server hosting PGAdmin, posing a severe risk to the database management system's integrity and the security of the underlying data.
 
@@ -1491,6 +1496,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-27956">
 - [Cappricio-Securities/CVE-2024-27956](https://github.com/Cappricio-Securities/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-27956">
 - [itzheartzz/MASS-CVE-2024-27956](https://github.com/itzheartzz/MASS-CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/itzheartzz/MASS-CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/itzheartzz/MASS-CVE-2024-27956">
+- [TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TadashiJei/Valve-Press-CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TadashiJei/Valve-Press-CVE-2024-27956-RCE">
 
 ---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
@@ -1565,6 +1571,11 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 > HTTP/2 incoming headers exceeding the limit are temporarily buffered in nghttp2 in order to generate an informative HTTP 413 response. If a client does not stop sending headers, this leads to memory exhaustion.
 - [lockness-Ko/CVE-2024-27316](https://github.com/lockness-Ko/CVE-2024-27316)	<img alt="forks" src="https://img.shields.io/github/forks/lockness-Ko/CVE-2024-27316">	<img alt="stars" src="https://img.shields.io/github/stars/lockness-Ko/CVE-2024-27316">
 - [aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2024-27316_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2024-27316_poc">
+
+---
+## CVE-2024-27282 ()
+> 
+- [Abo5/CVE-2024-27282](https://github.com/Abo5/CVE-2024-27282)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2024-27282">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2024-27282">
 
 ---
 ## CVE-2024-27199 (2024-03-04T18:15:00)

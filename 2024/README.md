@@ -689,8 +689,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Jhonsonwannaa/CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-31819">
 
 ---
-## CVE-2024-31777 ()
-> 
+## CVE-2024-31777 (2024-06-13T23:15:00)
+> File Upload vulnerability in openeclass v.3.15 and before allows an attacker to execute arbitrary code via a crafted file to the certbadge.php endpoint.
 - [FreySolarEye/Exploit-CVE-2024-31777](https://github.com/FreySolarEye/Exploit-CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/Exploit-CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/Exploit-CVE-2024-31777">
 
 ---

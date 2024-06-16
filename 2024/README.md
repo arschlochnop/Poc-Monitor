@@ -209,6 +209,11 @@
 - [c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)	<img alt="forks" src="https://img.shields.io/github/forks/c4cnm/CVE-2024-3867">	<img alt="stars" src="https://img.shields.io/github/stars/c4cnm/CVE-2024-3867">
 
 ---
+## CVE-2024-38396 (2024-06-16T21:15:00)
+> An issue was discovered in iTerm2 3.5.x before 3.5.2. Unfiltered use of an escape sequence to report a window title, in combination with the built-in tmux integration feature (enabled by default), allows an attacker to inject arbitrary code into the terminal, a different vulnerability than CVE-2024-38395.
+- [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
+
+---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
 > The Porto theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 7.1.0 via the 'porto_ajax_posts' function. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where php file type can be uploaded and included.
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">

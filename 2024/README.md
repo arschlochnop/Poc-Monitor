@@ -3182,8 +3182,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
 
 ---
-## CVE-2024-0757 ()
-> 
+## CVE-2024-0757 (2024-06-04T06:15:00)
+> The Insert or Embed Articulate Content into WordPress plugin through 4.3000000023 is not properly filtering which file extensions are allowed to be imported on the server, allowing the uploading of malicious code within zip files
 - [hunThubSpace/CVE-2024-0757](https://github.com/hunThubSpace/CVE-2024-0757)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757">
 - [hunThubSpace/CVE-2024-0757-Exploit](https://github.com/hunThubSpace/CVE-2024-0757-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757-Exploit">
 

@@ -1285,6 +1285,12 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sploitus/CVE-2024-29988-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sploitus/CVE-2024-29988-exploit">
 
 ---
+## CVE-2024-29973 (2024-06-04T02:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED **
+The command injection vulnerability in the “setCookie” parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
+- [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
+
+---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
 > Cacti provides an operational monitoring and fault management framework. A command injection vulnerability on the 1.3.x DEV branch allows any unauthenticated user to execute arbitrary command on the server when `register_argc_argv` option of PHP is `On`. In `cmd_realtime.php` line 119, the `$poller_id` used as part of the command execution is sourced from `$_SERVER['argv']`, which can be controlled by URL when `register_argc_argv` option of PHP is `On`. And this option is `On` by default in many environments such as the main PHP Docker image for PHP. Commit 53e8014d1f082034e0646edc6286cde3800c683d contains a patch for the issue, but this commit was reverted in commit 99633903cad0de5ace636249de16f77e57a3c8fc.
 - [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-29895-CactiRCE-PoC">

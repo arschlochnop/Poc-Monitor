@@ -4450,6 +4450,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Rubikcuv5/cve-2023-30253](https://github.com/Rubikcuv5/cve-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/cve-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/cve-2023-30253">
 - [04Shivam/CVE-2023-30253-Exploit](https://github.com/04Shivam/CVE-2023-30253-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/04Shivam/CVE-2023-30253-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/04Shivam/CVE-2023-30253-Exploit">
 - [nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253)	<img alt="forks" src="https://img.shields.io/github/forks/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253">	<img alt="stars" src="https://img.shields.io/github/stars/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253">
+- [g4nkd/CVE-2023-30253-PoC](https://github.com/g4nkd/CVE-2023-30253-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-30253-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-30253-PoC">
 
 ---
 ## CVE-2023-30226 (2023-07-12T02:15:00)
@@ -4734,11 +4735,16 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/CVE-2023-2825">
 - [Tornad0007/CVE-2023-2825-Gitlab](https://github.com/Tornad0007/CVE-2023-2825-Gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/Tornad0007/CVE-2023-2825-Gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/Tornad0007/CVE-2023-2825-Gitlab">
 - [yuimarudev/CVE-2023-2825](https://github.com/yuimarudev/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/yuimarudev/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/yuimarudev/CVE-2023-2825">
-- [EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-2825">
+- [Rubikcuv5/CVE-2023-2825](https://github.com/Rubikcuv5/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/Rubikcuv5/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/Rubikcuv5/CVE-2023-2825">
 - [hheeyywweellccoommee/CVE-2023-2825-zaskh](https://github.com/hheeyywweellccoommee/CVE-2023-2825-zaskh)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-2825-zaskh">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-2825-zaskh">
 - [caopengyan/CVE-2023-2825](https://github.com/caopengyan/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/caopengyan/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/caopengyan/CVE-2023-2825">
 - [fortra/CVE-2023-28252](https://github.com/fortra/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/fortra/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/fortra/CVE-2023-28252">
 - [cc3305/CVE-2023-2825](https://github.com/cc3305/CVE-2023-2825)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2023-2825">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2023-2825">
+- [Vulmatch/CVE-2023-28252](https://github.com/Vulmatch/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/Vulmatch/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/Vulmatch/CVE-2023-28252">
+- [duck-sec/CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-28252-Compiled-exe">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-28252-Compiled-exe">
+- [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">
+- [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/Danasuley/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/Danasuley/CVE-2023-28252-">
+- [726232111/CVE-2023-28252](https://github.com/726232111/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/726232111/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/726232111/CVE-2023-28252">
 
 ---
 ## CVE-2023-28229 (2023-04-11T21:15:00)

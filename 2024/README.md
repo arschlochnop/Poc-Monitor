@@ -410,6 +410,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
 - [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
 - [Mr-r00t11/CVE-2024-34470](https://github.com/Mr-r00t11/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-34470">
+- [th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)

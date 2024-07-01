@@ -306,6 +306,26 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37765 ()
+> 
+- [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
+
+---
+## CVE-2024-37764 ()
+> 
+- [Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37764">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37764">
+
+---
+## CVE-2024-37763 ()
+> 
+- [Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37763">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37763">
+
+---
+## CVE-2024-37762 ()
+> 
+- [Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37762">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37762">
+
+---
 ## CVE-2024-37759 (2024-06-24T21:15:00)
 > DataGear v5.0.0 and earlier was discovered to contain a SpEL (Spring Expression Language) expression injection vulnerability via the Data Viewing interface.
 - [crumbledwall/CVE-2024-37759_PoC](https://github.com/crumbledwall/CVE-2024-37759_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/crumbledwall/CVE-2024-37759_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/crumbledwall/CVE-2024-37759_PoC">

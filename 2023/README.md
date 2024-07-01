@@ -2477,6 +2477,11 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [m3ssap0/cacti-rce-snmp-options-vulnerable-application](https://github.com/m3ssap0/cacti-rce-snmp-options-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/cacti-rce-snmp-options-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/cacti-rce-snmp-options-vulnerable-application">
 
 ---
+## CVE-2023-39361 (2023-09-05T21:15:00)
+> Cacti is an open source operational monitoring and fault management framework. Affected versions are subject to a SQL injection discovered in graph_view.php. Since guest users can access graph_view.php without authentication by default, if guest users are being utilized in an enabled state, there could be the potential for significant damage. Attackers may exploit this vulnerability, and there may be possibilities for actions such as the usurpation of administrative privileges or remote code execution. This issue has been addressed in version 1.2.25. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2023-39361">
+
+---
 ## CVE-2023-39320 (2023-09-08T17:15:00)
 > The go.mod toolchain directive, introduced in Go 1.21, can be leveraged to execute scripts and binaries relative to the root of the module when the "go" command was executed within the module. This applies to modules downloaded using the "go" command from the module proxy, as well as modules downloaded directly using VCS software.
 - [stogaru/cve-2023-39320-exploit](https://github.com/stogaru/cve-2023-39320-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/stogaru/cve-2023-39320-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/stogaru/cve-2023-39320-exploit">

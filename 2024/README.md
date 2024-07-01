@@ -27,8 +27,15 @@
 - [lflare/cve-2024-6387-poc](https://github.com/lflare/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/lflare/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/lflare/cve-2024-6387-poc">
 - [acrono/cve-2024-6387-poc](https://github.com/acrono/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/acrono/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/acrono/cve-2024-6387-poc">
 - [zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgzhang/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgzhang/cve-2024-6387-poc">
-- [getdrive/CVE-2024-6387-exploit](https://github.com/getdrive/CVE-2024-6387-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2024-6387-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2024-6387-exploit">
+- [getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/CVE-2024-6387-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/CVE-2024-6387-PoC">
 - [shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/shyrwall/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/shyrwall/cve-2024-6387-poc">
+- [passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/cve-2024-6387-poc">
+- [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FerasAlrimali/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FerasAlrimali/CVE-2024-6387-POC">
+
+---
+## CVE-2024-6050 (2024-07-01T14:15:00)
+> Improper Neutralization of Input During Web Page Generation vulnerability in SOKRATES-software SOWA OPAC allows a Reflected Cross-Site Scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects SOWA OPAC software in versions from 4.0 before 4.9.10, from 5.0 before 6.2.12.
+- [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
 
 ---
 ## CVE-2024-6028 (2024-06-25T09:15:00)

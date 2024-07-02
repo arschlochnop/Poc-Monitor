@@ -50,6 +50,7 @@
 - [Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2024-6387-checkher">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2024-6387-checkher">
 - [teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/teamos-hub/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/teamos-hub/regreSSHion">
 - [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check">
+- [R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/R4Tw1z/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/R4Tw1z/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)

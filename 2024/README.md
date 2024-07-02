@@ -74,6 +74,11 @@
 - [dawnl3ss/CVE-2024-6387](https://github.com/dawnl3ss/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2024-6387">
 - [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/no-one-sec/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/no-one-sec/CVE-2024-6387">
 - [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion">
+- [l0n3m4n/CVE-2024-6387](https://github.com/l0n3m4n/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-6387">
+- [n1cks0n/Test_CVE-2024-6387](https://github.com/n1cks0n/Test_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/n1cks0n/Test_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/n1cks0n/Test_CVE-2024-6387">
+- [theaog/spirit](https://github.com/theaog/spirit)	<img alt="forks" src="https://img.shields.io/github/forks/theaog/spirit">	<img alt="stars" src="https://img.shields.io/github/stars/theaog/spirit">
+- [RickGeex/CVE-2024-6387-Checker](https://github.com/RickGeex/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/RickGeex/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/RickGeex/CVE-2024-6387-Checker">
+- [xonoxitron/regreSSHion-checker](https://github.com/xonoxitron/regreSSHion-checker)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion-checker">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion-checker">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)

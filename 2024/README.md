@@ -83,6 +83,7 @@
 - [EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">
 - [edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2024-6387_Check">
 - [BrandonLynch2402/cve-2024-6387-nuclei-template](https://github.com/BrandonLynch2402/cve-2024-6387-nuclei-template)	<img alt="forks" src="https://img.shields.io/github/forks/BrandonLynch2402/cve-2024-6387-nuclei-template">	<img alt="stars" src="https://img.shields.io/github/stars/BrandonLynch2402/cve-2024-6387-nuclei-template">
+- [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)

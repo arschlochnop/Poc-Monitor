@@ -95,6 +95,7 @@
 - [turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker">
 - [JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JackSparrowhk/ssh-CVE-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JackSparrowhk/ssh-CVE-2024-6387-poc">
 - [sms2056/CVE-2024-6387](https://github.com/sms2056/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sms2056/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sms2056/CVE-2024-6387">
+- [invaderslabs/regreSSHion-CVE-2024-6387-](https://github.com/invaderslabs/regreSSHion-CVE-2024-6387-)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/regreSSHion-CVE-2024-6387-">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/regreSSHion-CVE-2024-6387-">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)

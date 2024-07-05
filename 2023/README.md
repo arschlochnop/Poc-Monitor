@@ -6025,6 +6025,11 @@ For more details, please review the linked advisory on this CVE.
 - [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2023-20955">
 
 ---
+## CVE-2023-20945 (2023-02-28T17:15:00)
+> In phNciNfc_MfCreateXchgDataHdr of phNxpExtns_MifareStd.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-246932269
+- [Ailenchick/CVE-2023-20945](https://github.com/Ailenchick/CVE-2023-20945)	<img alt="forks" src="https://img.shields.io/github/forks/Ailenchick/CVE-2023-20945">	<img alt="stars" src="https://img.shields.io/github/stars/Ailenchick/CVE-2023-20945">
+
+---
 ## CVE-2023-20944 (2023-02-28T17:15:00)
 > In run of ChooseTypeAndAccountActivity.java, there is a possible escalation of privilege due to unsafe deserialization. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-244154558
 - [nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944">

@@ -4818,6 +4818,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [david-botelho-mariano/exploit-CVE-2023-27564](https://github.com/david-botelho-mariano/exploit-CVE-2023-27564)	<img alt="forks" src="https://img.shields.io/github/forks/david-botelho-mariano/exploit-CVE-2023-27564">	<img alt="stars" src="https://img.shields.io/github/stars/david-botelho-mariano/exploit-CVE-2023-27564">
 
 ---
+## CVE-2023-27532 (2023-03-10T22:15:00)
+> Vulnerability in Veeam Backup & Replication component allows encrypted credentials stored in the configuration database to be obtained. This may lead to gaining access to the backup infrastructure hosts.
+- [puckiestyle/CVE-2023-27532-RCE-Only](https://github.com/puckiestyle/CVE-2023-27532-RCE-Only)	<img alt="forks" src="https://img.shields.io/github/forks/puckiestyle/CVE-2023-27532-RCE-Only">	<img alt="stars" src="https://img.shields.io/github/stars/puckiestyle/CVE-2023-27532-RCE-Only">
+
+---
 ## CVE-2023-27524 (2023-04-24T16:15:00)
 > Session Validation attacks in Apache Superset versions up to and including 2.0.1. Installations that have not altered the default configured SECRET_KEY according to installation instructions allow for an attacker to authenticate and access unauthorized resources. This does not affect Superset administrators who have changed the default value for SECRET_KEY config.
 - [ThatNotEasy/CVE-2023-27524](https://github.com/ThatNotEasy/CVE-2023-27524)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-27524">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-27524">

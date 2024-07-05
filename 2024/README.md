@@ -442,6 +442,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)	<img alt="forks" src="https://img.shields.io/github/forks/czheisenberg/CVE-2024-37791">	<img alt="stars" src="https://img.shields.io/github/stars/czheisenberg/CVE-2024-37791">
 
 ---
+## CVE-2024-37770 ()
+> 
+- [k3ppf0r/CVE-2024-37770](https://github.com/k3ppf0r/CVE-2024-37770)	<img alt="forks" src="https://img.shields.io/github/forks/k3ppf0r/CVE-2024-37770">	<img alt="stars" src="https://img.shields.io/github/stars/k3ppf0r/CVE-2024-37770">
+
+---
 ## CVE-2024-37765 (2024-07-01T22:15:00)
 > Machform up to version 19 is affected by an authenticated Blind SQL injection in the user account settings page.
 - [Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)	<img alt="forks" src="https://img.shields.io/github/forks/Atreb92/cve-2024-37765">	<img alt="stars" src="https://img.shields.io/github/stars/Atreb92/cve-2024-37765">
@@ -1596,6 +1601,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 > Windows Kernel Elevation of Privilege Vulnerability
 - [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-30088">
 - [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-)	<img alt="forks" src="https://img.shields.io/github/forks/NextGenPentesters/CVE-2024-30088-">	<img alt="stars" src="https://img.shields.io/github/stars/NextGenPentesters/CVE-2024-30088-">
+- [Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-30088-Windows-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-30088-Windows-poc">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)

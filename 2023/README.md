@@ -1996,6 +1996,11 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [B1TC0R3/CVE-2023-4220-PoC](https://github.com/B1TC0R3/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220-PoC">
 
 ---
+## CVE-2023-422 ()
+> 
+- [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">
+
+---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
 > Control Web Panel dns_zone_editor Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Control Web Panel. Authentication is required to exploit this vulnerability.
 
@@ -4721,6 +4726,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [netuseradministrator/CVE-2023-28432](https://github.com/netuseradministrator/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/netuseradministrator/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/netuseradministrator/CVE-2023-28432">
 - [xk-mt/CVE-2023-28432](https://github.com/xk-mt/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/xk-mt/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/xk-mt/CVE-2023-28432">
 - [0xRulez/CVE-2023-28432](https://github.com/0xRulez/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/0xRulez/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/0xRulez/CVE-2023-28432">
+- [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)

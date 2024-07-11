@@ -115,6 +115,7 @@
 - [DimaMend/cve-2024-6387-poc](https://github.com/DimaMend/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DimaMend/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DimaMend/cve-2024-6387-poc">
 - [bigb0x/SSH-Scanner](https://github.com/bigb0x/SSH-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/SSH-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/SSH-Scanner">
 - [ThemeHackers/CVE-2024-6387](https://github.com/ThemeHackers/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-6387">
+- [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -3923,6 +3924,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Re13orn/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Re13orn/CVE-2024-0044-EXP">
 - [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/cve_2024_0044">
 - [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter)	<img alt="forks" src="https://img.shields.io/github/forks/scs-labrat/android_autorooter">	<img alt="stars" src="https://img.shields.io/github/stars/scs-labrat/android_autorooter">
+- [007CRIPTOGRAFIA/C-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/C-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/C-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/C-CVE-2024-0044">
 
 ---
 ## CVE-2024-0039 (2024-03-11T17:15:00)

@@ -994,6 +994,13 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
 
 ---
+## CVE-2024-33544 (2024-04-29T07:15:00)
+> Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in AA-Team WZone allows SQL Injection.This issue affects WZone: from n/a through 14.0.10.
+
+
+- [codeb0ss/CVE-2024-33544-PoC](https://github.com/codeb0ss/CVE-2024-33544-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-33544-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-33544-PoC">
+
+---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
 > File Upload vulnerability in CubeCart before 6.5.5 allows an authenticated user to execute arbitrary code via a crafted .phar file.
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">

@@ -478,8 +478,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/entroychang/CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/entroychang/CVE-2024-4040">
 
 ---
-## CVE-2024-40119 ()
-> 
+## CVE-2024-40119 (2024-07-17T20:15:00)
+> Nepstech Wifi Router xpon (terminal) model NTPL-Xpon1GFEVN v.1.0 Firmware V2.0.1 contains a Cross-Site Request Forgery (CSRF) vulnerability in the password change function, which allows remote attackers to change the admin password without the user's consent, leading to a potential account takeover.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---

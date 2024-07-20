@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-99999 ()
+> 
+- [labc-dev/CVE-2024-99999](https://github.com/labc-dev/CVE-2024-99999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-99999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-99999">
+
+---
 ## CVE-2024-666666 ()
 > 
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
@@ -2525,6 +2530,11 @@ overflow.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
 
 ---
+## CVE-2024-266666 ()
+> 
+- [labc-dev/CVE-2024-266666](https://github.com/labc-dev/CVE-2024-266666)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-266666">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-266666">
+
+---
 ## CVE-2024-26574 ()
 > 
 - [Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2024-26574">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2024-26574">
@@ -3898,6 +3908,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 ## CVE-2024-2026 (2024-04-09T19:15:00)
 > The Passster plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's content_protector shortcode in all versions up to, and including, 4.2.6.4 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [labc-dev/CVE-2024-2026](https://github.com/labc-dev/CVE-2024-2026)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2026">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2026">
+
+---
+## CVE-2024-2024 (2024-06-14T13:15:00)
+> The Folders Pro plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'handle_folders_file_upload' function in all versions up to, and including, 3.0.2. This makes it possible for authenticated attackers, with author access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.
+- [labc-dev/CVE-2024-2024](https://github.com/labc-dev/CVE-2024-2024)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2024">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2024">
 
 ---
 ## CVE-2024-1874 (2024-04-29T04:15:00)

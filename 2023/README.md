@@ -6505,6 +6505,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630">
 
 ---
+## CVE-2023-0400 (2023-02-02T09:15:00)
+> The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in version 11.10.0. This allowed a local user to bypass DLP controls when uploading sensitive data from a mapped drive into a web email client. Loading from a local driver was correctly prevented. Versions prior to 11.9 correctly detected and blocked the attempted upload of sensitive data.
+- [pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2023-0400">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2023-0400">
+
+---
 ## CVE-2023-0386 (2023-03-22T21:15:00)
 > A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">

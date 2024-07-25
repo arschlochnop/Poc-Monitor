@@ -456,6 +456,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
+## CVE-2024-41110 ()
+> 
+- [vvpoglazov/cve-2024-41110-checker](https://github.com/vvpoglazov/cve-2024-41110-checker)	<img alt="forks" src="https://img.shields.io/github/forks/vvpoglazov/cve-2024-41110-checker">	<img alt="stars" src="https://img.shields.io/github/stars/vvpoglazov/cve-2024-41110-checker">
+
+---
 ## CVE-2024-41107 (2024-07-19T11:15:00)
 > The CloudStack SAML authentication (disabled by default) does not enforce signature check. In CloudStack environments where SAML authentication is enabled, an attacker that initiates CloudStack SAML single sign-on authentication can bypass SAML authentication by submitting a spoofed SAML response with no signature and known or guessed username and other user details of a SAML-enabled CloudStack user-account. In such environments, this can result in a complete compromise of the resources owned and/or accessible by a SAML enabled user-account.
 

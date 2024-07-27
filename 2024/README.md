@@ -2053,6 +2053,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/tykawaii98/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/tykawaii98/CVE-2024-30088">
 - [NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-)	<img alt="forks" src="https://img.shields.io/github/forks/NextGenPentesters/CVE-2024-30088-">	<img alt="stars" src="https://img.shields.io/github/stars/NextGenPentesters/CVE-2024-30088-">
 - [Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-30088-Windows-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-30088-Windows-poc">
+- [Admin9961/CVE-2024-30088](https://github.com/Admin9961/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/Admin9961/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/Admin9961/CVE-2024-30088">
+- [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/collateral-damage">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
@@ -3944,6 +3946,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 > BitLocker Security Feature Bypass Vulnerability
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
 - [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/CVE-2024-20666">
+- [HYZ3K/CVE-2024-20666](https://github.com/HYZ3K/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/HYZ3K/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/HYZ3K/CVE-2024-20666">
 
 ---
 ## CVE-2024-206565 ()

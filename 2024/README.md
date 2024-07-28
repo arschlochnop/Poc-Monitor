@@ -1007,6 +1007,11 @@ PANIC from 6.8.0-rc1:
 - [aelmokhtar/CVE-2024-34716_PoC](https://github.com/aelmokhtar/CVE-2024-34716_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716_PoC">
 
 ---
+## CVE-2024-34693 ()
+> 
+- [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-34693">
+
+---
 ## CVE-2024-34582 (2024-05-16T15:15:00)
 > Sunhillo SureLine through 8.10.0 on RICI 5000 devices allows cgi/usrPasswd.cgi userid_change XSS within the Forgot Password feature.
 - [silent6trinity/CVE-2024-34582](https://github.com/silent6trinity/CVE-2024-34582)	<img alt="forks" src="https://img.shields.io/github/forks/silent6trinity/CVE-2024-34582">	<img alt="stars" src="https://img.shields.io/github/stars/silent6trinity/CVE-2024-34582">

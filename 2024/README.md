@@ -463,6 +463,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [sh3bu/CVE-2024-41662](https://github.com/sh3bu/CVE-2024-41662)	<img alt="forks" src="https://img.shields.io/github/forks/sh3bu/CVE-2024-41662">	<img alt="stars" src="https://img.shields.io/github/stars/sh3bu/CVE-2024-41662">
 
 ---
+## CVE-2024-41628 (2024-07-26T21:15:00)
+> Directory Traversal vulnerability in Severalnines Cluster Control 1.9.8 before 1.9.8-9778, 2.0.0 before 2.0.0-9779, and 2.1.0 before 2.1.0-9780 allows a remote attacker to include and display file content in an HTTP request via the CMON API.
+- [Redshift-CyberSecurity/CVE-2024-41628](https://github.com/Redshift-CyberSecurity/CVE-2024-41628)	<img alt="forks" src="https://img.shields.io/github/forks/Redshift-CyberSecurity/CVE-2024-41628">	<img alt="stars" src="https://img.shields.io/github/stars/Redshift-CyberSecurity/CVE-2024-41628">
+
+---
 ## CVE-2024-41110 (2024-07-24T17:15:00)
 > Moby is an open-source project created by Docker for software containerization. A security vulnerability has been detected in certain versions of Docker Engine, which could allow an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The base likelihood of this being exploited is low.
 
@@ -1150,6 +1155,11 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-34220 (2024-05-14T15:38:00)
 > Sourcecodester Human Resource Management System 1.0 is vulnerable to SQL Injection via the 'leave' parameter.
 - [dovankha/CVE-2024-34220](https://github.com/dovankha/CVE-2024-34220)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-34220">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-34220">
+
+---
+## CVE-2024-34144 ()
+> 
+- [MXWXZ/CVE-2024-34144](https://github.com/MXWXZ/CVE-2024-34144)	<img alt="forks" src="https://img.shields.io/github/forks/MXWXZ/CVE-2024-34144">	<img alt="stars" src="https://img.shields.io/github/stars/MXWXZ/CVE-2024-34144">
 
 ---
 ## CVE-2024-34102 (2024-06-13T09:15:00)
@@ -4347,6 +4357,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
 
 ---
+## CVE-2024-0049 (2024-03-11T17:15:00)
+> In multiple locations, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User  interaction is not needed for exploitation.
+- [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0049">
+
+---
 ## CVE-2024-0044 (2024-03-11T17:15:00)
 > In createSessionInternal of PackageInstallerService.java, there is a possible run-as any app due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
@@ -4357,6 +4372,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [007CRIPTOGRAFIA/C-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/C-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/C-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/C-CVE-2024-0044">
 - [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/c-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/c-CVE-2024-0044">
 - [Kai2er/CVE-2024-0044-EXP](https://github.com/Kai2er/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Kai2er/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Kai2er/CVE-2024-0044-EXP">
+
+---
+## CVE-2024-0040 (2024-02-16T02:15:00)
+> In setParameter of MtpPacket.cpp, there is a possible out of bounds read due to a heap buffer overflow. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040](https://github.com/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040)	<img alt="forks" src="https://img.shields.io/github/forks/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">	<img alt="stars" src="https://img.shields.io/github/stars/nidhihcl75/frameworks_av_AOSP10_r33_CVE-2024-0040">
 
 ---
 ## CVE-2024-0039 (2024-03-11T17:15:00)

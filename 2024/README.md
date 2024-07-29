@@ -12,6 +12,11 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
+## CVE-2024-81757 ()
+> 
+- [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
+
+---
 ## CVE-2024-6694 (2024-07-20T04:15:00)
 > The WP Mail SMTP plugin for WordPress is vulnerable to information exposure in all versions up to, and including, 4.0.1. This is due to plugin providing the SMTP password in the SMTP Password field when viewing the settings. This makes it possible for authenticated attackers, with administrative-level access and above, to view the SMTP password for the supplied server. Although this would not be useful for attackers in most cases, if an administrator account becomes compromised this could be useful information to an attacker in a limited environment.
 - [codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-6694-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-6694-PoC">
@@ -526,6 +531,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Jansen-C-Moreira/CVE-2024-40506](https://github.com/Jansen-C-Moreira/CVE-2024-40506)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40506">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40506">
 
 ---
+## CVE-2024-40498 ()
+> 
+- [Dirac231/CVE-2024-40498](https://github.com/Dirac231/CVE-2024-40498)	<img alt="forks" src="https://img.shields.io/github/forks/Dirac231/CVE-2024-40498">	<img alt="stars" src="https://img.shields.io/github/stars/Dirac231/CVE-2024-40498">
+
+---
 ## CVE-2024-40492 (2024-07-17T22:15:00)
 > Cross Site Scripting vulnerability in Heartbeat Chat v.15.2.1 allows a remote attacker to execute arbitrary code via the setname function.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
@@ -598,6 +608,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39700 ()
 > 
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
+- [10urc0de/CVE-2024-39700-PoC](https://github.com/10urc0de/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/10urc0de/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/10urc0de/CVE-2024-39700-PoC">
 
 ---
 ## CVE-2024-39250 (2024-07-22T20:15:00)
@@ -1524,6 +1535,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
 - [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
 - [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
+- [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -4350,6 +4362,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0039 (2024-03-11T17:15:00)
 > In attp_build_value_cmd of att_protocol.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/41yn14/CVE-2024-0039-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/41yn14/CVE-2024-0039-Exploit">
+
+---
+## CVE-2024-0023 ()
+> 
+- [AbrarKhan/G3_Frameworks_av_CVE-2024-0023](https://github.com/AbrarKhan/G3_Frameworks_av_CVE-2024-0023)	<img alt="forks" src="https://img.shields.io/github/forks/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">	<img alt="stars" src="https://img.shields.io/github/stars/AbrarKhan/G3_Frameworks_av_CVE-2024-0023">
 
 ---
 ## CVE-2024-0015 (2024-02-16T19:15:00)

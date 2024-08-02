@@ -27,8 +27,8 @@
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 
 ---
-## CVE-2024-6738 ()
-> 
+## CVE-2024-6738 (2024-07-15T03:15:00)
+> The tumbnail API of Tronclass from WisdomGarden lacks proper access control, allowing unauthenticated remote attackers to obtain certain specific files by modifying the URL.
 - [XD3an/CVE-2024-6738](https://github.com/XD3an/CVE-2024-6738)	<img alt="forks" src="https://img.shields.io/github/forks/XD3an/CVE-2024-6738">	<img alt="stars" src="https://img.shields.io/github/stars/XD3an/CVE-2024-6738">
 
 ---

@@ -59,8 +59,8 @@
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
 
 ---
-## CVE-2024-6529 ()
-> 
+## CVE-2024-6529 (2024-08-01T06:15:00)
+> The Ultimate Classified Listings WordPress plugin before 1.4 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin
 - [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6529">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6529">
 
 ---
@@ -260,8 +260,10 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection">
 
 ---
-## CVE-2024-5246 ()
-> 
+## CVE-2024-5246 (2024-05-23T22:15:00)
+> NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NETGEAR ProSAFE Network Management System. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the product installer. The issue results from the use of a vulnerable version of Apache Tomcat. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-22868.
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
@@ -645,8 +647,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---
-## CVE-2024-40110 ()
-> 
+## CVE-2024-40110 (2024-07-12T17:15:00)
+> Sourcecodester Poultry Farm Management System v1.0 contains an Unauthenticated Remote Code Execution (RCE) vulnerability via the productimage parameter at /farm/product.php.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
 
 ---
@@ -674,8 +676,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
 
 ---
-## CVE-2024-39614 ()
-> 
+## CVE-2024-39614 (2024-07-10T05:15:00)
+> An issue was discovered in Django 5.0 before 5.0.7 and 4.2 before 4.2.14. get_supported_language_variant() was subject to a potential denial-of-service attack when used with very long strings containing specific characters.
 - [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
 
 ---
@@ -742,8 +744,9 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
 
 ---
-## CVE-2024-38473 ()
-> 
+## CVE-2024-38473 (2024-07-01T19:15:00)
+> Encoding problem in mod_proxy in Apache HTTP Server 2.4.59 and earlier allows request URLs with incorrect encoding to be sent to backend services, potentially bypassing authentication via crafted requests.
+Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 - [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38473">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38473">
 
 ---
@@ -833,8 +836,8 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
 
 ---
-## CVE-2024-37085 ()
-> 
+## CVE-2024-37085 (2024-06-25T15:15:00)
+> VMware ESXi contains an authentication bypass vulnerability. A malicious actor with sufficient Active Directory (AD) permissions can gain full access to an ESXi host that was previously  configured to use AD for user management https://blogs.vmware.com/vsphere/2012/09/joining-vsphere-hosts-to-active-directory.html  by re-creating the configured AD group ('ESXi Admins' by default) after it was deleted from AD.
 - [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
 
 ---
@@ -1644,7 +1647,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/git_rce">
 - [blackninja23/CVE-2024-32002](https://github.com/blackninja23/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/blackninja23/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/blackninja23/CVE-2024-32002">
 - [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
-- [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
+- [h3xm4n/CVE-2024-32002](https://github.com/h3xm4n/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/h3xm4n/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/h3xm4n/CVE-2024-32002">
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
@@ -2762,8 +2765,8 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
 ---
-## CVE-2024-27085 ()
-> 
+## CVE-2024-27085 (2024-03-15T20:15:00)
+> Discourse is an open source platform for community discussion. In affected versions users that are allowed to invite others can inject arbitrarily large data in parameters used in the invite route. The problem has been patched in the latest version of Discourse. Users are advised to upgrade. Users unable to upgrade should disable invites or restrict access to them using the `invite allowed groups` site setting. 
 - [mahmutaymahmutay/CVE-2024-27085](https://github.com/mahmutaymahmutay/CVE-2024-27085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-27085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-27085">
 
 ---
@@ -3144,8 +3147,12 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [brains93/CVE-2024-24567-PoC-Python](https://github.com/brains93/CVE-2024-24567-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24567-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24567-PoC-Python">
 
 ---
-## CVE-2024-24549 ()
-> 
+## CVE-2024-24549 (2024-03-13T16:15:00)
+> Denial of Service due to improper input validation vulnerability for HTTP/2 requests in Apache Tomcat. When processing an HTTP/2 request, if the request exceeded any of the configured limits for headers, the associated HTTP/2 stream was not reset until after all of the headers had been processed.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M16, from 10.1.0-M1 through 10.1.18, from 9.0.0-M1 through 9.0.85, from 8.5.0 through 8.5.98.
+
+Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.99 which fix the issue.
+
+
 - [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-24549">
 
 ---

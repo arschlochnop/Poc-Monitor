@@ -32,6 +32,11 @@
 - [codeb0ss/CVE-2024-7120-PoC](https://github.com/codeb0ss/CVE-2024-7120-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7120-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7120-PoC">
 
 ---
+## CVE-2024-6782 ()
+> 
+- [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
+
+---
 ## CVE-2024-6738 (2024-07-15T03:15:00)
 > The tumbnail API of Tronclass from WisdomGarden lacks proper access control, allowing unauthenticated remote attackers to obtain certain specific files by modifying the URL.
 - [XD3an/CVE-2024-6738](https://github.com/XD3an/CVE-2024-6738)	<img alt="forks" src="https://img.shields.io/github/forks/XD3an/CVE-2024-6738">	<img alt="stars" src="https://img.shields.io/github/stars/XD3an/CVE-2024-6738">
@@ -189,6 +194,11 @@
 ## CVE-2024-6366 (2024-07-29T06:15:00)
 > The User Profile Builder  WordPress plugin before 3.11.8 does not have proper authorisation, allowing unauthenticated users to upload media files via the async upload functionality of WP.
 - [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
+
+---
+## CVE-2024-6222 ()
+> 
+- [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-6222">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-6222">
 
 ---
 ## CVE-2024-6205 (2024-07-19T06:15:00)
@@ -812,6 +822,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
 
 ---
+## CVE-2024-38100 ()
+> 
+- [Florian-Hoth/CVE-2024-38100-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-38100-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-38100-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-38100-RCE-POC">
+
+---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
 > The Porto theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 7.1.0 via the 'porto_ajax_posts' function. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where php file type can be uploaded and included.
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
@@ -896,6 +911,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-37085 (2024-06-25T15:15:00)
 > VMware ESXi contains an authentication bypass vulnerability. A malicious actor with sufficient Active Directory (AD) permissions can gain full access to an ESXi host that was previously  configured to use AD for user management https://blogs.vmware.com/vsphere/2012/09/joining-vsphere-hosts-to-active-directory.html  by re-creating the configured AD group ('ESXi Admins' by default) after it was deleted from AD.
 - [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
+- [Florian-Hoth/CVE-2024-37085-RCE-POC](https://github.com/Florian-Hoth/CVE-2024-37085-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-37085-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-37085-RCE-POC">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)

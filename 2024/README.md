@@ -196,8 +196,12 @@
 - [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
 
 ---
-## CVE-2024-6222 ()
-> 
+## CVE-2024-6222 (2024-07-09T18:15:00)
+> In Docker Desktop before v4.29.0, an attacker who has gained access to the Docker Desktop VM through a container breakout can further escape to the host by passing extensions and dashboard related IPC messages.
+
+Docker Desktop  v4.29.0 https://docs.docker.com/desktop/release-notes/#4290  fixes the issue on MacOS, Linux and Windows with Hyper-V backend.
+
+As exploitation requires "Allow only extensions distributed through the Docker Marketplace" to be disabled, Docker Desktop  v4.31.0 https://docs.docker.com/desktop/release-notes/#4310  additionally changes the default configuration to enable this setting by default.
 - [Florian-Hoth/CVE-2024-6222](https://github.com/Florian-Hoth/CVE-2024-6222)	<img alt="forks" src="https://img.shields.io/github/forks/Florian-Hoth/CVE-2024-6222">	<img alt="stars" src="https://img.shields.io/github/stars/Florian-Hoth/CVE-2024-6222">
 
 ---
@@ -520,8 +524,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
-## CVE-2024-42461 ()
-> 
+## CVE-2024-42461 (2024-08-02T07:16:00)
+> In the Elliptic package 6.5.6 for Node.js, ECDSA signature malleability occurs because BER-encoded signatures are allowed.
 - [fevar54/CVE-2024-42461](https://github.com/fevar54/CVE-2024-42461)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-42461">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-42461">
 
 ---

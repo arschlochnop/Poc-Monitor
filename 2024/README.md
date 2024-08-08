@@ -516,6 +516,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-4320 (2024-06-06T19:16:00)
 > A remote code execution (RCE) vulnerability exists in the '/install_extension' endpoint of the parisneo/lollms-webui application, specifically within the `@router.post("/install_extension")` route handler. The vulnerability arises due to improper handling of the `name` parameter in the `ExtensionBuilder().build_extension()` method, which allows for local file inclusion (LFI) leading to arbitrary code execution. An attacker can exploit this vulnerability by crafting a malicious `name` parameter that causes the server to load and execute a `__init__.py` file from an arbitrary location, such as the upload directory for discussions. This vulnerability affects the latest version of parisneo/lollms-webui and can lead to remote code execution without requiring user interaction, especially when the application is exposed to an external endpoint or operated in headless mode.
 - [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
+- [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
 
 ---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
@@ -799,6 +800,8 @@ Users are recommended to upgrade to version 18.12.15, which fixes the issue.
 
 Unauthenticated endpoints could allow execution of screen rendering code of screens if some preconditions are met (such as when the screen definitions don't explicitly check user's permissions because they rely on the configuration of their endpoints).
 - [Disseminator/Poc_CVE-2024-38856](https://github.com/Disseminator/Poc_CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/Disseminator/Poc_CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/Disseminator/Poc_CVE-2024-38856">
+- [yosef0x01/CVE-2024-38856_Scanner](https://github.com/yosef0x01/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2024-38856_Scanner">
+- [securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/securelayer7/CVE-2024-38856_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/securelayer7/CVE-2024-38856_Scanner">
 
 ---
 ## CVE-2024-3867 (2024-04-16T10:15:00)

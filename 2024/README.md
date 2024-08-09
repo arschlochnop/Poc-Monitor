@@ -524,6 +524,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-43044 (2024-08-07T14:15:00)
 > Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
+- [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3430">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3430">
 
 ---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
@@ -987,6 +988,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-36991">
 - [sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/sardine-web/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/sardine-web/CVE-2024-36991">
 - [Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-36991">
+
+---
+## CVE-2024-36877 ()
+> 
+- [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)	<img alt="forks" src="https://img.shields.io/github/forks/jjensn/CVE-2024-36877">	<img alt="stars" src="https://img.shields.io/github/stars/jjensn/CVE-2024-36877">
 
 ---
 ## CVE-2024-36837 (2024-06-05T15:15:00)

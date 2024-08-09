@@ -860,6 +860,9 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > Windows Remote Desktop Licensing Service Remote Code Execution Vulnerability
 - [CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CloudCrowSec001/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CloudCrowSec001/CVE-2024-38077-POC">
 - [qi4L/CVE-2024-38077](https://github.com/qi4L/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/qi4L/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/qi4L/CVE-2024-38077">
+- [Lxiyang/CVE-2024-38077](https://github.com/Lxiyang/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Lxiyang/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Lxiyang/CVE-2024-38077">
+- [Sec-Link/CVE-2024-38077](https://github.com/Sec-Link/CVE-2024-38077)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Link/CVE-2024-38077">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Link/CVE-2024-38077">
+- [murphysecurity/RDL-detect](https://github.com/murphysecurity/RDL-detect)	<img alt="forks" src="https://img.shields.io/github/forks/murphysecurity/RDL-detect">	<img alt="stars" src="https://img.shields.io/github/stars/murphysecurity/RDL-detect">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -4662,6 +4665,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-0039 (2024-03-11T17:15:00)
 > In attp_build_value_cmd of att_protocol.cc, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [41yn14/CVE-2024-0039-Exploit](https://github.com/41yn14/CVE-2024-0039-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/41yn14/CVE-2024-0039-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/41yn14/CVE-2024-0039-Exploit">
+
+---
+## CVE-2024-0030 (2024-02-16T02:15:00)
+> In btif_to_bta_response of btif_gatt_util.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
+- [uthrasri/CVE-2024-0030](https://github.com/uthrasri/CVE-2024-0030)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-0030">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-0030">
 
 ---
 ## CVE-2024-0023 (2024-02-16T20:15:00)

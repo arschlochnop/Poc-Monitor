@@ -469,6 +469,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
 - [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
 - [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)	<img alt="forks" src="https://img.shields.io/github/forks/ManuelKy08/CVE-2024-4577---RR">	<img alt="stars" src="https://img.shields.io/github/stars/ManuelKy08/CVE-2024-4577---RR">
+- [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-4577">
 
 ---
 ## CVE-2024-4514 (2024-05-06T02:15:00)
@@ -921,6 +922,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/diegoalbuquerque/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/diegoalbuquerque/CVE-2024-38063">
 - [proxykingdev/CVE-2024-38063](https://github.com/proxykingdev/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/proxykingdev/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/proxykingdev/CVE-2024-38063">
 - [etherealchief/CVE-2024-38063-PoC](https://github.com/etherealchief/CVE-2024-38063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etherealchief/CVE-2024-38063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etherealchief/CVE-2024-38063-PoC">
+- [noradlb1/CVE-2024-38063-VB](https://github.com/noradlb1/CVE-2024-38063-VB)	<img alt="forks" src="https://img.shields.io/github/forks/noradlb1/CVE-2024-38063-VB">	<img alt="stars" src="https://img.shields.io/github/stars/noradlb1/CVE-2024-38063-VB">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)

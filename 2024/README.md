@@ -829,8 +829,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
 
 ---
-## CVE-2024-39306 ()
-> 
+## CVE-2024-39306 (2024-08-19T14:15:00)
+> Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2024-39304. Reason: This candidate is a duplicate of CVE-2024-39304. Notes: All CVE users should reference CVE-2024-39304 instead of this candidate. This CVE was issued to a vulnerability that is dependent on CVE-2024-39304. According to rule 4.2.15 of the CVE CNA rules, "CNAs MUST NOT assign a different CVE ID to a Vulnerability that is fully interdependent with another Vulnerability. The Vulnerabilities are effectively the same single Vulnerability and MUST use one CVE ID."
 - [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39306">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39306">
 
 ---

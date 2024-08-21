@@ -3085,6 +3085,11 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
 ---
+## CVE-2024-27088 (2024-02-26T17:15:00)
+> es5-ext contains ECMAScript 5 extensions. Passing functions with very long names or complex default argument names into `function#copy` or `function#toStringTokens` may cause the script to stall. The vulnerability is patched in v0.10.63.
+- [200101WhoAmI/CVE-2024-27088](https://github.com/200101WhoAmI/CVE-2024-27088)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-27088">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-27088">
+
+---
 ## CVE-2024-27085 (2024-03-15T20:15:00)
 > Discourse is an open source platform for community discussion. In affected versions users that are allowed to invite others can inject arbitrarily large data in parameters used in the invite route. The problem has been patched in the latest version of Discourse. Users are advised to upgrade. Users unable to upgrade should disable invites or restrict access to them using the `invite allowed groups` site setting. 
 - [mahmutaymahmutay/CVE-2024-27085](https://github.com/mahmutaymahmutay/CVE-2024-27085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-27085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-27085">
@@ -4452,6 +4457,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-20767">
 - [huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767)	<img alt="forks" src="https://img.shields.io/github/forks/huyqa/cve-2024-20767">	<img alt="stars" src="https://img.shields.io/github/stars/huyqa/cve-2024-20767">
 - [Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-20767-Adobe-ColdFusion">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-20767-Adobe-ColdFusion">
+
+---
+## CVE-2024-20746 (2024-03-18T15:15:00)
+> Premiere Pro versions 24.1, 23.6.2 and earlier are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [200101WhoAmI/CVE-2024-20746](https://github.com/200101WhoAmI/CVE-2024-20746)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-20746">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-20746">
 
 ---
 ## CVE-2024-20720 (2024-02-15T14:15:00)

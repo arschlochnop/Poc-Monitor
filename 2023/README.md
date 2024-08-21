@@ -4653,8 +4653,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [phucodeexp/CVE-2023-30033](https://github.com/phucodeexp/CVE-2023-30033)	<img alt="forks" src="https://img.shields.io/github/forks/phucodeexp/CVE-2023-30033">	<img alt="stars" src="https://img.shields.io/github/stars/phucodeexp/CVE-2023-30033">
 
 ---
-## CVE-2023-29929 ()
-> 
+## CVE-2023-29929 (2024-08-21T18:15:00)
+> Buffer Overflow vulnerability found in Kemptechnologies Loadmaster before v.7.2.60.0 allows a remote attacker to casue a denial of service via the libkemplink.so, isreverse library.
 - [YSaxon/CVE-2023-29929](https://github.com/YSaxon/CVE-2023-29929)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-29929">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-29929">
 
 ---

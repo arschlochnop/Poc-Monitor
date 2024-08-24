@@ -1028,6 +1028,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Skim1k/CVE-2024-38063](https://github.com/Skim1k/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Skim1k/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Skim1k/CVE-2024-38063">
 - [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research)	<img alt="forks" src="https://img.shields.io/github/forks/zaneoblaneo/cve_2024_38063_research">	<img alt="stars" src="https://img.shields.io/github/stars/zaneoblaneo/cve_2024_38063_research">
 - [Th3Tr1ckst3r/CVE-2024-38063](https://github.com/Th3Tr1ckst3r/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Tr1ckst3r/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Tr1ckst3r/CVE-2024-38063">
+- [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/haroonawanofficial/CVE-2024-38063-Research-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/haroonawanofficial/CVE-2024-38063-Research-Tool">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -2066,6 +2067,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31319 (2024-07-09T21:15:00)
 > In updateNotificationChannelFromPrivilegedListener of NotificationManagerService.java, there is a possible cross-user data leak due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039)	<img alt="forks" src="https://img.shields.io/github/forks/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">	<img alt="stars" src="https://img.shields.io/github/stars/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039">
+
+---
+## CVE-2024-31317 (2024-07-09T21:15:00)
+> In multiple functions of ZygoteProcess.java, there is a possible way to achieve code execution as any app via WRITE_SECURE_SETTINGS due to unsafe deserialization. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.
+- [jimmychanii/CVE-2024-31317](https://github.com/jimmychanii/CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/jimmychanii/CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/jimmychanii/CVE-2024-31317">
 
 ---
 ## CVE-2024-31286 ()

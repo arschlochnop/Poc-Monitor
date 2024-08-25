@@ -1981,6 +1981,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 - [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
 - [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
+- [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">
+- [sanan2004/CVE-2024-32002](https://github.com/sanan2004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -2857,6 +2859,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-2887 (2024-03-26T21:15:00)
 > Type Confusion in WebAssembly in Google Chrome prior to 123.0.6312.86 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
 - [PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc">
+- [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-2887">
 
 ---
 ## CVE-2024-2879 ()
@@ -4655,6 +4658,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 ## CVE-2024-2024 (2024-06-14T13:15:00)
 > The Folders Pro plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'handle_folders_file_upload' function in all versions up to, and including, 3.0.2. This makes it possible for authenticated attackers, with author access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.
 - [labc-dev/CVE-2024-2024](https://github.com/labc-dev/CVE-2024-2024)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-2024">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-2024">
+
+---
+## CVE-2024-1939 (2024-02-29T01:43:00)
+> Type Confusion in V8 in Google Chrome prior to 122.0.6261.94 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-1939">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-1939">
 
 ---
 ## CVE-2024-1931 (2024-03-07T10:15:00)

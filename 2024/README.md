@@ -300,6 +300,8 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 > The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.14.1 via deserialization of untrusted input from the 'give_title' parameter. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to execute code remotely, and to delete arbitrary files.
 - [0xb0mb3r/CVE-2024-5932-PoC](https://github.com/0xb0mb3r/CVE-2024-5932-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-5932-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-5932-PoC">
 - [EQSTSeminar/CVE-2024-5932](https://github.com/EQSTSeminar/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTSeminar/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTSeminar/CVE-2024-5932">
+- [sqlmap-projects/CVE-2024-5932](https://github.com/sqlmap-projects/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/sqlmap-projects/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/sqlmap-projects/CVE-2024-5932">
+- [niktoproject/CVE-2024-5932](https://github.com/niktoproject/CVE-2024-5932)	<img alt="forks" src="https://img.shields.io/github/forks/niktoproject/CVE-2024-5932">	<img alt="stars" src="https://img.shields.io/github/stars/niktoproject/CVE-2024-5932">
 
 ---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
@@ -1076,6 +1078,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/haroonawanofficial/CVE-2024-38063-Research-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/haroonawanofficial/CVE-2024-38063-Research-Tool">
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2024-38063">
 - [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
+- [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Windows-CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)

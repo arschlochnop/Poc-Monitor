@@ -5120,6 +5120,11 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [Zeyad-Azima/CVE-2023-26818](https://github.com/Zeyad-Azima/CVE-2023-26818)	<img alt="forks" src="https://img.shields.io/github/forks/Zeyad-Azima/CVE-2023-26818">	<img alt="stars" src="https://img.shields.io/github/stars/Zeyad-Azima/CVE-2023-26818">
 
 ---
+## CVE-2023-26785 ()
+> 
+- [Ant1sec-ops/CVE-2023-26785](https://github.com/Ant1sec-ops/CVE-2023-26785)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2023-26785">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2023-26785">
+
+---
 ## CVE-2023-26609 (2023-02-27T02:16:00)
 > ABUS TVIP 20000-21150 devices allows remote attackers to execute arbitrary code via shell metacharacters in the /cgi-bin/mft/wireless_mft ap field.
 - [d1gg0r/CVE-2023-26609](https://github.com/d1gg0r/CVE-2023-26609)	<img alt="forks" src="https://img.shields.io/github/forks/d1gg0r/CVE-2023-26609">	<img alt="stars" src="https://img.shields.io/github/stars/d1gg0r/CVE-2023-26609">

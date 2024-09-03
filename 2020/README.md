@@ -3486,6 +3486,14 @@
 - [Live-Hack-CVE/CVE-2020-17049](https://github.com/Live-Hack-CVE/CVE-2020-17049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17049">
 
 ---
+## CVE-2020-16898 (2020-10-16T23:15:00)
+> <p>A remote code execution vulnerability exists when the Windows TCP/IP stack improperly handles ICMPv6 Router Advertisement packets. An attacker who successfully exploited this vulnerability could gain the ability to execute code on the target server or client.</p>
+<p>To exploit this vulnerability, an attacker would have to send specially crafted ICMPv6 Router Advertisement packets to a remote Windows computer.</p>
+<p>The update addresses the vulnerability by correcting how the Windows TCP/IP stack handles ICMPv6 Router Advertisement packets.</p>
+
+- [corelight/CVE-2020-16898](https://github.com/corelight/CVE-2020-16898)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2020-16898">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2020-16898">
+
+---
 ## CVE-2020-16593 (2020-12-09T21:15:00)
 > A Null Pointer Dereference vulnerability exists in the Binary File Descriptor (BFD) library (aka libbfd), as distributed in GNU Binutils 2.35, in scan_unit_for_symbols, as demonstrated in addr2line, that can cause a denial of service via a crafted file.
 - [Live-Hack-CVE/CVE-2020-16593](https://github.com/Live-Hack-CVE/CVE-2020-16593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16593">

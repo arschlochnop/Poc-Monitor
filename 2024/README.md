@@ -4892,6 +4892,12 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
 
 ---
+## CVE-2024-20419 (2024-07-17T17:15:00)
+> A vulnerability in the authentication system of Cisco Smart Software Manager On-Prem (SSM On-Prem) could allow an unauthenticated, remote attacker to change the password of any user, including administrative users.
+ This vulnerability is due to improper implementation of the password-change process. An attacker could exploit this vulnerability by sending crafted HTTP requests to an affected device. A successful exploit could allow an attacker to access the web UI or API with the privileges of the compromised user.
+- [codeb0ss/CVE-2024-20419-PoC](https://github.com/codeb0ss/CVE-2024-20419-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-20419-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-20419-PoC">
+
+---
 ## CVE-2024-20405 (2024-06-05T17:15:00)
 > A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to conduct a stored XSS attack by exploiting an RFI vulnerability. 
  This vulnerability is due to insufficient validation of user-supplied input for specific HTTP requests that are sent to an affected device. An attacker could exploit this vulnerability by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive information on the affected device.

@@ -1160,6 +1160,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
 
 ---
+## CVE-2024-39205 ()
+> 
+- [Marven11/CVE-2024-39205-Pyload-Remote-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-Remote-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-Remote-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-Remote-RCE">
+
+---
 ## CVE-2024-39203 (2024-07-08T16:15:00)
 > A cross-site scripting (XSS) vulnerability in the Backend Theme Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">

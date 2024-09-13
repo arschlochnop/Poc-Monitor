@@ -5070,6 +5070,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
 - [Jhonsonwannaa/CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2023-27372">
 - [1amthebest1/CVE-2023-27372](https://github.com/1amthebest1/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/1amthebest1/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/1amthebest1/CVE-2023-27372">
+- [inviewp/CVE-2023-27372](https://github.com/inviewp/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/inviewp/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/inviewp/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
@@ -6497,6 +6498,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [W01fh4cker/CVE-2023-20198-RCE](https://github.com/W01fh4cker/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2023-20198-RCE">
 - [Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/CVE-2023-20198-RCE">
 - [sanan2004/CVE-2023-20198](https://github.com/sanan2004/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2023-20198">
+- [AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

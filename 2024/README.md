@@ -932,6 +932,7 @@ Allocated by task 6166:
 ## CVE-2024-43160 (2024-08-13T12:15:00)
 > Unrestricted Upload of File with Dangerous Type vulnerability in BerqWP allows Code Injection.This issue affects BerqWP: from n/a through 1.7.6.
 - [KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-43160">
+- [maybeheisenberg/PoC-for-CVE-2024-43160](https://github.com/maybeheisenberg/PoC-for-CVE-2024-43160)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-43160">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-43160">
 
 ---
 ## CVE-2024-43044 (2024-08-07T14:15:00)
@@ -3315,6 +3316,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [Stuub/CVE-2024-28995](https://github.com/Stuub/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-28995">
 - [gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-28995">
 - [muhammetali20/CVE-2024-28995](https://github.com/muhammetali20/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/muhammetali20/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/muhammetali20/CVE-2024-28995">
+
+---
+## CVE-2024-28991 (2024-09-12T14:16:00)
+> SolarWinds Access Rights Manager (ARM) was found to be susceptible to a remote code execution vulnerability. If exploited, this vulnerability would allow an authenticated user to abuse the service, resulting in remote code execution.
+- [maybeheisenberg/PoC-for-CVE-2024-28991](https://github.com/maybeheisenberg/PoC-for-CVE-2024-28991)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/PoC-for-CVE-2024-28991">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/PoC-for-CVE-2024-28991">
 
 ---
 ## CVE-2024-28987 (2024-08-21T22:15:00)

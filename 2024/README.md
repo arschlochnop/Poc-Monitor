@@ -1224,23 +1224,23 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [KyssK00L/CVE-2024-40617](https://github.com/KyssK00L/CVE-2024-40617)	<img alt="forks" src="https://img.shields.io/github/forks/KyssK00L/CVE-2024-40617">	<img alt="stars" src="https://img.shields.io/github/stars/KyssK00L/CVE-2024-40617">
 
 ---
-## CVE-2024-40512 ()
-> 
+## CVE-2024-40512 (2024-09-27T14:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMReporting.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40512](https://github.com/Jansen-C-Moreira/CVE-2024-40512)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40512">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40512">
 
 ---
-## CVE-2024-40511 ()
-> 
+## CVE-2024-40511 (2024-09-27T14:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMServerAdmin.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40511](https://github.com/Jansen-C-Moreira/CVE-2024-40511)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40511">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40511">
 
 ---
-## CVE-2024-40510 ()
-> 
+## CVE-2024-40510 (2024-09-27T15:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMCommon.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40510](https://github.com/Jansen-C-Moreira/CVE-2024-40510)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40510">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40510">
 
 ---
-## CVE-2024-40509 ()
-> 
+## CVE-2024-40509 (2024-09-27T15:15:00)
+> Cross Site Scripting vulnerability in openPetra v.2023.02 allows a remote attacker to obtain sensitive information via the serverMFinDev.asmx function.
 - [Jansen-C-Moreira/CVE-2024-40509](https://github.com/Jansen-C-Moreira/CVE-2024-40509)	<img alt="forks" src="https://img.shields.io/github/forks/Jansen-C-Moreira/CVE-2024-40509">	<img alt="stars" src="https://img.shields.io/github/stars/Jansen-C-Moreira/CVE-2024-40509">
 
 ---

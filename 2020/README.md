@@ -3288,6 +3288,7 @@
 - [woaiqiukui/CVE-2020-1938TomcatAjpScanner](https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner)	<img alt="forks" src="https://img.shields.io/github/forks/woaiqiukui/CVE-2020-1938TomcatAjpScanner">	<img alt="stars" src="https://img.shields.io/github/stars/woaiqiukui/CVE-2020-1938TomcatAjpScanner">
 - [tpt11fb/AttackTomcat](https://github.com/tpt11fb/AttackTomcat)	<img alt="forks" src="https://img.shields.io/github/forks/tpt11fb/AttackTomcat">	<img alt="stars" src="https://img.shields.io/github/stars/tpt11fb/AttackTomcat">
 - [Warelock/cve-2020-1938](https://github.com/Warelock/cve-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/Warelock/cve-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/Warelock/cve-2020-1938">
+- [technicalcorp2/CVE-2020-1938-Exploit](https://github.com/technicalcorp2/CVE-2020-1938-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/technicalcorp2/CVE-2020-1938-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/technicalcorp2/CVE-2020-1938-Exploit">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)

@@ -6756,6 +6756,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
 - [btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-0297">
+- [S4MY9/CVE-2023-0297](https://github.com/S4MY9/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/S4MY9/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/S4MY9/CVE-2023-0297">
 
 ---
 ## CVE-2023-0255 (2023-02-13T15:15:00)

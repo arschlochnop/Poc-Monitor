@@ -6578,6 +6578,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-20052">
 
 ---
+## CVE-2023-1874 (2023-04-12T14:15:00)
+> The WP Data Access plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 5.3.7. This is due to a lack of authorization checks on the multiple_roles_update function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wpda_role[]' parameter during a profile update. This requires the 'Enable role management' setting to be enabled for the site.
+- [thomas-osgood/cve-2023-1874](https://github.com/thomas-osgood/cve-2023-1874)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2023-1874">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2023-1874">
+
+---
 ## CVE-2023-1714 (2023-11-01T10:15:00)
 > Unsafe variable extraction in bitrix/modules/main/classes/general/user_options.php in Bitrix24 22.0.300 allows remote authenticated attackers to execute arbitrary code via (1) appending arbitrary content to existing PHP files or (2) PHAR deserialization.
 - [ForceFledgling/CVE-2023-1714](https://github.com/ForceFledgling/CVE-2023-1714)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-1714">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-1714">

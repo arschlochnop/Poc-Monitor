@@ -7006,6 +7006,18 @@
 - [Live-Hack-CVE/CVE-2021-25652](https://github.com/Live-Hack-CVE/CVE-2021-25652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25652">
 
 ---
+## CVE-2021-25646 (2021-01-29T20:15:00)
+> Apache Druid includes the ability to execute user-provided JavaScript code embedded in various types of requests. This functionality is intended for use in high-trust environments, and is disabled by default. However, in Druid 0.20.0 and earlier, it is possible for an authenticated user to send a specially-crafted request that forces Druid to run user-provided JavaScript code for that request, regardless of server configuration. This can be leveraged to execute code on the target machine with the privileges of the Druid server process.
+- [luobai8/CVE-2021-25646-exp](https://github.com/luobai8/CVE-2021-25646-exp)	<img alt="forks" src="https://img.shields.io/github/forks/luobai8/CVE-2021-25646-exp">	<img alt="stars" src="https://img.shields.io/github/stars/luobai8/CVE-2021-25646-exp">
+- [1n7erface/PocList](https://github.com/1n7erface/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/1n7erface/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/1n7erface/PocList">
+- [j2ekim/CVE-2021-25646](https://github.com/j2ekim/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/j2ekim/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/j2ekim/CVE-2021-25646">
+- [Vulnmachines/Apache-Druid-CVE-2021-25646](https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/Apache-Druid-CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/Apache-Druid-CVE-2021-25646">
+- [givemefivw/CVE-2021-25646](https://github.com/givemefivw/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/givemefivw/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/givemefivw/CVE-2021-25646">
+- [Ormicron/CVE-2021-25646-GUI](https://github.com/Ormicron/CVE-2021-25646-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/Ormicron/CVE-2021-25646-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/Ormicron/CVE-2021-25646-GUI">
+- [lp008/CVE-2021-25646](https://github.com/lp008/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2021-25646">
+- [yaunsky/cve-2021-25646](https://github.com/yaunsky/cve-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cve-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cve-2021-25646">
+
+---
 ## CVE-2021-25642 (2022-08-25T14:15:00)
 > ZKConfigurationStore which is optionally used by CapacityScheduler of Apache Hadoop YARN deserializes data obtained from ZooKeeper without validation. An attacker having access to ZooKeeper can run arbitrary commands as YARN user by exploiting this. Users should upgrade to Apache Hadoop 2.10.2, 3.2.4, 3.3.4 or later (containing YARN-11126) if ZKConfigurationStore is used.
 - [safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)	<img alt="forks" src="https://img.shields.io/github/forks/safe3s/CVE-2021-25642">	<img alt="stars" src="https://img.shields.io/github/stars/safe3s/CVE-2021-25642">

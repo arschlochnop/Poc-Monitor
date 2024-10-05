@@ -137,6 +137,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-7954">
 - [fa-rrel/CVE-2024-7954-RCE](https://github.com/fa-rrel/CVE-2024-7954-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-7954-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-7954-RCE">
 - [TheCyberguy-17/RCE_CVE-2024-7954](https://github.com/TheCyberguy-17/RCE_CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberguy-17/RCE_CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberguy-17/RCE_CVE-2024-7954">
+- [MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/RCE-CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/RCE-CVE-2024-7954">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
@@ -2490,7 +2491,7 @@ QuTScloud c5.1.5.2651 and later
 ## CVE-2024-32640 ()
 > 
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-32640-SQLI-MuraCMS">
-- [0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/0x3f3c/CVE-2024-32640-SQLI-MuraCMS">
+- [0xYumeko/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0xYumeko/CVE-2024-32640-SQLI-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/0xYumeko/CVE-2024-32640-SQLI-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/0xYumeko/CVE-2024-32640-SQLI-MuraCMS">
 - [nancyariah4/CVE-2024-32640-Admin-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-Admin-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-Admin-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-Admin-MuraCMS">
 - [nancyariah4/CVE-2024-32640-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-MuraCMS)	<img alt="forks" src="https://img.shields.io/github/forks/nancyariah4/CVE-2024-32640-MuraCMS">	<img alt="stars" src="https://img.shields.io/github/stars/nancyariah4/CVE-2024-32640-MuraCMS">
 - [sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640)	<img alt="forks" src="https://img.shields.io/github/forks/sammings/CVE-2024-32640">	<img alt="stars" src="https://img.shields.io/github/stars/sammings/CVE-2024-32640">

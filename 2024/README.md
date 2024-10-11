@@ -12,8 +12,8 @@
 - [labc-dev/CVE-2024-9999](https://github.com/labc-dev/CVE-2024-9999)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-9999">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-9999">
 
 ---
-## CVE-2024-9707 ()
-> 
+## CVE-2024-9707 (2024-10-11T13:15:00)
+> The Hunk Companion plugin for WordPress is vulnerable to unauthorized plugin installation/activation due to a missing capability check on the /wp-json/hc/v1/themehunk-import REST API endpoint in all versions up to, and including, 1.8.4. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins which can be leveraged to achieve remote code execution if another vulnerable plugin is installed and activated.
 - [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9707">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9707">
 
 ---
@@ -229,8 +229,9 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
 
 ---
-## CVE-2024-7514 ()
-> 
+## CVE-2024-7514 (2024-10-11T13:15:00)
+> The WordPress Comments Import & Export plugin for WordPress is vulnerable to to arbitrary file read due to insufficient file path validation during the comments import process, in versions up to, and including, 2.3.7. This makes it possible for authenticated attackers, with Author-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
+The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-7514">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-7514">
 
 ---
@@ -4975,6 +4976,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-23113">
 - [nothe1senberg/CVE-2024-23113](https://github.com/nothe1senberg/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-23113">
 - [OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/OxLmahdi/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/OxLmahdi/cve-2024-23113">
+- [CheckCve2/CVE-2024-23113](https://github.com/CheckCve2/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/CheckCve2/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/CheckCve2/CVE-2024-23113">
 
 ---
 ## CVE-2024-23108 (2024-02-05T14:15:00)

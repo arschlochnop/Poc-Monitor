@@ -1472,6 +1472,17 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40676 ()
 > 
 - [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/frameworks_base_accounts_CVE-2024-40676">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/frameworks_base_accounts_CVE-2024-40676">
+- [Aakashmom/accounts_CVE-2024-40676-](https://github.com/Aakashmom/accounts_CVE-2024-40676-)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/accounts_CVE-2024-40676-">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/accounts_CVE-2024-40676-">
+
+---
+## CVE-2024-40675 ()
+> 
+- [Aakashmom/intent_CVE-2024-40675](https://github.com/Aakashmom/intent_CVE-2024-40675)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/intent_CVE-2024-40675">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/intent_CVE-2024-40675">
+
+---
+## CVE-2024-40673 ()
+> 
+- [Aakashmom/G3_libcore_native_CVE-2024-40673](https://github.com/Aakashmom/G3_libcore_native_CVE-2024-40673)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/G3_libcore_native_CVE-2024-40673">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/G3_libcore_native_CVE-2024-40673">
 
 ---
 ## CVE-2024-40658 (2024-09-11T00:15:00)

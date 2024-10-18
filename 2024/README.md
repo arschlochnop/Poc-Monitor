@@ -17,6 +17,11 @@
 - [RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9821">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9821">
 
 ---
+## CVE-2024-9796 (2024-10-10T08:15:00)
+> The WP-Advanced-Search WordPress plugin before 3.3.9.2 does not sanitize and escape the t parameter before using it in a SQL statement, allowing unauthenticated users to perform SQL injection attacks
+- [RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9796">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9796">
+
+---
 ## CVE-2024-9707 (2024-10-11T13:15:00)
 > The Hunk Companion plugin for WordPress is vulnerable to unauthorized plugin installation/activation due to a missing capability check on the /wp-json/hc/v1/themehunk-import REST API endpoint in all versions up to, and including, 1.8.4. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins which can be leveraged to achieve remote code execution if another vulnerable plugin is installed and activated.
 - [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9707">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9707">

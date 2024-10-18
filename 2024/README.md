@@ -2654,6 +2654,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-3333">
 
 ---
+## CVE-2024-33231 ()
+> 
+- [fdzdev/CVE-2024-33231](https://github.com/fdzdev/CVE-2024-33231)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-33231">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-33231">
+
+---
 ## CVE-2024-33210 (2024-10-02T16:15:00)
 > A cross-site scripting (XSS) vulnerability has been identified in Flatpress 1.3. This vulnerability allows an attacker to inject malicious scripts into web pages viewed by other users.
 - [paragbagul111/CVE-2024-33210](https://github.com/paragbagul111/CVE-2024-33210)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-33210">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-33210">

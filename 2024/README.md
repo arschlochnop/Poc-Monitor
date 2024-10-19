@@ -3564,6 +3564,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2024-30088-Windows-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2024-30088-Windows-poc">
 - [Admin9961/CVE-2024-30088](https://github.com/Admin9961/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/Admin9961/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/Admin9961/CVE-2024-30088">
 - [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/collateral-damage">
+- [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
+- [Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage)	<img alt="forks" src="https://img.shields.io/github/forks/Justintroup85/exploits-forsale-collateral-damage">	<img alt="stars" src="https://img.shields.io/github/stars/Justintroup85/exploits-forsale-collateral-damage">
 
 ---
 ## CVE-2024-30078 (2024-06-11T17:15:00)

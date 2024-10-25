@@ -1371,6 +1371,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4358">
 
 ---
+## CVE-2024-43532 (2024-10-08T18:15:00)
+> Remote Registry Service Elevation of Privilege Vulnerability
+- [HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532)	<img alt="forks" src="https://img.shields.io/github/forks/HazeLook/CVE-2024-43532">	<img alt="stars" src="https://img.shields.io/github/stars/HazeLook/CVE-2024-43532">
+
+---
 ## CVE-2024-4352 (2024-05-16T10:15:00)
 > The Tutor LMS Pro plugin for WordPress is vulnerable to unauthorized access of data, modification of data, loss of data due to a missing capability check on the 'get_calendar_materials' function. The plugin is also vulnerable to SQL Injection via the ‘year’ parameter of that function due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with subscriber-level permissions and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4352-Poc](https://github.com/truonghuuphuc/CVE-2024-4352-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4352-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4352-Poc">

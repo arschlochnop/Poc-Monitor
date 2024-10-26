@@ -1425,6 +1425,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
 
 ---
+## CVE-2024-42930 ()
+> 
+- [cyb3res3c/CVE-2024-42930](https://github.com/cyb3res3c/CVE-2024-42930)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-42930">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-42930">
+
+---
 ## CVE-2024-42919 (2024-08-20T17:15:00)
 > eScan Management Console 14.0.1400.2281 is vulnerable to Incorrect Access Control via acteScanAVReport.
 - [jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2024-42919">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2024-42919">

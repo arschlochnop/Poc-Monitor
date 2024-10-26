@@ -1799,6 +1799,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39205 ()
 > 
 - [Marven11/CVE-2024-39205-Pyload-Remote-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-Remote-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-Remote-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-Remote-RCE">
+- [Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-39205-Pyload-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-39205-Pyload-RCE">
 
 ---
 ## CVE-2024-39203 (2024-07-08T16:15:00)

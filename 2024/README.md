@@ -810,6 +810,16 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
 
 ---
+## CVE-2024-48735 ()
+> 
+- [HubCVEs/CVE-2024-48735](https://github.com/HubCVEs/CVE-2024-48735)	<img alt="forks" src="https://img.shields.io/github/forks/HubCVEs/CVE-2024-48735">	<img alt="stars" src="https://img.shields.io/github/stars/HubCVEs/CVE-2024-48735">
+
+---
+## CVE-2024-48734 ()
+> 
+- [HubCVEs/CVE-2024-48734](https://github.com/HubCVEs/CVE-2024-48734)	<img alt="forks" src="https://img.shields.io/github/forks/HubCVEs/CVE-2024-48734">	<img alt="stars" src="https://img.shields.io/github/stars/HubCVEs/CVE-2024-48734">
+
+---
 ## CVE-2024-48733 ()
 > 
 - [HubCVEs/CVE-2024-48733](https://github.com/HubCVEs/CVE-2024-48733)	<img alt="forks" src="https://img.shields.io/github/forks/HubCVEs/CVE-2024-48733">	<img alt="stars" src="https://img.shields.io/github/stars/HubCVEs/CVE-2024-48733">

@@ -868,8 +868,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
-## CVE-2024-48569 ()
-> 
+## CVE-2024-48569 (2024-10-30T18:15:00)
+> Proactive Risk Manager version 9.1.1.0 is affected by multiple Cross-Site Scripting (XSS) vulnerabilities in the add/edit form fields, at the urls starting with the subpaths: /ar/config/configuation/ and /ar/config/risk-strategy-control/
 - [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
 
 ---

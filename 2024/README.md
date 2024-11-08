@@ -805,6 +805,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-51179 ()
 > 
 - [Lakshmirnr/CVE-2024-51179-](https://github.com/Lakshmirnr/CVE-2024-51179-)	<img alt="forks" src="https://img.shields.io/github/forks/Lakshmirnr/CVE-2024-51179-">	<img alt="stars" src="https://img.shields.io/github/stars/Lakshmirnr/CVE-2024-51179-">
+- [Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179)	<img alt="forks" src="https://img.shields.io/github/forks/Lakshmirnr/CVE-2024-51179">	<img alt="stars" src="https://img.shields.io/github/stars/Lakshmirnr/CVE-2024-51179">
 
 ---
 ## CVE-2024-51136 ()
@@ -899,6 +900,11 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-50450 (2024-10-28T12:15:00)
 > Improper Control of Generation of Code ('Code Injection') vulnerability in realmag777 WordPress Meta Data and Taxonomies Filter (MDTF) allows Code Injection.This issue affects WordPress Meta Data and Taxonomies Filter (MDTF): from n/a through 1.3.3.4.
 - [RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50450">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50450">
+
+---
+## CVE-2024-50427 (2024-10-29T09:15:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in Devsoft Baltic OÜ SurveyJS: Drag & Drop WordPress Form Builder.This issue affects SurveyJS: Drag & Drop WordPress Form Builder: from n/a through 1.9.136.
+- [RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50427">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50427">
 
 ---
 ## CVE-2024-50340 ()

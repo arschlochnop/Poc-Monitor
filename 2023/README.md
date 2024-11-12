@@ -6691,6 +6691,12 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [nokn0wthing/CVE-2023-20052](https://github.com/nokn0wthing/CVE-2023-20052)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-20052">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-20052">
 
 ---
+## CVE-2023-1999 (2023-06-20T12:15:00)
+> There exists a use after free/double free in libwebp. An attacker can use the ApplyFiltersAndEncode() function and loop through to free best.bw and assign best = trial pointer. The second loop will then return 0 because of an Out of memory error in VP8 encoder, the pointer is still assigned to trial and the AddressSanitizer will attempt a double free. 
+
+- [Pazhanivelmani/webp_Android10_r33_CVE-2023-1999](https://github.com/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">
+
+---
 ## CVE-2023-1874 (2023-04-12T14:15:00)
 > The WP Data Access plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 5.3.7. This is due to a lack of authorization checks on the multiple_roles_update function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to modify their user role by supplying the 'wpda_role[]' parameter during a profile update. This requires the 'Enable role management' setting to be enabled for the site.
 - [thomas-osgood/cve-2023-1874](https://github.com/thomas-osgood/cve-2023-1874)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/cve-2023-1874">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/cve-2023-1874">

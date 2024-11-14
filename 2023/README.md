@@ -5221,7 +5221,7 @@ The specific flaw exists within the exportXFAData method. The application expose
 - [imancybersecurity/CVE-2023-27350-POC](https://github.com/imancybersecurity/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imancybersecurity/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imancybersecurity/CVE-2023-27350-POC">
 - [ASG-CASTLE/CVE-2023-27350](https://github.com/ASG-CASTLE/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/ASG-CASTLE/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/ASG-CASTLE/CVE-2023-27350">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
-- [rasan2001/CVE-2023-27350](https://github.com/rasan2001/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/rasan2001/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/rasan2001/CVE-2023-27350">
+- [rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability](https://github.com/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/rasan2001/CVE-2023-27350-Ongoing-Exploitation-of-PaperCut-Remote-Code-Execution-Vulnerability">
 
 ---
 ## CVE-2023-2732 (2023-05-25T03:15:00)

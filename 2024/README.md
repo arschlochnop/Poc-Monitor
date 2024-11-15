@@ -950,6 +950,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-50657 ()
 > 
 - [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-50657">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-50657">
+- [SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)	<img alt="forks" src="https://img.shields.io/github/forks/SAHALLL/CVE-2024-50657">	<img alt="stars" src="https://img.shields.io/github/stars/SAHALLL/CVE-2024-50657">
 
 ---
 ## CVE-2024-5057 (2024-08-29T14:15:00)

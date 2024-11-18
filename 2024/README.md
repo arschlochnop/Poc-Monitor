@@ -2589,6 +2589,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [VuongHuuAn/CVE-2024-38063](https://github.com/VuongHuuAn/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/VuongHuuAn/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/VuongHuuAn/CVE-2024-38063">
 - [AliHj98/cve-2024-38063-Anonyvader](https://github.com/AliHj98/cve-2024-38063-Anonyvader)	<img alt="forks" src="https://img.shields.io/github/forks/AliHj98/cve-2024-38063-Anonyvader">	<img alt="stars" src="https://img.shields.io/github/stars/AliHj98/cve-2024-38063-Anonyvader">
 - [Dragkob/CVE-2024-38063](https://github.com/Dragkob/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Dragkob/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Dragkob/CVE-2024-38063">
+- [selenagomez25/CVE-2024-38063](https://github.com/selenagomez25/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/selenagomez25/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/selenagomez25/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -6949,6 +6950,18 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10410 (2024-10-27T04:15:00)
 > A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
+
+---
+## CVE-2024-10386 (2024-10-25T17:15:00)
+> CVE-2024-10386 IMPACT
+
+
+
+An authentication
+vulnerability exists in the affected product. The vulnerability could allow a
+threat actor with network access to send crafted messages to the device, potentially
+resulting in database manipulation.
+- [zetraxz/CVE-2024-10386](https://github.com/zetraxz/CVE-2024-10386)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-10386">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-10386">
 
 ---
 ## CVE-2024-10245 ()

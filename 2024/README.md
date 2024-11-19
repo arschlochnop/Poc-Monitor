@@ -824,6 +824,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [famixcm/CVE-2024-52316](https://github.com/famixcm/CVE-2024-52316)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-52316">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-52316">
 
 ---
+## CVE-2024-52303 ()
+> 
+- [ozempiic/CVE-2024-52303](https://github.com/ozempiic/CVE-2024-52303)	<img alt="forks" src="https://img.shields.io/github/forks/ozempiic/CVE-2024-52303">	<img alt="stars" src="https://img.shields.io/github/stars/ozempiic/CVE-2024-52303">
+
+---
 ## CVE-2024-52302 ()
 > 
 - [d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)	<img alt="forks" src="https://img.shields.io/github/forks/d3sca/CVE-2024-52302">	<img alt="stars" src="https://img.shields.io/github/stars/d3sca/CVE-2024-52302">
@@ -6894,6 +6899,7 @@ authentication.   
 > 
 - [RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10924">
 - [FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/FoKiiin/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/FoKiiin/CVE-2024-10924">
+- [m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application](https://github.com/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application">
 
 ---
 ## CVE-2024-10914 ()

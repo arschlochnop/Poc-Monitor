@@ -1150,6 +1150,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
 
 ---
+## CVE-2024-49039 ()
+> 
+- [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/je5442804/WPTaskScheduler_CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/je5442804/WPTaskScheduler_CVE-2024-49039">
+
+---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
@@ -6731,6 +6736,11 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/passer12/CVE-2024-1931-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/passer12/CVE-2024-1931-reproduction">
 
 ---
+## CVE-2024-19002 ()
+> 
+- [adminlove520/cve-2024-19002](https://github.com/adminlove520/cve-2024-19002)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/cve-2024-19002">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/cve-2024-19002">
+
+---
 ## CVE-2024-1874 (2024-04-29T04:15:00)
 > In PHP versions 8.1.* before 8.1.28, 8.2.* before 8.2.18, 8.3.* before 8.3.5, when using proc_open() command with array syntax, due to insufficient escaping, if the arguments of the executed command are controlled by a malicious user, the user can supply arguments that would execute arbitrary commands in Windows shell. 
 
@@ -6873,6 +6883,11 @@ authentication.   
 ## CVE-2024-11451 ()
 > 
 - [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
+
+---
+## CVE-2024-11319 ()
+> 
+- [famixcm/CVE-2024-11319](https://github.com/famixcm/CVE-2024-11319)	<img alt="forks" src="https://img.shields.io/github/forks/famixcm/CVE-2024-11319">	<img alt="stars" src="https://img.shields.io/github/stars/famixcm/CVE-2024-11319">
 
 ---
 ## CVE-2024-11120 ()

@@ -1232,6 +1232,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [ns989/CVE-2024-48990](https://github.com/ns989/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/ns989/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/ns989/CVE-2024-48990">
 - [felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/felmoltor/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/felmoltor/CVE-2024-48990">
 - [Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rFr0g/CVE-2024-48990-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rFr0g/CVE-2024-48990-PoC">
+- [pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing)	<img alt="forks" src="https://img.shields.io/github/forks/pentestfunctions/CVE-2024-48990-PoC-Testing">	<img alt="stars" src="https://img.shields.io/github/stars/pentestfunctions/CVE-2024-48990-PoC-Testing">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
@@ -6445,6 +6446,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 - [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/Cve-2024-21762-">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/Cve-2024-21762-">
 - [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
+- [XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21762-poc">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)

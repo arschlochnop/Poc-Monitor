@@ -2041,7 +2041,8 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Harydhk7/CVE-2024-4358](https://github.com/Harydhk7/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/Harydhk7/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/Harydhk7/CVE-2024-4358">
 - [Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sk1dr0wz/CVE-2024-4358_Mass_Exploit">
 - [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4358">
-- [fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-4358">
+- [gh-ost00/CVE-2024-4358](https://github.com/gh-ost00/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-4358">
+- [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
 
 ---
 ## CVE-2024-43532 (2024-10-08T18:15:00)
@@ -7041,6 +7042,11 @@ authentication.   
 ## CVE-2024-1207 (2024-02-08T09:15:00)
 > The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
+
+---
+## CVE-2024-11477 ()
+> 
+- [maybelookis/CVE-2024-11477](https://github.com/maybelookis/CVE-2024-11477)	<img alt="forks" src="https://img.shields.io/github/forks/maybelookis/CVE-2024-11477">	<img alt="stars" src="https://img.shields.io/github/stars/maybelookis/CVE-2024-11477">
 
 ---
 ## CVE-2024-11451 ()

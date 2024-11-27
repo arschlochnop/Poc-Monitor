@@ -7176,6 +7176,7 @@ authentication.   
 - [Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-)	<img alt="forks" src="https://img.shields.io/github/forks/Bu0uCat/D-Link-NAS-CVE-2024-10914-">	<img alt="stars" src="https://img.shields.io/github/stars/Bu0uCat/D-Link-NAS-CVE-2024-10914-">
 - [Egi08/CVE-2024-10914](https://github.com/Egi08/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/Egi08/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/Egi08/CVE-2024-10914">
 - [ThemeHackers/CVE-2024-10914](https://github.com/ThemeHackers/CVE-2024-10914)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-10914">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-10914">
+- [retuci0/cve-2024-10914-port](https://github.com/retuci0/cve-2024-10914-port)	<img alt="forks" src="https://img.shields.io/github/forks/retuci0/cve-2024-10914-port">	<img alt="stars" src="https://img.shields.io/github/stars/retuci0/cve-2024-10914-port">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)

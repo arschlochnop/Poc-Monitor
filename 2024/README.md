@@ -7395,6 +7395,7 @@ resulting in database manipulation.
 - [phoenixmerk/CVE-2024-10220](https://github.com/phoenixmerk/CVE-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/phoenixmerk/CVE-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/phoenixmerk/CVE-2024-10220">
 - [phoenixmerk/CVE-2024-10220-test-case](https://github.com/phoenixmerk/CVE-2024-10220-test-case)	<img alt="forks" src="https://img.shields.io/github/forks/phoenixmerk/CVE-2024-10220-test-case">	<img alt="stars" src="https://img.shields.io/github/stars/phoenixmerk/CVE-2024-10220-test-case">
 - [any2sec/cve-2024-10220](https://github.com/any2sec/cve-2024-10220)	<img alt="forks" src="https://img.shields.io/github/forks/any2sec/cve-2024-10220">	<img alt="stars" src="https://img.shields.io/github/stars/any2sec/cve-2024-10220">
+- [XiaomingX/cve-2024-10220-githooks](https://github.com/XiaomingX/cve-2024-10220-githooks)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-10220-githooks">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-10220-githooks">
 
 ---
 ## CVE-2024-10140 (2024-10-19T15:15:00)

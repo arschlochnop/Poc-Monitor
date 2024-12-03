@@ -4754,8 +4754,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439">
 
 ---
-## CVE-2024-29404 ()
-> 
+## CVE-2024-29404 (2024-12-03T17:15:00)
+> An issue in Razer Synapse 3 v.3.9.131.20813 and Synapse 3 App v.20240213 allows a local attacker to execute arbitrary code via the export parameter of the Chroma Effects function in the Profiles component.
 - [mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-29404_Razer">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-29404_Razer">
 
 ---
@@ -7724,7 +7724,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 
 
 - [Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Re13orn/CVE-2024-0044-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Re13orn/CVE-2024-0044-EXP">
-- [pl4int3xt/cve_2024_0044](https://github.com/pl4int3xt/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/pl4int3xt/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/pl4int3xt/cve_2024_0044">
+- [0xbinder/CVE-2024-0044](https://github.com/0xbinder/CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE-2024-0044">
 - [scs-labrat/android_autorooter](https://github.com/scs-labrat/android_autorooter)	<img alt="forks" src="https://img.shields.io/github/forks/scs-labrat/android_autorooter">	<img alt="stars" src="https://img.shields.io/github/stars/scs-labrat/android_autorooter">
 - [007CRIPTOGRAFIA/C-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/C-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/C-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/C-CVE-2024-0044">
 - [007CRIPTOGRAFIA/c-CVE-2024-0044](https://github.com/007CRIPTOGRAFIA/c-CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/007CRIPTOGRAFIA/c-CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/007CRIPTOGRAFIA/c-CVE-2024-0044">
@@ -7733,6 +7733,8 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [nexussecelite/EvilDroid](https://github.com/nexussecelite/EvilDroid)	<img alt="forks" src="https://img.shields.io/github/forks/nexussecelite/EvilDroid">	<img alt="stars" src="https://img.shields.io/github/stars/nexussecelite/EvilDroid">
 - [hunter24x24/cve_2024_0044](https://github.com/hunter24x24/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/cve_2024_0044">
 - [MrW0l05zyn/cve-2024-0044](https://github.com/MrW0l05zyn/cve-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/MrW0l05zyn/cve-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/MrW0l05zyn/cve-2024-0044">
+- [a-roshbaik/cve_2024_0044](https://github.com/a-roshbaik/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/cve_2024_0044">
+- [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/canyie/CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/canyie/CVE-2024-0044">
 
 ---
 ## CVE-2024-0040 (2024-02-16T02:15:00)

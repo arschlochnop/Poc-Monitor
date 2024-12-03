@@ -6433,12 +6433,13 @@
 - [thomas-osgood/CVE-2021-29447](https://github.com/thomas-osgood/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2021-29447">
 - [Abdulazizalsewedy/CVE-2021-29447](https://github.com/Abdulazizalsewedy/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Abdulazizalsewedy/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Abdulazizalsewedy/CVE-2021-29447">
 - [Live-Hack-CVE/CVE-2021-29447](https://github.com/Live-Hack-CVE/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29447">
-- [Ki11i0n4ir3/CVE-2021-29447](https://github.com/Ki11i0n4ir3/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2021-29447">
+- [G01d3nW01f/CVE-2021-29447](https://github.com/G01d3nW01f/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2021-29447">
 - [viardant/CVE-2021-29447](https://github.com/viardant/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/viardant/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/viardant/CVE-2021-29447">
 - [Live-Hack-CVE/CVE-2021-29447](https://github.com/Live-Hack-CVE/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29447">
 - [0xRar/CVE-2021-29447-PoC](https://github.com/0xRar/CVE-2021-29447-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xRar/CVE-2021-29447-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xRar/CVE-2021-29447-PoC">
 - [zeroch1ll/cve-2021-29447](https://github.com/zeroch1ll/cve-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/zeroch1ll/cve-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/zeroch1ll/cve-2021-29447">
 - [andyhsu024/CVE-2021-29447](https://github.com/andyhsu024/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/andyhsu024/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/andyhsu024/CVE-2021-29447">
+- [specializzazione-cyber-security/demo-CVE-2021-29447-lezione](https://github.com/specializzazione-cyber-security/demo-CVE-2021-29447-lezione)	<img alt="forks" src="https://img.shields.io/github/forks/specializzazione-cyber-security/demo-CVE-2021-29447-lezione">	<img alt="stars" src="https://img.shields.io/github/stars/specializzazione-cyber-security/demo-CVE-2021-29447-lezione">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)

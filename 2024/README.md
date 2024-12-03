@@ -2282,6 +2282,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
 - [aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/aramosf/cve-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/aramosf/cve-2024-42327">
 - [zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42327">
+- [compr00t/CVE-2024-42327](https://github.com/compr00t/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/compr00t/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/compr00t/CVE-2024-42327">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
@@ -7307,6 +7308,8 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [dua1337/Exploit-for-CVE-2024-10924](https://github.com/dua1337/Exploit-for-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/dua1337/Exploit-for-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/dua1337/Exploit-for-CVE-2024-10924">
 - [Maalfer/CVE-2024-10924-PoC](https://github.com/Maalfer/CVE-2024-10924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2024-10924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2024-10924-PoC">
 - [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">
+- [Hunt3r850/CVE-2024-10924-Wordpress-Docker](https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r850/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r850/CVE-2024-10924-Wordpress-Docker">
+- [Hunt3r850/CVE-2024-10924-PoC](https://github.com/Hunt3r850/CVE-2024-10924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r850/CVE-2024-10924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r850/CVE-2024-10924-PoC">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)

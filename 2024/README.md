@@ -1614,6 +1614,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46538 (2024-10-22T17:15:00)
 > A cross-site scripting (XSS) vulnerability in pfsense v2.5.2 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the $pconfig variable at interfaces_groups_edit.php.
 - [EQSTLab/CVE-2024-46538](https://github.com/EQSTLab/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-46538">
+- [LauLeysen/CVE-2024-46538](https://github.com/LauLeysen/CVE-2024-46538)	<img alt="forks" src="https://img.shields.io/github/forks/LauLeysen/CVE-2024-46538">	<img alt="stars" src="https://img.shields.io/github/stars/LauLeysen/CVE-2024-46538">
 
 ---
 ## CVE-2024-46532 (2024-10-11T18:15:00)
@@ -3919,7 +3920,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [h3xm4n/CVE-2024-32002](https://github.com/h3xm4n/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/h3xm4n/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/h3xm4n/CVE-2024-32002">
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
-- [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
+- [SpycioKon/CVE-2024-32002](https://github.com/SpycioKon/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/SpycioKon/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/SpycioKon/CVE-2024-32002">
 - [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
 - [chrisWalker11/running-CVE-2024-32002-locally-for-tesing](https://github.com/chrisWalker11/running-CVE-2024-32002-locally-for-tesing)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/running-CVE-2024-32002-locally-for-tesing">
 - [FlojBoj/CVE-2024-32002](https://github.com/FlojBoj/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/FlojBoj/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/FlojBoj/CVE-2024-32002">

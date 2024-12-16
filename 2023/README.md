@@ -6345,6 +6345,7 @@ kernel memory, lateral privilege escalation, and container escape.
 > Microsoft Message Queuing Remote Code Execution Vulnerability
 - [3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2023-21554">
 - [zoemurmure/CVE-2023-21554-PoC](https://github.com/zoemurmure/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zoemurmure/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zoemurmure/CVE-2023-21554-PoC">
+- [Rahul-Thakur7/CVE-2023-21554](https://github.com/Rahul-Thakur7/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/Rahul-Thakur7/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/Rahul-Thakur7/CVE-2023-21554">
 
 ---
 ## CVE-2023-21529 (2023-02-14T20:15:00)

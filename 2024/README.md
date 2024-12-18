@@ -1403,6 +1403,12 @@ length to be included in the checksum calculation is fully consumed.
 - [cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3res3c/CVE-2024-49186">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3res3c/CVE-2024-49186">
 
 ---
+## CVE-2024-49112 ()
+> 
+- [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
+- [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
+
+---
 ## CVE-2024-49039 ()
 > 
 - [je5442804/WPTaskScheduler_CVE-2024-49039](https://github.com/je5442804/WPTaskScheduler_CVE-2024-49039)	<img alt="forks" src="https://img.shields.io/github/forks/je5442804/WPTaskScheduler_CVE-2024-49039">	<img alt="stars" src="https://img.shields.io/github/stars/je5442804/WPTaskScheduler_CVE-2024-49039">

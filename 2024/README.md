@@ -32,6 +32,7 @@
 ## CVE-2024-9935 ()
 > 
 - [RandomRobbieBF/CVE-2024-9935](https://github.com/RandomRobbieBF/CVE-2024-9935)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9935">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9935">
+- [verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-9935">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-9935">
 
 ---
 ## CVE-2024-9933 (2024-10-26T03:15:00)
@@ -684,6 +685,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/YassDEV221608/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/YassDEV221608/CVE-2024-6387">
 - [oxapavan/CVE-2024-6387](https://github.com/oxapavan/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/oxapavan/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/oxapavan/CVE-2024-6387">
 - [zql-gif/CVE-2024-6387](https://github.com/zql-gif/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/zql-gif/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/zql-gif/CVE-2024-6387">
+- [awusan125/test_for6387](https://github.com/awusan125/test_for6387)	<img alt="forks" src="https://img.shields.io/github/forks/awusan125/test_for6387">	<img alt="stars" src="https://img.shields.io/github/stars/awusan125/test_for6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)

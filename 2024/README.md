@@ -948,6 +948,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375)	<img alt="forks" src="https://img.shields.io/github/forks/ThottySploity/CVE-2024-53375">	<img alt="stars" src="https://img.shields.io/github/stars/ThottySploity/CVE-2024-53375">
 
 ---
+## CVE-2024-53345 ()
+> 
+- [ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-53345">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-53345">
+
+---
 ## CVE-2024-5326 (2024-05-30T11:15:00)
 > The Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'postx_presets_callback' function in all versions up to, and including, 4.1.2. This makes it possible for authenticated attackers, with Contributor-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.
 - [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5326-Poc">
@@ -1633,6 +1638,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48307 (2024-10-31T01:15:00)
 > JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.
 - [iSee857/CVE-2024-48307-poc](https://github.com/iSee857/CVE-2024-48307-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-48307-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-48307-poc">
+
+---
+## CVE-2024-48245 ()
+> 
+- [ShadowByte1/CVE-2024-48245](https://github.com/ShadowByte1/CVE-2024-48245)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-48245">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-48245">
 
 ---
 ## CVE-2024-48217 (2024-11-01T17:15:00)

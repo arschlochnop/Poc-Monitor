@@ -2418,6 +2418,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [zalomkiller/poc_CVE-2024-4367](https://github.com/zalomkiller/poc_CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/zalomkiller/poc_CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/zalomkiller/poc_CVE-2024-4367">
 - [Masamuneee/CVE-2024-4367-Analysis](https://github.com/Masamuneee/CVE-2024-4367-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/CVE-2024-4367-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/CVE-2024-4367-Analysis">
 - [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
+- [exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/WEAPONIZING-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/WEAPONIZING-CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
@@ -5647,6 +5648,7 @@ overflow.
 ## CVE-2024-2667 (2024-05-02T17:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary file uploads due to  insufficient file validation in the /wp-json/instawp-connect/v1/config REST API endpoint in all versions up to, and including, 0.1.0.22. This makes it possible for unauthenticated attackers to upload arbitrary files.
 - [Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)	<img alt="forks" src="https://img.shields.io/github/forks/Puvipavan/CVE-2024-2667">	<img alt="stars" src="https://img.shields.io/github/stars/Puvipavan/CVE-2024-2667">
+- [Nxploited/CVE-2024-2667-Poc](https://github.com/Nxploited/CVE-2024-2667-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-2667-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-2667-Poc">
 
 ---
 ## CVE-2024-266666 ()

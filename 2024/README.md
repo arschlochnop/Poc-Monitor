@@ -2443,6 +2443,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
 
 ---
+## CVE-2024-436 ()
+> 
+- [Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/CVE-2024-436_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/CVE-2024-436_Exploit">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -3712,7 +3717,7 @@ PANIC from 6.8.0-rc1:
 > PrestaShop is an open source e-commerce web application. A cross-site scripting (XSS) vulnerability that only affects PrestaShops with customer-thread feature flag enabled is present starting from PrestaShop 8.1.0 and prior to PrestaShop 8.1.6. When the customer thread feature flag is enabled through the front-office contact form, a hacker can upload a malicious file containing an XSS that will be executed when an admin opens the attached file in back office. The script injected can access the session and the security token, which allows it to perform any authenticated action in the scope of the administrator's right. This vulnerability is patched in 8.1.6. A workaround is to disable the customer-thread feature-flag.
 - [aelmokhtar/CVE-2024-34716](https://github.com/aelmokhtar/CVE-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716">
 - [botnetbuddies/prestashop-cve-2024-34716](https://github.com/botnetbuddies/prestashop-cve-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/botnetbuddies/prestashop-cve-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/botnetbuddies/prestashop-cve-2024-34716">
-- [TanveerS1ngh/Prestashop-CVE-2024-34716](https://github.com/TanveerS1ngh/Prestashop-CVE-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/TanveerS1ngh/Prestashop-CVE-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/TanveerS1ngh/Prestashop-CVE-2024-34716">
+- [0xDTC/Prestashop-CVE-2024-34716](https://github.com/0xDTC/Prestashop-CVE-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Prestashop-CVE-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Prestashop-CVE-2024-34716">
 
 ---
 ## CVE-2024-34693 (2024-06-20T09:15:00)

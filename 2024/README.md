@@ -408,6 +408,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/dovics/cve-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/dovics/cve-2024-7646">
 
 ---
+## CVE-2024-7627 ()
+> 
+- [siunam321/CVE-2024-7627-PoC](https://github.com/siunam321/CVE-2024-7627-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/siunam321/CVE-2024-7627-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/siunam321/CVE-2024-7627-PoC">
+
+---
 ## CVE-2024-7617 (2024-09-25T03:15:00)
 > The Contact Form to Any API plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Contact Form 7 form fields in all versions up to, and including, 1.2.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [maybeheisenberg/CVE-2024-7617](https://github.com/maybeheisenberg/CVE-2024-7617)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7617">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7617">
@@ -1580,6 +1585,7 @@ length to be included in the checksum calculation is fully consumed.
 - [SafeBreach-Labs/CVE-2024-49112](https://github.com/SafeBreach-Labs/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/CVE-2024-49112">
 - [BOl1o/CVE-2024-49112-RCE-PoC](https://github.com/BOl1o/CVE-2024-49112-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BOl1o/CVE-2024-49112-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BOl1o/CVE-2024-49112-RCE-PoC">
 - [CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112)	<img alt="forks" src="https://img.shields.io/github/forks/CCIEVoice2009/CVE-2024-49112">	<img alt="stars" src="https://img.shields.io/github/stars/CCIEVoice2009/CVE-2024-49112">
+- [bo0l3an/CVE-2024-49112-PoC](https://github.com/bo0l3an/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bo0l3an/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bo0l3an/CVE-2024-49112-PoC">
 
 ---
 ## CVE-2024-49039 ()

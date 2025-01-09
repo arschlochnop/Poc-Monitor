@@ -5815,6 +5815,11 @@ client config override policy, which can be used to control which Kafka client p
 - [ynwarcs/CVE-2023-24871](https://github.com/ynwarcs/CVE-2023-24871)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2023-24871">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2023-24871">
 
 ---
+## CVE-2023-24709 ()
+> 
+- [DRAGOWN/CVE-2023-24709-PoC](https://github.com/DRAGOWN/CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2023-24709-PoC">
+
+---
 ## CVE-2023-24706 ()
 > 
 - [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706)	<img alt="forks" src="https://img.shields.io/github/forks/hatjwe/CVE-2023-24706">	<img alt="stars" src="https://img.shields.io/github/stars/hatjwe/CVE-2023-24706">

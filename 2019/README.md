@@ -761,6 +761,7 @@
 - [GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736](https://github.com/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">
 - [HoangLai2k3/CVE_2019_5736](https://github.com/HoangLai2k3/CVE_2019_5736)	<img alt="forks" src="https://img.shields.io/github/forks/HoangLai2k3/CVE_2019_5736">	<img alt="stars" src="https://img.shields.io/github/stars/HoangLai2k3/CVE_2019_5736">
 - [sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism](https://github.com/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism)	<img alt="forks" src="https://img.shields.io/github/forks/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">	<img alt="stars" src="https://img.shields.io/github/stars/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">
+- [Baehr3/CVE-2019-5736-VMWareImage](https://github.com/Baehr3/CVE-2019-5736-VMWareImage)	<img alt="forks" src="https://img.shields.io/github/forks/Baehr3/CVE-2019-5736-VMWareImage">	<img alt="stars" src="https://img.shields.io/github/stars/Baehr3/CVE-2019-5736-VMWareImage">
 
 ---
 ## CVE-2019-5603 (2019-07-26T01:15:00)

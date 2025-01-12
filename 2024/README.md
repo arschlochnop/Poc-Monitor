@@ -67,6 +67,7 @@
 ## CVE-2024-9707 (2024-10-11T13:15:00)
 > The Hunk Companion plugin for WordPress is vulnerable to unauthorized plugin installation/activation due to a missing capability check on the /wp-json/hc/v1/themehunk-import REST API endpoint in all versions up to, and including, 1.8.4. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins which can be leveraged to achieve remote code execution if another vulnerable plugin is installed and activated.
 - [RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9707">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9707">
+- [Nxploited/CVE-2024-9707-Poc](https://github.com/Nxploited/CVE-2024-9707-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9707-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9707-Poc">
 
 ---
 ## CVE-2024-9680 (2024-10-09T13:15:00)

@@ -7807,6 +7807,7 @@ authentication.   
 ## CVE-2024-1247 ()
 > 
 - [Nxploited/CVE-2024-1247-PoC](https://github.com/Nxploited/CVE-2024-1247-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-1247-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-1247-PoC">
+- [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12471">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12471">
 
 ---
 ## CVE-2024-12356 ()

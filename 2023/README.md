@@ -4274,6 +4274,11 @@ We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
 - [uthrasri/CVE-2023-33902_single_file](https://github.com/uthrasri/CVE-2023-33902_single_file)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2023-33902_single_file">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2023-33902_single_file">
 
 ---
+## CVE-2023-3387 ()
+> 
+- [Godde3s/-CVE-2023-3387](https://github.com/Godde3s/-CVE-2023-3387)	<img alt="forks" src="https://img.shields.io/github/forks/Godde3s/-CVE-2023-3387">	<img alt="stars" src="https://img.shields.io/github/stars/Godde3s/-CVE-2023-3387">
+
+---
 ## CVE-2023-33831 (2023-09-18T20:15:00)
 > A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">

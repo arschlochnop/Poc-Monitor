@@ -5811,6 +5811,7 @@ client config override policy, which can be used to control which Kafka client p
 - [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Business1sg00d/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Business1sg00d/CVE-2023-25136">
 - [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Business1sg00d/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Business1sg00d/CVE-2023-25136">
 - [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-25136">
+- [mrmtwoj/CVE-2023-25136](https://github.com/mrmtwoj/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2023-25136">
 
 ---
 ## CVE-2023-24955 (2023-05-09T18:15:00)

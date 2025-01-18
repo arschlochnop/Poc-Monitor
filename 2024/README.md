@@ -1025,6 +1025,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [MarioTesoro/CVE-2024-54794](https://github.com/MarioTesoro/CVE-2024-54794)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-54794">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-54794">
 
 ---
+## CVE-2024-54792 ()
+> 
+- [MarioTesoro/CVE-2024-54792](https://github.com/MarioTesoro/CVE-2024-54792)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-54792">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-54792">
+
+---
 ## CVE-2024-54761 ()
 > 
 - [nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection">
@@ -3256,6 +3261,7 @@ For this to impact an application, all of the following must be true:
   *  It must have a non-permitAll authorization rule applied to the static resources support
 - [mouadk/cve-2024-38821](https://github.com/mouadk/cve-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/mouadk/cve-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/mouadk/cve-2024-38821">
 - [zetraxz/CVE-2024-38821](https://github.com/zetraxz/CVE-2024-38821)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-38821">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-38821">
+- [masa42/CVE-2024-38821-POC](https://github.com/masa42/CVE-2024-38821-POC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38821-POC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38821-POC">
 
 ---
 ## CVE-2024-38819 ()

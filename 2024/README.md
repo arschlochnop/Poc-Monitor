@@ -2896,6 +2896,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41570 ()
 > 
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
+- [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/Havoc-C2-SSRF-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/Havoc-C2-SSRF-poc">
 
 ---
 ## CVE-2024-41453 ()
@@ -6795,6 +6796,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23738 (2024-01-28T01:15:00)
 > An issue in Postman version 10.22 and before on macOS allows a remote attacker to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
+
+---
+## CVE-2024-23724 ()
+> 
+- [Youssefdds/CVE-2024-23724](https://github.com/Youssefdds/CVE-2024-23724)	<img alt="forks" src="https://img.shields.io/github/forks/Youssefdds/CVE-2024-23724">	<img alt="stars" src="https://img.shields.io/github/stars/Youssefdds/CVE-2024-23724">
 
 ---
 ## CVE-2024-23722 (2024-03-26T15:15:00)

@@ -1763,6 +1763,7 @@ length to be included in the checksum calculation is fully consumed.
 > 
 - [MrAle98/CVE-2024-49138-POC](https://github.com/MrAle98/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrAle98/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrAle98/CVE-2024-49138-POC">
 - [aspire20x/CVE-2024-49138-POC](https://github.com/aspire20x/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aspire20x/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aspire20x/CVE-2024-49138-POC">
+- [bananoname/CVE-2024-49138-POC](https://github.com/bananoname/CVE-2024-49138-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bananoname/CVE-2024-49138-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bananoname/CVE-2024-49138-POC">
 
 ---
 ## CVE-2024-49113 ()
@@ -8002,6 +8003,11 @@ authentication.   
 ## CVE-2024-1209 (2024-02-05T22:16:00)
 > The LearnDash LMS plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 4.10.1 via direct file access due to insufficient protection of uploaded assignments. This makes it possible for unauthenticated attackers to obtain those uploads.
 - [karlemilnikka/CVE-2024-1209](https://github.com/karlemilnikka/CVE-2024-1209)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1209">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1209">
+
+---
+## CVE-2024-12084 ()
+> 
+- [themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084)	<img alt="forks" src="https://img.shields.io/github/forks/themirze/cve-2024-12084">	<img alt="stars" src="https://img.shields.io/github/stars/themirze/cve-2024-12084">
 
 ---
 ## CVE-2024-1208 (2024-02-05T22:16:00)

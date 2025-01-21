@@ -2715,6 +2715,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [nikallass/CVE-2024-43468_mTLS_go](https://github.com/nikallass/CVE-2024-43468_mTLS_go)	<img alt="forks" src="https://img.shields.io/github/forks/nikallass/CVE-2024-43468_mTLS_go">	<img alt="stars" src="https://img.shields.io/github/stars/nikallass/CVE-2024-43468_mTLS_go">
 
 ---
+## CVE-2024-43451 ()
+> 
+- [RonF98/CVE-2024-43451-POC](https://github.com/RonF98/CVE-2024-43451-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2024-43451-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2024-43451-POC">
+
+---
 ## CVE-2024-43416 ()
 > 
 - [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
@@ -2923,6 +2928,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [chebuya/Havoc-C2-SSRF-poc](https://github.com/chebuya/Havoc-C2-SSRF-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/Havoc-C2-SSRF-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/Havoc-C2-SSRF-poc">
 - [Doc-Grinch/Havoc-CVE-2024-41570-and-RCE](https://github.com/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Doc-Grinch/Havoc-CVE-2024-41570-and-RCE">
 - [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
+- [sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/sebr-dev/Havoc-C2-SSRF-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/sebr-dev/Havoc-C2-SSRF-to-RCE">
 
 ---
 ## CVE-2024-41453 ()

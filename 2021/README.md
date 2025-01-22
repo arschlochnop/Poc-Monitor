@@ -2324,6 +2324,11 @@
 - [Live-Hack-CVE/CVE-2021-4147](https://github.com/Live-Hack-CVE/CVE-2021-4147)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4147">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4147">
 
 ---
+## CVE-2021-4145 ()
+> 
+- [Torinomii/CVE-2021-4145](https://github.com/Torinomii/CVE-2021-4145)	<img alt="forks" src="https://img.shields.io/github/forks/Torinomii/CVE-2021-4145">	<img alt="stars" src="https://img.shields.io/github/stars/Torinomii/CVE-2021-4145">
+
+---
 ## CVE-2021-41437 (2022-09-26T14:15:00)
 > An HTTP response splitting attack in web application in ASUS RT-AX88U before v3.0.0.4.388.20558 allows an attacker to craft a specific URL that if an authenticated victim visits it, the URL will give access to the cloud storage of the attacker.
 - [Live-Hack-CVE/CVE-2021-41437](https://github.com/Live-Hack-CVE/CVE-2021-41437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41437">

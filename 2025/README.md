@@ -17,6 +17,11 @@
 - [rxerium/CVE-2025-26465](https://github.com/rxerium/CVE-2025-26465)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26465">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26465">
 
 ---
+## CVE-2025-25968 ()
+> 
+- [padayali-JD/CVE-2025-25968](https://github.com/padayali-JD/CVE-2025-25968)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2025-25968">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2025-25968">
+
+---
 ## CVE-2025-25965 ()
 > 
 - [Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25965">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25965">
@@ -163,6 +168,7 @@
 - [dhmosfunk/7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/7-Zip-CVE-2025-0411-POC">
 - [CastroJared/7-Zip-CVE-2025-0411-POC](https://github.com/CastroJared/7-Zip-CVE-2025-0411-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CastroJared/7-Zip-CVE-2025-0411-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CastroJared/7-Zip-CVE-2025-0411-POC">
 - [iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-0411-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-0411-PoC">
+- [ishwardeepp/CVE-2025-0411-MoTW-PoC](https://github.com/ishwardeepp/CVE-2025-0411-MoTW-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-0411-MoTW-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-0411-MoTW-PoC">
 
 ---
 ## CVE-2025-0282 ()

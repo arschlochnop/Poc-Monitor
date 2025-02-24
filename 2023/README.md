@@ -6405,6 +6405,7 @@ For more details, please review the linked advisory on this CVE.
 - [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 - [MMarch7/weblogic_CVE-2023-21839_POC-EXP](https://github.com/MMarch7/weblogic_CVE-2023-21839_POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/MMarch7/weblogic_CVE-2023-21839_POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/MMarch7/weblogic_CVE-2023-21839_POC-EXP">
 - [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/ASkyeye/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/ASkyeye/CVE-2023-21839">
+- [outgoingcon/CVE-2023-21839](https://github.com/outgoingcon/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/outgoingcon/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/outgoingcon/CVE-2023-21839">
 
 ---
 ## CVE-2023-21768 (2023-01-10T22:15:00)

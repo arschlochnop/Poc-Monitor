@@ -192,6 +192,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)	<img alt="forks" src="https://img.shields.io/github/forks/s1204IT/CVE-2023-6241">	<img alt="stars" src="https://img.shields.io/github/stars/s1204IT/CVE-2023-6241">
 
 ---
+## CVE-2023-6199 ()
+> 
+- [AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199](https://github.com/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199)	<img alt="forks" src="https://img.shields.io/github/forks/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199">	<img alt="stars" src="https://img.shields.io/github/stars/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199">
+
+---
 ## CVE-2023-6036 (2024-02-12T16:15:00)
 > The Web3 WordPress plugin before 3.0.0 is vulnerable to an authentication bypass due to incorrect authentication checking in the login flow in functions 'handle_auth_request' and 'hadle_login_request'. This makes it possible for non authenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the username.
 - [pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)	<img alt="forks" src="https://img.shields.io/github/forks/pctripsesp/CVE-2023-6036">	<img alt="stars" src="https://img.shields.io/github/stars/pctripsesp/CVE-2023-6036">

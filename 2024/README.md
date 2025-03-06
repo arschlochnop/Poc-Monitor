@@ -5044,6 +5044,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
 - [Katherine-song/CVE-2024-32002](https://github.com/Katherine-song/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Katherine-song/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Katherine-song/CVE-2024-32002">
 - [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/CVE-2024-32002">
+- [ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/Cve-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/Cve-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)

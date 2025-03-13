@@ -27,5 +27,3 @@
 2. 只有`新增`才会触发通知，具体逻辑可自行修改 
 3. 修改`search.go`中通知函数更换通知渠道，具体可看[sari3l/notify](https://github.com/sari3l/notify)项目
 
-## 效果
-<img src="https://user-images.githubusercontent.com/45752995/179657618-4b42753b-4344-4cdd-a068-79bd33d2b33f.jpeg" width=20%>

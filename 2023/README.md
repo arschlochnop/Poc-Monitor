@@ -6688,6 +6688,11 @@ kernel memory, lateral privilege escalation, and container escape.
 - [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
 
 ---
+## CVE-2023-21125 ()
+> 
+- [Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo](https://github.com/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo)	<img alt="forks" src="https://img.shields.io/github/forks/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo">	<img alt="stars" src="https://img.shields.io/github/stars/Mahesh-970/Mahesh-970-CVE-2023-21125_bluedriod_repo">
+
+---
 ## CVE-2023-21118 (2023-05-15T22:15:00)
 > In unflattenString8 of Sensor.cpp, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-269014004
 - [nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118](https://github.com/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/Frameworks_native_AOSP_10_r33_CVE-2023-21118">
@@ -7192,7 +7197,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">
 - [sxlmnwb/CVE-2023-0386](https://github.com/sxlmnwb/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2023-0386">
 - [hshivhare67/kernel_v4.19.72_CVE-2023-0386](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0386">
-- [CKevens/CVE-2023-0386](https://github.com/CKevens/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-0386">
+- [AiK1d/CVE-2023-0386](https://github.com/AiK1d/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/AiK1d/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/AiK1d/CVE-2023-0386">
 - [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
 - [veritas501/CVE-2023-0386](https://github.com/veritas501/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2023-0386">
